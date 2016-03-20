@@ -1,0 +1,3100 @@
+<SDCCLIB>
+
+<INDEX>
+     19171
+<MODULE>
+usb_hid 11
+Fusb_hid$TEST0$0$0
+Fusb_hid$P1IF$0$0
+Fusb_hid$P$0$0
+Fusb_hid$_IRCON6$0$0
+Fusb_hid$P1_0$0$0
+Fusb_hid$P0_1$0$0
+Fusb_hid$U1UCR$0$0
+Fusb_hid$RNDL$0$0
+Fusb_hid$PCON$0$0
+Fusb_hid$DPL0$0$0
+Fusb_hid$USBCSIH$0$0
+Fusb_hid$TEST1$0$0
+Fusb_hid$U1FE$0$0
+Fusb_hid$B_0$0$0
+Fusb_hid$P2IF$0$0
+Fusb_hid$T3CH0IF$0$0
+Fusb_hid$P2_0$0$0
+Fusb_hid$P1_1$0$0
+Fusb_hid$P0_2$0$0
+Fusb_hid$DPL1$0$0
+Fusb_hid$TEST2$0$0
+Fusb_hid$B_1$0$0
+Fusb_hid$T4CH0IF$0$0
+Fusb_hid$T3CH1IF$0$0
+Fusb_hid$P2_1$0$0
+Fusb_hid$P1_2$0$0
+Fusb_hid$P0_3$0$0
+Fusb_hid$DMAARM$0$0
+Fusb_hid$I2SDATL$0$0
+Fusb_hid$PKTSTATUS$0$0
+Fusb_hid$B_2$0$0
+Fusb_hid$T4CH1IF$0$0
+Fusb_hid$T1IE$0$0
+Fusb_hid$P2_2$0$0
+Fusb_hid$_SOCON2$0$0
+Fusb_hid$P1_3$0$0
+Fusb_hid$P0_4$0$0
+Fusb_hid$PKTCTRL0$0$0
+Fusb_hid$B_3$0$0
+Fusb_hid$T1IF$0$0
+Fusb_hid$T2IE$0$0
+Fusb_hid$P2_3$0$0
+Fusb_hid$_SOCON3$0$0
+Fusb_hid$P1_4$0$0
+Fusb_hid$P0_5$0$0
+Fusb_hid$TCON$0$0
+Fusb_hid$USBCSIL$0$0
+Fusb_hid$PKTCTRL1$0$0
+Fusb_hid$B_4$0$0
+Fusb_hid$T2IF$0$0
+Fusb_hid$T3IE$0$0
+Fusb_hid$STIE$0$0
+Fusb_hid$P2_4$0$0
+Fusb_hid$_SOCON4$0$0
+Fusb_hid$P1_5$0$0
+Fusb_hid$P0_6$0$0
+Fusb_hid$B_5$0$0
+Fusb_hid$ACC_0$0$0
+Fusb_hid$STIF$0$0
+Fusb_hid$T3IF$0$0
+Fusb_hid$T4IE$0$0
+Fusb_hid$ADCIE$0$0
+Fusb_hid$P2_5$0$0
+Fusb_hid$_SOCON5$0$0
+Fusb_hid$P1_6$0$0
+Fusb_hid$P0_7$0$0
+Fusb_hid$USBCNTH$0$0
+Fusb_hid$USBCSOH$0$0
+Fusb_hid$USBFRMH$0$0
+Fusb_hid$B_6$0$0
+Fusb_hid$ACC_1$0$0
+Fusb_hid$T4IF$0$0
+Fusb_hid$P2_6$0$0
+Fusb_hid$_SOCON6$0$0
+Fusb_hid$P1_7$0$0
+Fusb_hid$ADCIF$0$0
+Fusb_hid$PERCFG$0$0
+Fusb_hid$FWDATA$0$0
+Fusb_hid$WORTIME0$0$0
+Fusb_hid$IOCFG0$0$0
+Fusb_hid$B_7$0$0
+Fusb_hid$ACC_2$0$0
+Fusb_hid$P2_7$0$0
+Fusb_hid$_SOCON7$0$0
+Fusb_hid$WORTIME1$0$0
+Fusb_hid$USBMAXI$0$0
+Fusb_hid$IOCFG1$0$0
+Fusb_hid$FSCAL0$0$0
+Fusb_hid$ACC_3$0$0
+Fusb_hid$FREQEST$0$0
+Fusb_hid$IOCFG2$0$0
+Fusb_hid$FSCAL1$0$0
+Fusb_hid$CHANNR$0$0
+Fusb_hid$ACC_4$0$0
+Fusb_hid$DMAREQ$0$0
+Fusb_hid$DMA0CFGH$0$0
+Fusb_hid$CLKCON$0$0
+Fusb_hid$USBCNTL$0$0
+Fusb_hid$USBCSOL$0$0
+Fusb_hid$USBFRML$0$0
+Fusb_hid$USBCIE$0$0
+Fusb_hid$FSCAL2$0$0
+Fusb_hid$ACC_5$0$0
+Fusb_hid$T1CCTL0$0$0
+Fusb_hid$DMA1CFGH$0$0
+Fusb_hid$USBCIF$0$0
+Fusb_hid$FSCAL3$0$0
+Fusb_hid$ACC_6$0$0
+Fusb_hid$RFTXRXIE$0$0
+Fusb_hid$T1CCTL1$0$0
+Fusb_hid$RFD$0$0
+Fusb_hid$U1RE$0$0
+Fusb_hid$ACC_7$0$0
+Fusb_hid$RFTXRXIF$0$0
+Fusb_hid$T1CCTL2$0$0
+Fusb_hid$T3CCTL0$0$0
+Fusb_hid$T2CT$0$0
+Fusb_hid$FSCTRL0$0$0
+Fusb_hid$T4CCTL0$0$0
+Fusb_hid$DMA0CFGL$0$0
+Fusb_hid$DMAIRQ$0$0
+Fusb_hid$T3CCTL1$0$0
+Fusb_hid$USBMAXO$0$0
+Fusb_hid$FREND0$0$0
+Fusb_hid$FSCTRL1$0$0
+Fusb_hid$T4CCTL1$0$0
+Fusb_hid$RFST$0$0
+Fusb_hid$DMA1CFGL$0$0
+Fusb_hid$FREND1$0$0
+Fusb_hid$DMAIE$0$0
+Fusb_hid$USBIIE$0$0
+Fusb_hid$RSSI$0$0
+Fusb_hid$U1SLAVE$0$0
+Fusb_hid$T3OVFIF$0$0
+Fusb_hid$DMAIF$0$0
+Fusb_hid$_IEN06$0$0
+Fusb_hid$FADDR$0$0
+Fusb_hid$U0BAUD$0$0
+Fusb_hid$USBIIF$0$0
+Fusb_hid$T4OVFIF$0$0
+Fusb_hid$_IEN16$0$0
+Fusb_hid$U1BAUD$0$0
+Fusb_hid$_IEN17$0$0
+Fusb_hid$T1CC0H$0$0
+Fusb_hid$ENCDI$0$0
+Fusb_hid$MARCSTATE$0$0
+Fusb_hid$AC$0$0
+Fusb_hid$ENCIE$0$0
+Fusb_hid$T1CC1H$0$0
+Fusb_hid$BSCFG$0$0
+Fusb_hid$T1CC2H$0$0
+Fusb_hid$LQI$0$0
+Fusb_hid$VERSION$0$0
+Fusb_hid$EA$0$0
+Fusb_hid$U0DBUF$0$0
+Fusb_hid$USBOIE$0$0
+Fusb_hid$VCO_VC_DAC$0$0
+Fusb_hid$PARTNUM$0$0
+Fusb_hid$U1DBUF$0$0
+Fusb_hid$T1CC0L$0$0
+Fusb_hid$DPS$0$0
+Fusb_hid$USBOIF$0$0
+Fusb_hid$T1CC1L$0$0
+Fusb_hid$MEMCTR$0$0
+Fusb_hid$T2PR$0$0
+Fusb_hid$T1CC2L$0$0
+Fusb_hid$ENCDO$0$0
+Fusb_hid$IP0$0$0
+Fusb_hid$I2SSTAT$0$0
+Fusb_hid$I2SWCNT$0$0
+Fusb_hid$IP1$0$0
+Fusb_hid$MPAGE$0$0
+Fusb_hid$U1MODE$0$0
+Fusb_hid$ENCCS$0$0
+Fusb_hid$IRCON2$0$0
+Fusb_hid$WORCTRL$0$0
+Fusb_hid$PKTLEN$0$0
+Fusb_hid$AGCCTRL0$0$0
+Fusb_hid$ADCH$0$0
+Fusb_hid$AGCCTRL1$0$0
+Fusb_hid$FWT$0$0
+Fusb_hid$AGCCTRL2$0$0
+Fusb_hid$DMA0CFG$0$0
+Fusb_hid$T1CNTH$0$0
+Fusb_hid$DMA1CFG$0$0
+Fusb_hid$ENCIF_0$0$0
+Fusb_hid$ADCL$0$0
+Fusb_hid$RS0$0$0
+Fusb_hid$ENCIF_1$0$0
+Fusb_hid$F0$0$0
+Fusb_hid$RS1$0$0
+Fusb_hid$T1CNTL$0$0
+Fusb_hid$P0IFG$0$0
+Fusb_hid$F1$0$0
+Fusb_hid$WOREVT0$0$0
+Fusb_hid$P1IFG$0$0
+Fusb_hid$ADCCFG$0$0
+Fusb_hid$WOREVT1$0$0
+Fusb_hid$P2IFG$0$0
+Fusb_hid$TIMIF$0$0
+Fusb_hid$SLEEP$0$0
+Fusb_hid$ADCCON1$0$0
+Fusb_hid$PSW$0$0
+Fusb_hid$ADCCON2$0$0
+Fusb_hid$ADDR$0$0
+Fusb_hid$IRCON$0$0
+Fusb_hid$ADCCON3$0$0
+Fusb_hid$CY$0$0
+Fusb_hid$PICTL$0$0
+Fusb_hid$URX0IE$0$0
+Fusb_hid$T3CC0$0$0
+Fusb_hid$P1IEN$0$0
+Fusb_hid$I2SCLKF0$0$0
+Fusb_hid$MDMCFG0$0$0
+Fusb_hid$FREQ0$0$0
+Fusb_hid$WDTIF$0$0
+Fusb_hid$URX1IE$0$0
+Fusb_hid$URX0IF$0$0
+Fusb_hid$T4CC0$0$0
+Fusb_hid$T3CC1$0$0
+Fusb_hid$WDCTL$0$0
+Fusb_hid$I2SCLKF1$0$0
+Fusb_hid$MDMCFG1$0$0
+Fusb_hid$FREQ1$0$0
+Fusb_hid$URX1IF$0$0
+Fusb_hid$P0DIR$0$0
+Fusb_hid$T4CC1$0$0
+Fusb_hid$USBF0$0$0
+Fusb_hid$USBPOW$0$0
+Fusb_hid$I2SCLKF2$0$0
+Fusb_hid$MCSM0$0$0
+Fusb_hid$MDMCFG2$0$0
+Fusb_hid$FREQ2$0$0
+Fusb_hid$UTX0IF$0$0
+Fusb_hid$P1DIR$0$0
+Fusb_hid$P0$0$0
+Fusb_hid$USBF1$0$0
+Fusb_hid$MCSM1$0$0
+Fusb_hid$MDMCFG3$0$0
+Fusb_hid$_IRCON25$0$0
+Fusb_hid$UTX1IF$0$0
+Fusb_hid$OVFIM$0$0
+Fusb_hid$P2DIR$0$0
+Fusb_hid$U0GCR$0$0
+Fusb_hid$P1$0$0
+Fusb_hid$USBF2$0$0
+Fusb_hid$USBINDEX$0$0
+Fusb_hid$MCSM2$0$0
+Fusb_hid$MDMCFG4$0$0
+Fusb_hid$U1ACTIVE$0$0
+Fusb_hid$_IRCON26$0$0
+Fusb_hid$_TCON_0$0$0
+Fusb_hid$U1GCR$0$0
+Fusb_hid$B$0$0
+Fusb_hid$P2$0$0
+Fusb_hid$USBF3$0$0
+Fusb_hid$U1RX_BYTE$0$0
+Fusb_hid$_IRCON27$0$0
+Fusb_hid$S0CON$0$0
+Fusb_hid$SP$0$0
+Fusb_hid$USBF4$0$0
+Fusb_hid$_TCON_2$0$0
+Fusb_hid$P0SEL$0$0
+Fusb_hid$WORIRQ$0$0
+Fusb_hid$S1CON$0$0
+Fusb_hid$USBF5$0$0
+Fusb_hid$USBADDR$0$0
+Fusb_hid$U1TX_BYTE$0$0
+Fusb_hid$OV$0$0
+Fusb_hid$P1SEL$0$0
+Fusb_hid$_TCON_4$0$0
+Fusb_hid$P2SEL$0$0
+Fusb_hid$RFIF$0$0
+Fusb_hid$ACC$0$0
+Fusb_hid$P0INP$0$0
+Fusb_hid$PA_TABLE0$0$0
+Fusb_hid$FOCCFG$0$0
+Fusb_hid$_TCON_6$0$0
+Fusb_hid$ADC$0$0
+Fusb_hid$P1INP$0$0
+Fusb_hid$T1CTL$0$0
+Fusb_hid$P2INP$0$0
+Fusb_hid$FCTL$0$0
+Fusb_hid$FADDRH$0$0
+Fusb_hid$T2CTL$0$0
+Fusb_hid$T3CTL$0$0
+Fusb_hid$DEVIATN$0$0
+Fusb_hid$T4CTL$0$0
+Fusb_hid$T3CNT$0$0
+Fusb_hid$RNDH$0$0
+Fusb_hid$IEN0$0$0
+Fusb_hid$DPH0$0$0
+Fusb_hid$SYNC0$0$0
+Fusb_hid$T4CNT$0$0
+Fusb_hid$IEN1$0$0
+Fusb_hid$FADDRL$0$0
+Fusb_hid$U0CSR$0$0
+Fusb_hid$DPH1$0$0
+Fusb_hid$I2SCFG0$0$0
+Fusb_hid$SYNC1$0$0
+Fusb_hid$P0IE$0$0
+Fusb_hid$U1CSR$0$0
+Fusb_hid$IEN2$0$0
+Fusb_hid$RFIM$0$0
+.__.ABS.
+Fusb_hid$I2SDATH$0$0
+Fusb_hid$I2SCFG1$0$0
+Fusb_hid$U1ERR$0$0
+Fusb_hid$_TIMIF7$0$0
+Fusb_hid$P0IF$0$0
+Fusb_hid$P0_0$0$0
+Fusb_hid$U0UCR$0$0
+Fusb_hid$ENDIAN$0$0
+LusbHidService$sloc0$1$0
+G$hidMouseProtocol$0$0
+_usbHidKeyboardInputUpdated
+_hidKeyboardProtocol
+G$usbHidKeyboardInputUpdated$0$0
+_usbHidMouseInputUpdated
+_usbHidJoystickInputUpdated
+G$hidKeyboardProtocol$0$0
+_hidMouseProtocol
+G$usbHidMouseInputUpdated$0$0
+G$usbHidJoystickInputUpdated$0$0
+LusbHidService$hidKeyboardLastReportTime$1$1
+LusbCallbackSetupHandler$response$1$1
+G$usbHidMouseInput$0$0
+G$usbHidJoystickInput$0$0
+_usbHidKeyboardInput
+_usbHidKeyboardOutput
+_hidKeyboardIdleDuration
+G$usbHidKeyboardInput$0$0
+G$usbHidKeyboardOutput$0$0
+_usbHidMouseInput
+G$hidKeyboardIdleDuration$0$0
+_usbHidJoystickInput
+C$usb_hid.c$371$1$1
+A$usb_hid$801
+C$usb_hid.c$372$1$1
+C$usb_hid.c$373$1$1
+C$usb_hid.c$553$2$1
+C$usb_hid.c$377$1$1
+A$usb_hid$780
+C$usb_hid.c$378$1$1
+A$usb_hid$781
+A$usb_hid$793
+A$usb_hid$785
+A$usb_hid$777
+A$usb_hid$778
+A$usb_hid$797
+A$usb_hid$779
+A$usb_hid$789
+A$usb_hid$1000
+A$usb_hid$1100
+A$usb_hid$1010
+A$usb_hid$1001
+_usbCallbackClassDescriptorHandler
+A$usb_hid$1200
+A$usb_hid$1011
+A$usb_hid$1002
+A$usb_hid$1300
+A$usb_hid$1201
+A$usb_hid$1120
+A$usb_hid$1030
+A$usb_hid$1012
+A$usb_hid$1003
+A$usb_hid$1301
+A$usb_hid$1220
+A$usb_hid$1202
+A$usb_hid$1121
+A$usb_hid$1040
+A$usb_hid$1500
+A$usb_hid$1410
+A$usb_hid$1320
+A$usb_hid$1302
+A$usb_hid$1221
+A$usb_hid$1212
+A$usb_hid$1203
+A$usb_hid$1140
+A$usb_hid$1131
+A$usb_hid$1113
+A$usb_hid$1050
+A$usb_hid$1041
+A$usb_hid$1023
+A$usb_hid$1600
+A$usb_hid$1510
+A$usb_hid$1501
+A$usb_hid$1411
+A$usb_hid$1321
+A$usb_hid$1303
+A$usb_hid$1222
+A$usb_hid$1204
+A$usb_hid$1141
+A$usb_hid$1132
+A$usb_hid$1114
+A$usb_hid$1105
+A$usb_hid$1042
+A$usb_hid$1033
+A$usb_hid$1024
+A$usb_hid$1015
+A$usb_hid$1006
+A$usb_hid$1610
+A$usb_hid$1601
+A$usb_hid$1520
+A$usb_hid$1511
+A$usb_hid$1502
+A$usb_hid$1412
+A$usb_hid$1403
+A$usb_hid$1340
+A$usb_hid$1322
+A$usb_hid$1313
+A$usb_hid$1304
+A$usb_hid$1223
+A$usb_hid$1205
+A$usb_hid$1160
+A$usb_hid$1142
+A$usb_hid$1133
+A$usb_hid$1115
+A$usb_hid$1070
+A$usb_hid$1043
+A$usb_hid$1034
+A$usb_hid$1025
+A$usb_hid$1007
+_usbHidService
+A$usb_hid$1620
+A$usb_hid$1611
+A$usb_hid$1602
+A$usb_hid$1530
+A$usb_hid$1521
+A$usb_hid$1512
+A$usb_hid$1503
+A$usb_hid$1422
+A$usb_hid$1413
+A$usb_hid$1350
+A$usb_hid$1323
+A$usb_hid$1314
+A$usb_hid$1305
+A$usb_hid$1251
+A$usb_hid$1224
+A$usb_hid$1206
+A$usb_hid$1161
+A$usb_hid$1143
+A$usb_hid$1134
+A$usb_hid$1125
+A$usb_hid$1116
+A$usb_hid$1107
+A$usb_hid$1080
+A$usb_hid$1071
+A$usb_hid$1062
+A$usb_hid$1053
+A$usb_hid$1044
+A$usb_hid$1035
+A$usb_hid$1026
+A$usb_hid$1017
+A$usb_hid$1008
+A$usb_hid$1630
+A$usb_hid$1603
+A$usb_hid$1540
+A$usb_hid$1531
+A$usb_hid$1522
+A$usb_hid$1513
+A$usb_hid$1504
+A$usb_hid$1441
+A$usb_hid$1423
+A$usb_hid$1360
+A$usb_hid$1351
+A$usb_hid$1324
+A$usb_hid$1315
+A$usb_hid$1216
+A$usb_hid$1207
+A$usb_hid$1171
+A$usb_hid$1162
+A$usb_hid$1153
+A$usb_hid$1144
+A$usb_hid$1135
+A$usb_hid$1126
+A$usb_hid$1117
+A$usb_hid$1090
+A$usb_hid$1081
+A$usb_hid$1072
+A$usb_hid$1054
+A$usb_hid$1045
+A$usb_hid$1036
+A$usb_hid$1027
+A$usb_hid$1009
+A$usb_hid$1640
+A$usb_hid$1631
+A$usb_hid$1604
+A$usb_hid$1550
+A$usb_hid$1541
+A$usb_hid$1532
+A$usb_hid$1523
+A$usb_hid$1514
+A$usb_hid$1505
+A$usb_hid$1424
+A$usb_hid$1370
+A$usb_hid$1352
+A$usb_hid$1343
+A$usb_hid$1334
+A$usb_hid$1325
+A$usb_hid$1307
+A$usb_hid$1280
+A$usb_hid$1235
+A$usb_hid$1217
+A$usb_hid$1181
+A$usb_hid$1163
+A$usb_hid$1154
+A$usb_hid$1127
+A$usb_hid$1118
+A$usb_hid$1091
+A$usb_hid$1082
+A$usb_hid$1073
+A$usb_hid$1064
+A$usb_hid$1055
+A$usb_hid$1046
+A$usb_hid$1037
+A$usb_hid$1028
+A$usb_hid$1650
+A$usb_hid$1632
+A$usb_hid$1623
+A$usb_hid$1614
+A$usb_hid$1560
+A$usb_hid$1551
+A$usb_hid$1542
+A$usb_hid$1533
+A$usb_hid$1524
+A$usb_hid$1515
+A$usb_hid$1506
+A$usb_hid$1425
+A$usb_hid$1407
+A$usb_hid$1380
+A$usb_hid$1371
+A$usb_hid$1353
+A$usb_hid$1335
+A$usb_hid$1308
+A$usb_hid$1281
+A$usb_hid$1218
+A$usb_hid$1182
+A$usb_hid$1164
+A$usb_hid$1155
+A$usb_hid$1119
+A$usb_hid$1092
+A$usb_hid$1083
+A$usb_hid$1074
+A$usb_hid$1056
+A$usb_hid$1047
+A$usb_hid$1038
+A$usb_hid$1029
+A$usb_hid$1633
+A$usb_hid$1624
+A$usb_hid$1570
+A$usb_hid$1561
+A$usb_hid$1552
+A$usb_hid$1543
+A$usb_hid$1534
+A$usb_hid$1525
+A$usb_hid$1516
+A$usb_hid$1507
+A$usb_hid$1480
+A$usb_hid$1426
+A$usb_hid$1408
+A$usb_hid$1381
+A$usb_hid$1372
+A$usb_hid$1354
+A$usb_hid$1336
+A$usb_hid$1309
+A$usb_hid$1291
+A$usb_hid$1282
+A$usb_hid$1273
+A$usb_hid$1219
+A$usb_hid$1183
+A$usb_hid$1165
+A$usb_hid$1156
+A$usb_hid$1138
+A$usb_hid$1093
+A$usb_hid$1084
+A$usb_hid$1075
+A$usb_hid$1057
+A$usb_hid$1048
+A$usb_hid$1039
+A$usb_hid$1670
+A$usb_hid$1643
+A$usb_hid$1634
+A$usb_hid$1625
+A$usb_hid$1607
+A$usb_hid$1571
+A$usb_hid$1562
+A$usb_hid$1553
+A$usb_hid$1535
+A$usb_hid$1526
+A$usb_hid$1517
+A$usb_hid$1508
+A$usb_hid$1490
+A$usb_hid$1427
+A$usb_hid$1418
+A$usb_hid$1409
+A$usb_hid$1382
+A$usb_hid$1373
+A$usb_hid$1355
+A$usb_hid$1337
+A$usb_hid$1328
+A$usb_hid$1319
+A$usb_hid$1283
+A$usb_hid$1265
+A$usb_hid$1229
+A$usb_hid$1193
+A$usb_hid$1184
+A$usb_hid$1166
+A$usb_hid$1157
+A$usb_hid$1139
+A$usb_hid$1094
+A$usb_hid$1085
+A$usb_hid$1076
+A$usb_hid$1058
+A$usb_hid$1049
+XG$usbCallbackClassDescriptorHandler$0$0
+A$usb_hid$1671
+A$usb_hid$1644
+A$usb_hid$1635
+A$usb_hid$1626
+A$usb_hid$1608
+A$usb_hid$1590
+A$usb_hid$1572
+A$usb_hid$1554
+A$usb_hid$1536
+A$usb_hid$1527
+A$usb_hid$1518
+A$usb_hid$1509
+A$usb_hid$1473
+A$usb_hid$1428
+A$usb_hid$1392
+A$usb_hid$1374
+A$usb_hid$1338
+A$usb_hid$1284
+A$usb_hid$1266
+A$usb_hid$1239
+A$usb_hid$1194
+A$usb_hid$1185
+A$usb_hid$1149
+A$usb_hid$1095
+A$usb_hid$1086
+A$usb_hid$1077
+A$usb_hid$1059
+A$usb_hid$1681
+A$usb_hid$1672
+A$usb_hid$1654
+A$usb_hid$1645
+A$usb_hid$1636
+A$usb_hid$1627
+A$usb_hid$1618
+A$usb_hid$1609
+A$usb_hid$1591
+A$usb_hid$1582
+A$usb_hid$1573
+A$usb_hid$1555
+A$usb_hid$1546
+A$usb_hid$1537
+A$usb_hid$1528
+A$usb_hid$1519
+A$usb_hid$1429
+A$usb_hid$1393
+A$usb_hid$1375
+A$usb_hid$1366
+A$usb_hid$1339
+A$usb_hid$1285
+A$usb_hid$1267
+A$usb_hid$1195
+A$usb_hid$1186
+A$usb_hid$1177
+A$usb_hid$1096
+A$usb_hid$1087
+A$usb_hid$1682
+A$usb_hid$1646
+A$usb_hid$1637
+A$usb_hid$1619
+A$usb_hid$1583
+A$usb_hid$1574
+A$usb_hid$1565
+A$usb_hid$1556
+A$usb_hid$1547
+A$usb_hid$1538
+A$usb_hid$1529
+A$usb_hid$1493
+A$usb_hid$1484
+A$usb_hid$1457
+A$usb_hid$1394
+A$usb_hid$1376
+A$usb_hid$1349
+A$usb_hid$1277
+A$usb_hid$1268
+A$usb_hid$1187
+A$usb_hid$1097
+A$usb_hid$1088
+A$usb_hid$1647
+A$usb_hid$1638
+A$usb_hid$1584
+A$usb_hid$1575
+A$usb_hid$1548
+A$usb_hid$1494
+A$usb_hid$1476
+A$usb_hid$1395
+A$usb_hid$1386
+A$usb_hid$1377
+A$usb_hid$1287
+A$usb_hid$1278
+A$usb_hid$1269
+A$usb_hid$1188
+A$usb_hid$1098
+A$usb_hid$1089
+A$usb_hid$1639
+A$usb_hid$1594
+A$usb_hid$1576
+A$usb_hid$1549
+A$usb_hid$1495
+A$usb_hid$1477
+A$usb_hid$1396
+A$usb_hid$1387
+A$usb_hid$1378
+A$usb_hid$1297
+A$usb_hid$1288
+A$usb_hid$1279
+A$usb_hid$1189
+A$usb_hid$1099
+A$usb_hid$1676
+A$usb_hid$1595
+A$usb_hid$1577
+A$usb_hid$1568
+A$usb_hid$1559
+A$usb_hid$1496
+A$usb_hid$1478
+A$usb_hid$1397
+A$usb_hid$1388
+A$usb_hid$1298
+A$usb_hid$1289
+A$usb_hid$1199
+XG$usbHidService$0$0
+A$usb_hid$1677
+A$usb_hid$1668
+A$usb_hid$1596
+A$usb_hid$1587
+A$usb_hid$1578
+A$usb_hid$1569
+A$usb_hid$1497
+A$usb_hid$1488
+A$usb_hid$1479
+A$usb_hid$1398
+A$usb_hid$1299
+C$usb_hid.c$501$2$2
+C$usb_hid.c$402$2$2
+A$usb_hid$1678
+A$usb_hid$1669
+A$usb_hid$1597
+A$usb_hid$1588
+A$usb_hid$1498
+A$usb_hid$1489
+C$usb_hid.c$504$1$1
+G$usbCallbackClassDescriptorHandler$0$0
+C$usb_hid.c$410$3$3
+C$usb_hid.c$403$2$2
+_usbHidKeyCodeFromAsciiChar
+A$usb_hid$1598
+A$usb_hid$1589
+A$usb_hid$1499
+C$usb_hid.c$730$1$1
+C$usb_hid.c$541$1$1
+C$usb_hid.c$440$2$2
+C$usb_hid.c$431$2$2
+C$usb_hid.c$420$3$3
+C$usb_hid.c$404$2$2
+_usbCallbackInitEndpoints
+A$usb_hid$1599
+C$usb_hid.c$731$1$1
+C$usb_hid.c$551$1$1
+C$usb_hid.c$542$1$1
+C$usb_hid.c$521$2$3
+C$usb_hid.c$510$3$4
+C$usb_hid.c$412$3$3
+C$usb_hid.c$540$2$3
+C$usb_hid.c$522$2$3
+C$usb_hid.c$520$3$4
+C$usb_hid.c$511$3$4
+C$usb_hid.c$422$3$3
+C$usb_hid.c$413$3$3
+C$usb_hid.c$406$2$2
+_usbCallbackControlWriteHandler
+A$usb_hid$910
+A$usb_hid$901
+C$usb_hid.c$560$2$2
+C$usb_hid.c$544$1$1
+C$usb_hid.c$512$3$4
+C$usb_hid.c$443$2$2
+C$usb_hid.c$434$2$2
+C$usb_hid.c$414$3$3
+C$usb_hid.c$384$0$0
+A$usb_hid$911
+C$usb_hid.c$581$1$1
+C$usb_hid.c$563$1$1
+C$usb_hid.c$530$3$5
+C$usb_hid.c$524$2$3
+C$usb_hid.c$506$2$3
+C$usb_hid.c$453$2$2
+C$usb_hid.c$444$2$2
+C$usb_hid.c$435$2$2
+C$usb_hid.c$426$2$2
+C$usb_hid.c$392$1$1
+A$usb_hid$930
+A$usb_hid$912
+A$usb_hid$840
+C$usb_hid.c$573$1$1
+C$usb_hid.c$570$2$3
+C$usb_hid.c$555$1$1
+C$usb_hid.c$514$3$4
+C$usb_hid.c$490$2$2
+C$usb_hid.c$472$2$2
+C$usb_hid.c$454$2$2
+C$usb_hid.c$427$2$2
+C$usb_hid.c$416$3$3
+G$usbHidService$0$0
+A$usb_hid$940
+A$usb_hid$931
+A$usb_hid$913
+A$usb_hid$841
+A$usb_hid$832
+C$usb_hid.c$583$1$1
+C$usb_hid.c$565$1$1
+C$usb_hid.c$547$1$1
+C$usb_hid.c$532$3$5
+C$usb_hid.c$526$2$3
+C$usb_hid.c$515$3$4
+C$usb_hid.c$508$2$3
+C$usb_hid.c$493$1$1
+C$usb_hid.c$473$2$2
+C$usb_hid.c$417$3$3
+C$usb_hid.c$408$3$3
+A$usb_hid$950
+A$usb_hid$941
+A$usb_hid$923
+A$usb_hid$914
+A$usb_hid$842
+A$usb_hid$833
+C$usb_hid.c$727$2$1
+C$usb_hid.c$575$1$1
+C$usb_hid.c$557$1$1
+C$usb_hid.c$533$3$5
+C$usb_hid.c$516$3$4
+C$usb_hid.c$494$1$1
+C$usb_hid.c$492$2$2
+C$usb_hid.c$418$3$3
+C$usb_hid.c$409$3$3
+C$usb_hid.c$386$1$1
+_usbCallbackSetupHandler
+A$usb_hid$960
+A$usb_hid$951
+A$usb_hid$933
+A$usb_hid$924
+A$usb_hid$915
+A$usb_hid$870
+A$usb_hid$852
+A$usb_hid$843
+A$usb_hid$834
+C$usb_hid.c$729$1$1
+C$usb_hid.c$534$3$5
+C$usb_hid.c$396$1$1
+C$usb_hid.c$387$1$1
+A$usb_hid$961
+A$usb_hid$934
+A$usb_hid$925
+A$usb_hid$907
+A$usb_hid$880
+A$usb_hid$871
+A$usb_hid$835
+C$usb_hid.c$518$3$4
+C$usb_hid.c$496$1$1
+C$usb_hid.c$461$3$7
+C$usb_hid.c$449$2$2
+C$usb_hid.c$397$1$1
+C$usb_hid.c$388$1$1
+A$usb_hid$980
+A$usb_hid$962
+A$usb_hid$935
+A$usb_hid$926
+A$usb_hid$908
+A$usb_hid$890
+A$usb_hid$881
+A$usb_hid$872
+A$usb_hid$836
+C$usb_hid.c$539$2$3
+C$usb_hid.c$536$3$5
+C$usb_hid.c$519$3$4
+C$usb_hid.c$486$2$2
+C$usb_hid.c$462$3$7
+C$usb_hid.c$437$3$5
+C$usb_hid.c$429$3$4
+C$usb_hid.c$389$1$1
+A$usb_hid$990
+A$usb_hid$981
+A$usb_hid$963
+A$usb_hid$954
+A$usb_hid$945
+A$usb_hid$927
+A$usb_hid$909
+A$usb_hid$882
+A$usb_hid$846
+XG$usbHidKeyCodeFromAsciiChar$0$0
+C$usb_hid.c$567$2$3
+C$usb_hid.c$537$3$5
+C$usb_hid.c$528$3$5
+C$usb_hid.c$487$2$2
+C$usb_hid.c$480$3$8
+C$usb_hid.c$463$3$7
+C$usb_hid.c$446$3$6
+C$usb_hid.c$438$3$5
+C$usb_hid.c$399$1$1
+A$usb_hid$964
+A$usb_hid$946
+A$usb_hid$928
+A$usb_hid$919
+A$usb_hid$892
+A$usb_hid$883
+A$usb_hid$847
+C$usb_hid.c$588$2$1
+C$usb_hid.c$584$2$5
+C$usb_hid.c$576$2$4
+C$usb_hid.c$568$2$3
+C$usb_hid.c$538$3$5
+C$usb_hid.c$529$3$5
+C$usb_hid.c$499$1$1
+C$usb_hid.c$488$2$2
+C$usb_hid.c$481$3$8
+C$usb_hid.c$464$3$7
+C$usb_hid.c$447$3$6
+XG$usbCallbackInitEndpoints$0$0
+A$usb_hid$965
+A$usb_hid$947
+A$usb_hid$929
+A$usb_hid$893
+A$usb_hid$884
+A$usb_hid$848
+A$usb_hid$839
+C$usb_hid.c$585$2$5
+C$usb_hid.c$577$2$4
+C$usb_hid.c$569$2$3
+C$usb_hid.c$456$3$7
+A$usb_hid$984
+A$usb_hid$975
+A$usb_hid$966
+A$usb_hid$948
+A$usb_hid$939
+A$usb_hid$876
+A$usb_hid$867
+A$usb_hid$849
+C$usb_hid.c$586$2$5
+C$usb_hid.c$578$2$4
+XG$usbCallbackControlWriteHandler$0$0
+C$usb_hid.c$483$3$8
+C$usb_hid.c$466$3$7
+C$usb_hid.c$457$3$7
+A$usb_hid$976
+A$usb_hid$949
+A$usb_hid$895
+A$usb_hid$886
+A$usb_hid$868
+C$usb_hid.c$475$3$8
+C$usb_hid.c$458$3$7
+A$usb_hid$977
+A$usb_hid$896
+A$usb_hid$887
+A$usb_hid$869
+C$usb_hid.c$485$3$8
+C$usb_hid.c$476$3$8
+C$usb_hid.c$468$3$7
+C$usb_hid.c$459$3$7
+A$usb_hid$996
+A$usb_hid$978
+A$usb_hid$969
+C$usb_hid.c$477$3$8
+A$usb_hid$997
+A$usb_hid$979
+A$usb_hid$898
+A$usb_hid$889
+A$usb_hid$998
+A$usb_hid$899
+XG$usbCallbackSetupHandler$0$0
+C$usb_hid.c$479$3$8
+G$usbHidKeyCodeFromAsciiChar$0$0
+A$usb_hid$999
+G$usbCallbackInitEndpoints$0$0
+G$usbCallbackControlWriteHandler$0$0
+G$usbCallbackSetupHandler$0$0
+Fusb_hid$keyboardName$0$0
+G$usbStringDescriptors$0$0
+Fusb_hid$languages$0$0
+_keyboardReportDescriptor
+G$hidKeyCode$0$0
+Fusb_hid$product$0$0
+_usbDeviceDescriptor
+Fusb_hid$mouseName$0$0
+Fusb_hid$manufacturer$0$0
+G$keyboardReportDescriptor$0$0
+_usbConfigurationDescriptor
+Fusb_hid$joystickName$0$0
+_mouseReportDescriptor
+_usbStringDescriptorCount
+_joystickReportDescriptor
+G$usbDeviceDescriptor$0$0
+_usbStringDescriptors
+G$usbConfigurationDescriptor$0$0
+G$mouseReportDescriptor$0$0
+_hidKeyCode
+G$usbStringDescriptorCount$0$0
+G$joystickReportDescriptor$0$0
+Fusb_hid$__xinit_usbHidKeyboardInput$0$0
+Fusb_hid$__xinit_usbHidKeyboardOutput$0$0
+Fusb_hid$__xinit_hidKeyboardIdleDuration$0$0
+Fusb_hid$__xinit_usbHidMouseInput$0$0
+Fusb_hid$__xinit_usbHidJoystickInput$0$0
+</MODULE>
+
+</INDEX>
+
+<FILES>
+
+<FILE>
+usb_hid
+<REL>
+;!FILE libraries/src/usb_hid/usb_hid.asm
+XH
+H 1B areas 407 global symbols
+M usb_hid
+O -mmcs51 --model-medium
+S Fusb_hid$TEST0$0$0 DefDF25
+S Fusb_hid$P1IF$0$0 Def00EB
+S Fusb_hid$P$0$0 Def00D0
+S Fusb_hid$_IRCON6$0$0 Def00C6
+S Fusb_hid$P1_0$0$0 Def0090
+S Fusb_hid$P0_1$0$0 Def0081
+S Fusb_hid$U1UCR$0$0 Def00FB
+S Fusb_hid$RNDL$0$0 Def00BC
+S Fusb_hid$PCON$0$0 Def0087
+S Fusb_hid$DPL0$0$0 Def0082
+S Fusb_hid$USBCSIH$0$0 DefDE12
+S Fusb_hid$TEST1$0$0 DefDF24
+S Fusb_hid$U1FE$0$0 Def00FC
+S Fusb_hid$B_0$0$0 Def00F0
+S Fusb_hid$P2IF$0$0 Def00E8
+S Fusb_hid$T3CH0IF$0$0 Def00D9
+S Fusb_hid$P2_0$0$0 Def00A0
+S Fusb_hid$P1_1$0$0 Def0091
+S Fusb_hid$P0_2$0$0 Def0082
+S Fusb_hid$DPL1$0$0 Def0084
+S Fusb_hid$TEST2$0$0 DefDF23
+S Fusb_hid$B_1$0$0 Def00F1
+S Fusb_hid$T4CH0IF$0$0 Def00DC
+S Fusb_hid$T3CH1IF$0$0 Def00DA
+S Fusb_hid$P2_1$0$0 Def00A1
+S Fusb_hid$P1_2$0$0 Def0092
+S Fusb_hid$P0_3$0$0 Def0083
+S Fusb_hid$DMAARM$0$0 Def00D6
+S Fusb_hid$I2SDATL$0$0 DefDF42
+S Fusb_hid$PKTSTATUS$0$0 DefDF3C
+S Fusb_hid$B_2$0$0 Def00F2
+S Fusb_hid$T4CH1IF$0$0 Def00DD
+S Fusb_hid$T1IE$0$0 Def00B9
+S Fusb_hid$P2_2$0$0 Def00A2
+S Fusb_hid$_SOCON2$0$0 Def009A
+S Fusb_hid$P1_3$0$0 Def0093
+S Fusb_hid$P0_4$0$0 Def0084
+S Fusb_hid$PKTCTRL0$0$0 DefDF04
+S Fusb_hid$B_3$0$0 Def00F3
+S Fusb_hid$T1IF$0$0 Def00C1
+S Fusb_hid$T2IE$0$0 Def00BA
+S Fusb_hid$P2_3$0$0 Def00A3
+S Fusb_hid$_SOCON3$0$0 Def009B
+S Fusb_hid$P1_4$0$0 Def0094
+S Fusb_hid$P0_5$0$0 Def0085
+S Fusb_hid$TCON$0$0 Def0088
+S Fusb_hid$USBCSIL$0$0 DefDE11
+S Fusb_hid$PKTCTRL1$0$0 DefDF03
+S Fusb_hid$B_4$0$0 Def00F4
+S Fusb_hid$T2IF$0$0 Def00C2
+S Fusb_hid$T3IE$0$0 Def00BB
+S Fusb_hid$STIE$0$0 Def00AD
+S Fusb_hid$P2_4$0$0 Def00A4
+S Fusb_hid$_SOCON4$0$0 Def009C
+S Fusb_hid$P1_5$0$0 Def0095
+S Fusb_hid$P0_6$0$0 Def0086
+S _usbControlRead Ref0000
+S Fusb_hid$B_5$0$0 Def00F5
+S Fusb_hid$ACC_0$0$0 Def00E0
+S Fusb_hid$STIF$0$0 Def00C7
+S Fusb_hid$T3IF$0$0 Def00C3
+S Fusb_hid$T4IE$0$0 Def00BC
+S Fusb_hid$ADCIE$0$0 Def00A9
+S Fusb_hid$P2_5$0$0 Def00A5
+S Fusb_hid$_SOCON5$0$0 Def009D
+S Fusb_hid$P1_6$0$0 Def0096
+S Fusb_hid$P0_7$0$0 Def0087
+S Fusb_hid$USBCNTH$0$0 DefDE17
+S Fusb_hid$USBCSOH$0$0 DefDE15
+S Fusb_hid$USBFRMH$0$0 DefDE0D
+S Fusb_hid$B_6$0$0 Def00F6
+S Fusb_hid$ACC_1$0$0 Def00E1
+S Fusb_hid$T4IF$0$0 Def00C4
+S Fusb_hid$P2_6$0$0 Def00A6
+S Fusb_hid$_SOCON6$0$0 Def009E
+S Fusb_hid$P1_7$0$0 Def0097
+S Fusb_hid$ADCIF$0$0 Def008D
+S Fusb_hid$PERCFG$0$0 Def00F1
+S Fusb_hid$FWDATA$0$0 Def00AF
+S Fusb_hid$WORTIME0$0$0 Def00A5
+S Fusb_hid$IOCFG0$0$0 DefDF31
+S Fusb_hid$B_7$0$0 Def00F7
+S Fusb_hid$ACC_2$0$0 Def00E2
+S Fusb_hid$P2_7$0$0 Def00A7
+S Fusb_hid$_SOCON7$0$0 Def009F
+S Fusb_hid$WORTIME1$0$0 Def00A6
+S Fusb_hid$USBMAXI$0$0 DefDE10
+S Fusb_hid$IOCFG1$0$0 DefDF30
+S Fusb_hid$FSCAL0$0$0 DefDF1F
+S Fusb_hid$ACC_3$0$0 Def00E3
+S Fusb_hid$FREQEST$0$0 DefDF38
+S Fusb_hid$IOCFG2$0$0 DefDF2F
+S Fusb_hid$FSCAL1$0$0 DefDF1E
+S Fusb_hid$CHANNR$0$0 DefDF06
+S Fusb_hid$ACC_4$0$0 Def00E4
+S Fusb_hid$DMAREQ$0$0 Def00D7
+S Fusb_hid$DMA0CFGH$0$0 Def00D5
+S Fusb_hid$CLKCON$0$0 Def00C6
+S Fusb_hid$USBCNTL$0$0 DefDE16
+S Fusb_hid$USBCSOL$0$0 DefDE14
+S Fusb_hid$USBFRML$0$0 DefDE0C
+S Fusb_hid$USBCIE$0$0 DefDE0B
+S Fusb_hid$FSCAL2$0$0 DefDF1D
+S Fusb_hid$ACC_5$0$0 Def00E5
+S Fusb_hid$T1CCTL0$0$0 Def00E5
+S Fusb_hid$DMA1CFGH$0$0 Def00D3
+S Fusb_hid$USBCIF$0$0 DefDE06
+S Fusb_hid$FSCAL3$0$0 DefDF1C
+S Fusb_hid$ACC_6$0$0 Def00E6
+S Fusb_hid$RFTXRXIE$0$0 Def00A8
+S Fusb_hid$T1CCTL1$0$0 Def00E6
+S Fusb_hid$RFD$0$0 Def00D9
+S Fusb_hid$U1RE$0$0 Def00FE
+S Fusb_hid$ACC_7$0$0 Def00E7
+S Fusb_hid$RFTXRXIF$0$0 Def0089
+S Fusb_hid$T1CCTL2$0$0 Def00E7
+S Fusb_hid$T3CCTL0$0$0 Def00CC
+S Fusb_hid$T2CT$0$0 Def009C
+S Fusb_hid$FSCTRL0$0$0 DefDF08
+S Fusb_hid$T4CCTL0$0$0 Def00EC
+S Fusb_hid$DMA0CFGL$0$0 Def00D4
+S Fusb_hid$DMAIRQ$0$0 Def00D1
+S Fusb_hid$T3CCTL1$0$0 Def00CE
+S Fusb_hid$USBMAXO$0$0 DefDE13
+S Fusb_hid$FREND0$0$0 DefDF1B
+S Fusb_hid$FSCTRL1$0$0 DefDF07
+S Fusb_hid$T4CCTL1$0$0 Def00EE
+S Fusb_hid$RFST$0$0 Def00E1
+S Fusb_hid$DMA1CFGL$0$0 Def00D2
+S Fusb_hid$FREND1$0$0 DefDF1A
+S Fusb_hid$DMAIE$0$0 Def00B8
+S Fusb_hid$USBIIE$0$0 DefDE07
+S Fusb_hid$RSSI$0$0 DefDF3A
+S Fusb_hid$U1SLAVE$0$0 Def00FD
+S Fusb_hid$T3OVFIF$0$0 Def00D8
+S Fusb_hid$DMAIF$0$0 Def00C0
+S Fusb_hid$_IEN06$0$0 Def00AE
+S Fusb_hid$FADDR$0$0 DefFFFFADAC
+S Fusb_hid$U0BAUD$0$0 Def00C2
+S _usbSetupPacket Ref0000
+S Fusb_hid$USBIIF$0$0 DefDE02
+S Fusb_hid$T4OVFIF$0$0 Def00DB
+S Fusb_hid$_IEN16$0$0 Def00BE
+S Fusb_hid$U1BAUD$0$0 Def00FA
+S Fusb_hid$_IEN17$0$0 Def00BF
+S Fusb_hid$T1CC0H$0$0 Def00DB
+S Fusb_hid$ENCDI$0$0 Def00B1
+S Fusb_hid$MARCSTATE$0$0 DefDF3B
+S Fusb_hid$AC$0$0 Def00D6
+S Fusb_hid$ENCIE$0$0 Def00AC
+S Fusb_hid$T1CC1H$0$0 Def00DD
+S _usbControlWrite Ref0000
+S _usbInitEndpointIn Ref0000
+S Fusb_hid$BSCFG$0$0 DefDF16
+S Fusb_hid$T1CC2H$0$0 Def00DF
+S Fusb_hid$LQI$0$0 DefDF39
+S Fusb_hid$VERSION$0$0 DefDF37
+S Fusb_hid$EA$0$0 Def00AF
+S Fusb_hid$U0DBUF$0$0 Def00C1
+S Fusb_hid$USBOIE$0$0 DefDE09
+S Fusb_hid$VCO_VC_DAC$0$0 DefDF3D
+S Fusb_hid$PARTNUM$0$0 DefDF36
+S Fusb_hid$U1DBUF$0$0 Def00F9
+S Fusb_hid$T1CC0L$0$0 Def00DA
+S Fusb_hid$DPS$0$0 Def0092
+S _usbWriteFifo_PARM_2 Ref0000
+S Fusb_hid$USBOIF$0$0 DefDE04
+S Fusb_hid$T1CC1L$0$0 Def00DC
+S Fusb_hid$MEMCTR$0$0 Def00C7
+S Fusb_hid$T2PR$0$0 Def009D
+S _usbWriteFifo_PARM_3 Ref0000
+S Fusb_hid$T1CC2L$0$0 Def00DE
+S Fusb_hid$ENCDO$0$0 Def00B2
+S Fusb_hid$IP0$0$0 Def00A9
+S Fusb_hid$I2SSTAT$0$0 DefDF45
+S Fusb_hid$I2SWCNT$0$0 DefDF44
+S Fusb_hid$IP1$0$0 Def00B9
+S Fusb_hid$MPAGE$0$0 Def0093
+S Fusb_hid$U1MODE$0$0 Def00FF
+S Fusb_hid$ENCCS$0$0 Def00B3
+S Fusb_hid$IRCON2$0$0 Def00E8
+S Fusb_hid$WORCTRL$0$0 Def00A2
+S Fusb_hid$PKTLEN$0$0 DefDF02
+S _usbPoll Ref0000
+S Fusb_hid$AGCCTRL0$0$0 DefDF19
+S Fusb_hid$ADCH$0$0 Def00BB
+S Fusb_hid$AGCCTRL1$0$0 DefDF18
+S Fusb_hid$FWT$0$0 Def00AB
+S Fusb_hid$AGCCTRL2$0$0 DefDF17
+S Fusb_hid$DMA0CFG$0$0 DefFFFFD5D4
+S Fusb_hid$T1CNTH$0$0 Def00E3
+S Fusb_hid$DMA1CFG$0$0 DefFFFFD3D2
+S Fusb_hid$ENCIF_0$0$0 Def0098
+S Fusb_hid$ADCL$0$0 Def00BA
+S Fusb_hid$RS0$0$0 Def00D3
+S Fusb_hid$ENCIF_1$0$0 Def0099
+S _usbControlRead_PARM_2 Ref0000
+S Fusb_hid$F0$0$0 Def00D5
+S Fusb_hid$RS1$0$0 Def00D4
+S Fusb_hid$T1CNTL$0$0 Def00E2
+S Fusb_hid$P0IFG$0$0 Def0089
+S Fusb_hid$F1$0$0 Def00D1
+S Fusb_hid$WOREVT0$0$0 Def00A3
+S Fusb_hid$P1IFG$0$0 Def008A
+S Fusb_hid$ADCCFG$0$0 Def00F2
+S Fusb_hid$WOREVT1$0$0 Def00A4
+S Fusb_hid$P2IFG$0$0 Def008B
+S Fusb_hid$TIMIF$0$0 Def00D8
+S Fusb_hid$SLEEP$0$0 Def00BE
+S Fusb_hid$ADCCON1$0$0 Def00B4
+S Fusb_hid$PSW$0$0 Def00D0
+S Fusb_hid$ADCCON2$0$0 Def00B5
+S Fusb_hid$ADDR$0$0 DefDF05
+S Fusb_hid$IRCON$0$0 Def00C0
+S Fusb_hid$ADCCON3$0$0 Def00B6
+S Fusb_hid$CY$0$0 Def00D7
+S Fusb_hid$PICTL$0$0 Def008C
+S Fusb_hid$URX0IE$0$0 Def00AA
+S Fusb_hid$T3CC0$0$0 Def00CD
+S Fusb_hid$P1IEN$0$0 Def008D
+S _usbControlAcknowledge Ref0000
+S Fusb_hid$I2SCLKF0$0$0 DefDF46
+S Fusb_hid$MDMCFG0$0$0 DefDF10
+S Fusb_hid$FREQ0$0$0 DefDF0B
+S Fusb_hid$WDTIF$0$0 Def00EC
+S Fusb_hid$URX1IE$0$0 Def00AB
+S Fusb_hid$URX0IF$0$0 Def008B
+S Fusb_hid$T4CC0$0$0 Def00ED
+S Fusb_hid$T3CC1$0$0 Def00CF
+S Fusb_hid$WDCTL$0$0 Def00C9
+S Fusb_hid$I2SCLKF1$0$0 DefDF47
+S Fusb_hid$MDMCFG1$0$0 DefDF0F
+S Fusb_hid$FREQ1$0$0 DefDF0A
+S Fusb_hid$URX1IF$0$0 Def008F
+S Fusb_hid$P0DIR$0$0 Def00FD
+S Fusb_hid$T4CC1$0$0 Def00EF
+S Fusb_hid$USBF0$0$0 DefDE20
+S Fusb_hid$USBPOW$0$0 DefDE01
+S Fusb_hid$I2SCLKF2$0$0 DefDF48
+S Fusb_hid$MCSM0$0$0 DefDF14
+S Fusb_hid$MDMCFG2$0$0 DefDF0E
+S Fusb_hid$FREQ2$0$0 DefDF09
+S Fusb_hid$UTX0IF$0$0 Def00E9
+S Fusb_hid$P1DIR$0$0 Def00FE
+S Fusb_hid$P0$0$0 Def0080
+S Fusb_hid$USBF1$0$0 DefDE22
+S Fusb_hid$MCSM1$0$0 DefDF13
+S Fusb_hid$MDMCFG3$0$0 DefDF0D
+S Fusb_hid$_IRCON25$0$0 Def00ED
+S Fusb_hid$UTX1IF$0$0 Def00EA
+S Fusb_hid$OVFIM$0$0 Def00DE
+S Fusb_hid$P2DIR$0$0 Def00FF
+S Fusb_hid$U0GCR$0$0 Def00C5
+S Fusb_hid$P1$0$0 Def0090
+S Fusb_hid$USBF2$0$0 DefDE24
+S Fusb_hid$USBINDEX$0$0 DefDE0E
+S Fusb_hid$MCSM2$0$0 DefDF12
+S Fusb_hid$MDMCFG4$0$0 DefDF0C
+S Fusb_hid$U1ACTIVE$0$0 Def00F8
+S Fusb_hid$_IRCON26$0$0 Def00EE
+S Fusb_hid$_TCON_0$0$0 Def0088
+S Fusb_hid$U1GCR$0$0 Def00FC
+S Fusb_hid$B$0$0 Def00F0
+S Fusb_hid$P2$0$0 Def00A0
+S Fusb_hid$USBF3$0$0 DefDE26
+S Fusb_hid$U1RX_BYTE$0$0 Def00FA
+S Fusb_hid$_IRCON27$0$0 Def00EF
+S Fusb_hid$S0CON$0$0 Def0098
+S Fusb_hid$SP$0$0 Def0081
+S Fusb_hid$USBF4$0$0 DefDE28
+S Fusb_hid$_TCON_2$0$0 Def008A
+S Fusb_hid$P0SEL$0$0 Def00F3
+S Fusb_hid$WORIRQ$0$0 Def00A1
+S Fusb_hid$S1CON$0$0 Def009B
+S _usbControlWrite_PARM_2 Ref0000
+S _usbInitEndpointIn_PARM_2 Ref0000
+S Fusb_hid$USBF5$0$0 DefDE2A
+S Fusb_hid$USBADDR$0$0 DefDE00
+S Fusb_hid$U1TX_BYTE$0$0 Def00F9
+S Fusb_hid$OV$0$0 Def00D2
+S Fusb_hid$P1SEL$0$0 Def00F4
+S Fusb_hid$_TCON_4$0$0 Def008C
+S Fusb_hid$P2SEL$0$0 Def00F5
+S Fusb_hid$RFIF$0$0 Def00E9
+S Fusb_hid$ACC$0$0 Def00E0
+S Fusb_hid$P0INP$0$0 Def008F
+S _usbWriteFifo Ref0000
+S Fusb_hid$PA_TABLE0$0$0 DefDF2E
+S Fusb_hid$FOCCFG$0$0 DefDF15
+S Fusb_hid$_TCON_6$0$0 Def008E
+S Fusb_hid$ADC$0$0 DefFFFFBBBA
+S Fusb_hid$P1INP$0$0 Def00F6
+S Fusb_hid$T1CTL$0$0 Def00E4
+S Fusb_hid$P2INP$0$0 Def00F7
+S Fusb_hid$FCTL$0$0 Def00AE
+S Fusb_hid$FADDRH$0$0 Def00AD
+S Fusb_hid$T2CTL$0$0 Def009E
+S _usbDeviceState Ref0000
+S Fusb_hid$T3CTL$0$0 Def00CB
+S Fusb_hid$DEVIATN$0$0 DefDF11
+S Fusb_hid$T4CTL$0$0 Def00EB
+S Fusb_hid$T3CNT$0$0 Def00CA
+S Fusb_hid$RNDH$0$0 Def00BD
+S Fusb_hid$IEN0$0$0 Def00A8
+S Fusb_hid$DPH0$0$0 Def0083
+S Fusb_hid$SYNC0$0$0 DefDF01
+S Fusb_hid$T4CNT$0$0 Def00EA
+S Fusb_hid$IEN1$0$0 Def00B8
+S Fusb_hid$FADDRL$0$0 Def00AC
+S Fusb_hid$U0CSR$0$0 Def0086
+S Fusb_hid$DPH1$0$0 Def0085
+S _serialNumberStringDescriptor Ref0000
+S Fusb_hid$I2SCFG0$0$0 DefDF40
+S Fusb_hid$SYNC1$0$0 DefDF00
+S Fusb_hid$P0IE$0$0 Def00BD
+S Fusb_hid$U1CSR$0$0 Def00F8
+S Fusb_hid$IEN2$0$0 Def009A
+S Fusb_hid$RFIM$0$0 Def0091
+S .__.ABS. Def0000
+S _getMs Ref0000
+S Fusb_hid$I2SDATH$0$0 DefDF43
+S Fusb_hid$I2SCFG1$0$0 DefDF41
+S Fusb_hid$U1ERR$0$0 Def00FB
+S Fusb_hid$_TIMIF7$0$0 Def00DF
+S Fusb_hid$P0IF$0$0 Def00C5
+S Fusb_hid$P0_0$0$0 Def0080
+S Fusb_hid$U0UCR$0$0 Def00C4
+S Fusb_hid$ENDIAN$0$0 Def0095
+A _CODE size 0 flags 0 addr 0
+A RSEG size 0 flags 8 addr 0
+A RSEG0 size 0 flags 8 addr 0
+A RSEG1 size 0 flags 8 addr 0
+A REG_BANK_0 size 8 flags 4 addr 0
+A DSEG size 4 flags 0 addr 0
+S LusbHidService$sloc0$1$0 Def0000
+A OSEG size 0 flags 4 addr 0
+A ISEG size 0 flags 0 addr 0
+A IABS size 0 flags 8 addr 0
+A BSEG size 5 flags 80 addr 0
+S G$hidMouseProtocol$0$0 Def0004
+S _usbHidKeyboardInputUpdated Def0000
+S _hidKeyboardProtocol Def0003
+S G$usbHidKeyboardInputUpdated$0$0 Def0000
+S _usbHidMouseInputUpdated Def0001
+S _usbHidJoystickInputUpdated Def0002
+S G$hidKeyboardProtocol$0$0 Def0003
+S _hidMouseProtocol Def0004
+S G$usbHidMouseInputUpdated$0$0 Def0001
+S G$usbHidJoystickInputUpdated$0$0 Def0002
+A PSEG size 0 flags 50 addr 0
+A XSEG size 3 flags 40 addr 0
+S LusbHidService$hidKeyboardLastReportTime$1$1 Def0001
+S LusbCallbackSetupHandler$response$1$1 Def0000
+A XABS size 0 flags 48 addr 0
+A XISEG size 17 flags 40 addr 0
+S G$usbHidMouseInput$0$0 Def0009
+S G$usbHidJoystickInput$0$0 Def000D
+S _usbHidKeyboardInput Def0001
+S _usbHidKeyboardOutput Def0000
+S _hidKeyboardIdleDuration Def0015
+S G$usbHidKeyboardInput$0$0 Def0001
+S G$usbHidKeyboardOutput$0$0 Def0000
+S _usbHidMouseInput Def0009
+S G$hidKeyboardIdleDuration$0$0 Def0015
+S _usbHidJoystickInput Def000D
+A HOME size 0 flags 20 addr 0
+A GSINIT0 size 0 flags 20 addr 0
+A GSINIT1 size 0 flags 20 addr 0
+A GSINIT2 size 0 flags 20 addr 0
+A GSINIT3 size 0 flags 20 addr 0
+A GSINIT4 size 0 flags 20 addr 0
+A GSINIT5 size 0 flags 20 addr 0
+A GSINIT size 11 flags 20 addr 0
+S C$usb_hid.c$371$1$1 Def0007
+S A$usb_hid$801 Def000F
+S C$usb_hid.c$372$1$1 Def0009
+S C$usb_hid.c$373$1$1 Def000B
+S C$usb_hid.c$553$2$1 Def0000
+S C$usb_hid.c$377$1$1 Def000D
+S A$usb_hid$780 Def0005
+S C$usb_hid.c$378$1$1 Def000F
+S A$usb_hid$781 Def0006
+S A$usb_hid$793 Def000B
+S A$usb_hid$785 Def0007
+S A$usb_hid$777 Def0000
+S A$usb_hid$778 Def0003
+S A$usb_hid$797 Def000D
+S A$usb_hid$779 Def0004
+S A$usb_hid$789 Def0009
+A GSFINAL size 0 flags 20 addr 0
+A CSEG size 375 flags 20 addr 0
+S A$usb_hid$1000 Def00C0
+S A$usb_hid$1100 Def012B
+S A$usb_hid$1010 Def00CB
+S A$usb_hid$1001 Def00C1
+S _usbCallbackClassDescriptorHandler Def01B2
+S A$usb_hid$1200 Def0192
+S A$usb_hid$1011 Def00CD
+S A$usb_hid$1002 Def00C2
+S A$usb_hid$1300 Def01DC
+S A$usb_hid$1201 Def0193
+S A$usb_hid$1120 Def013B
+S A$usb_hid$1030 Def00DE
+S A$usb_hid$1012 Def00CE
+S A$usb_hid$1003 Def00C3
+S A$usb_hid$1301 Def01DD
+S A$usb_hid$1220 Def01A4
+S A$usb_hid$1202 Def0194
+S A$usb_hid$1121 Def013E
+S A$usb_hid$1040 Def00E9
+S A$usb_hid$1500 Def0293
+S A$usb_hid$1410 Def0259
+S A$usb_hid$1320 Def01F9
+S A$usb_hid$1302 Def01DE
+S A$usb_hid$1221 Def01A5
+S A$usb_hid$1212 Def019C
+S A$usb_hid$1203 Def0195
+S A$usb_hid$1140 Def0154
+S A$usb_hid$1131 Def0148
+S A$usb_hid$1113 Def0130
+S A$usb_hid$1050 Def00F5
+S A$usb_hid$1041 Def00EA
+S A$usb_hid$1023 Def00D5
+S A$usb_hid$1600 Def031F
+S A$usb_hid$1510 Def02A9
+S A$usb_hid$1501 Def0294
+S A$usb_hid$1411 Def025A
+S A$usb_hid$1321 Def01FB
+S A$usb_hid$1303 Def01DF
+S A$usb_hid$1222 Def01A6
+S A$usb_hid$1204 Def0196
+S A$usb_hid$1141 Def0155
+S A$usb_hid$1132 Def014B
+S A$usb_hid$1114 Def0133
+S A$usb_hid$1105 Def012C
+S A$usb_hid$1042 Def00EB
+S A$usb_hid$1033 Def00E0
+S A$usb_hid$1024 Def00D8
+S A$usb_hid$1015 Def00D1
+S A$usb_hid$1006 Def00C5
+S A$usb_hid$1610 Def032E
+S A$usb_hid$1601 Def0320
+S A$usb_hid$1520 Def02B4
+S A$usb_hid$1511 Def02AA
+S A$usb_hid$1502 Def0296
+S A$usb_hid$1412 Def025C
+S A$usb_hid$1403 Def0251
+S A$usb_hid$1340 Def020F
+S A$usb_hid$1322 Def01FC
+S A$usb_hid$1313 Def01EF
+S A$usb_hid$1304 Def01E2
+S A$usb_hid$1223 Def01A7
+S A$usb_hid$1205 Def0197
+S A$usb_hid$1160 Def0167
+S A$usb_hid$1142 Def0156
+S A$usb_hid$1133 Def014D
+S A$usb_hid$1115 Def0134
+S A$usb_hid$1070 Def0106
+S A$usb_hid$1043 Def00EC
+S A$usb_hid$1034 Def00E3
+S A$usb_hid$1025 Def00D9
+S A$usb_hid$1007 Def00C7
+S _usbHidService Def0274
+S A$usb_hid$1620 Def0338
+S A$usb_hid$1611 Def0330
+S A$usb_hid$1602 Def0322
+S A$usb_hid$1530 Def02C3
+S A$usb_hid$1521 Def02B6
+S A$usb_hid$1512 Def02AB
+S A$usb_hid$1503 Def0299
+S A$usb_hid$1422 Def0263
+S A$usb_hid$1413 Def025D
+S A$usb_hid$1350 Def0217
+S A$usb_hid$1323 Def01FD
+S A$usb_hid$1314 Def01F2
+S A$usb_hid$1305 Def01E5
+S A$usb_hid$1251 Def01B1
+S A$usb_hid$1224 Def01A9
+S A$usb_hid$1206 Def0198
+S A$usb_hid$1161 Def0169
+S A$usb_hid$1143 Def0158
+S A$usb_hid$1134 Def014E
+S A$usb_hid$1125 Def0140
+S A$usb_hid$1116 Def0135
+S A$usb_hid$1107 Def012F
+S A$usb_hid$1080 Def0111
+S A$usb_hid$1071 Def0109
+S A$usb_hid$1062 Def0102
+S A$usb_hid$1053 Def00F6
+S A$usb_hid$1044 Def00ED
+S A$usb_hid$1035 Def00E4
+S A$usb_hid$1026 Def00DA
+S A$usb_hid$1017 Def00D4
+S A$usb_hid$1008 Def00C9
+S A$usb_hid$1630 Def0344
+S A$usb_hid$1603 Def0323
+S A$usb_hid$1540 Def02CD
+S A$usb_hid$1531 Def02C4
+S A$usb_hid$1522 Def02B7
+S A$usb_hid$1513 Def02AC
+S A$usb_hid$1504 Def029C
+S A$usb_hid$1441 Def0272
+S A$usb_hid$1423 Def0265
+S A$usb_hid$1360 Def0221
+S A$usb_hid$1351 Def0219
+S A$usb_hid$1324 Def01FF
+S A$usb_hid$1315 Def01F5
+S A$usb_hid$1216 Def019E
+S A$usb_hid$1207 Def019A
+S A$usb_hid$1171 Def0173
+S A$usb_hid$1162 Def016B
+S A$usb_hid$1153 Def015F
+S A$usb_hid$1144 Def0159
+S A$usb_hid$1135 Def014F
+S A$usb_hid$1126 Def0143
+S A$usb_hid$1117 Def0136
+S A$usb_hid$1090 Def011E
+S A$usb_hid$1081 Def0114
+S A$usb_hid$1072 Def010A
+S A$usb_hid$1054 Def00F8
+S A$usb_hid$1045 Def00EE
+S A$usb_hid$1036 Def00E5
+S A$usb_hid$1027 Def00DB
+S A$usb_hid$1009 Def00CA
+S A$usb_hid$1640 Def0355
+S A$usb_hid$1631 Def0346
+S A$usb_hid$1604 Def0326
+S A$usb_hid$1550 Def02DC
+S A$usb_hid$1541 Def02D0
+S A$usb_hid$1532 Def02C5
+S A$usb_hid$1523 Def02B8
+S A$usb_hid$1514 Def02AD
+S A$usb_hid$1505 Def029F
+S A$usb_hid$1424 Def0267
+S A$usb_hid$1370 Def0225
+S A$usb_hid$1352 Def021A
+S A$usb_hid$1343 Def0212
+S A$usb_hid$1334 Def0206
+S A$usb_hid$1325 Def0200
+S A$usb_hid$1307 Def01E7
+S A$usb_hid$1280 Def01C2
+S A$usb_hid$1235 Def01AD
+S A$usb_hid$1217 Def01A1
+S A$usb_hid$1181 Def0177
+S A$usb_hid$1163 Def016C
+S A$usb_hid$1154 Def0162
+S A$usb_hid$1127 Def0146
+S A$usb_hid$1118 Def0137
+S A$usb_hid$1091 Def011F
+S A$usb_hid$1082 Def0115
+S A$usb_hid$1073 Def010B
+S A$usb_hid$1064 Def0105
+S A$usb_hid$1055 Def00FA
+S A$usb_hid$1046 Def00EF
+S A$usb_hid$1037 Def00E6
+S A$usb_hid$1028 Def00DC
+S A$usb_hid$1650 Def0360
+S A$usb_hid$1632 Def0348
+S A$usb_hid$1623 Def0339
+S A$usb_hid$1614 Def0331
+S A$usb_hid$1560 Def02EC
+S A$usb_hid$1551 Def02DE
+S A$usb_hid$1542 Def02D1
+S A$usb_hid$1533 Def02C6
+S A$usb_hid$1524 Def02BA
+S A$usb_hid$1515 Def02AE
+S A$usb_hid$1506 Def02A2
+S A$usb_hid$1425 Def0268
+S A$usb_hid$1407 Def0254
+S A$usb_hid$1380 Def0235
+S A$usb_hid$1371 Def0228
+S A$usb_hid$1353 Def021B
+S A$usb_hid$1335 Def0208
+S A$usb_hid$1308 Def01EA
+S A$usb_hid$1281 Def01C3
+S A$usb_hid$1218 Def01A2
+S A$usb_hid$1182 Def017A
+S A$usb_hid$1164 Def016D
+S A$usb_hid$1155 Def0164
+S A$usb_hid$1119 Def0138
+S A$usb_hid$1092 Def0121
+S A$usb_hid$1083 Def0116
+S A$usb_hid$1074 Def010C
+S A$usb_hid$1056 Def00FB
+S A$usb_hid$1047 Def00F0
+S A$usb_hid$1038 Def00E7
+S A$usb_hid$1029 Def00DD
+S A$usb_hid$1633 Def0349
+S A$usb_hid$1624 Def033C
+S A$usb_hid$1570 Def02F7
+S A$usb_hid$1561 Def02ED
+S A$usb_hid$1552 Def02DF
+S A$usb_hid$1543 Def02D2
+S A$usb_hid$1534 Def02C7
+S A$usb_hid$1525 Def02BB
+S A$usb_hid$1516 Def02AF
+S A$usb_hid$1507 Def02A4
+S A$usb_hid$1480 Def027F
+S A$usb_hid$1426 Def0269
+S A$usb_hid$1408 Def0256
+S A$usb_hid$1381 Def0238
+S A$usb_hid$1372 Def0229
+S A$usb_hid$1354 Def021D
+S A$usb_hid$1336 Def020A
+S A$usb_hid$1309 Def01ED
+S A$usb_hid$1291 Def01D6
+S A$usb_hid$1282 Def01C4
+S A$usb_hid$1273 Def01BC
+S A$usb_hid$1219 Def01A3
+S A$usb_hid$1183 Def017B
+S A$usb_hid$1165 Def016F
+S A$usb_hid$1156 Def0165
+S A$usb_hid$1138 Def0150
+S A$usb_hid$1093 Def0122
+S A$usb_hid$1084 Def0117
+S A$usb_hid$1075 Def010D
+S A$usb_hid$1057 Def00FC
+S A$usb_hid$1048 Def00F1
+S A$usb_hid$1039 Def00E8
+S A$usb_hid$1670 Def0366
+S A$usb_hid$1643 Def0358
+S A$usb_hid$1634 Def034B
+S A$usb_hid$1625 Def033F
+S A$usb_hid$1607 Def0329
+S A$usb_hid$1571 Def02F9
+S A$usb_hid$1562 Def02EF
+S A$usb_hid$1553 Def02E0
+S A$usb_hid$1535 Def02C8
+S A$usb_hid$1526 Def02BD
+S A$usb_hid$1517 Def02B1
+S A$usb_hid$1508 Def02A7
+S A$usb_hid$1490 Def0287
+S A$usb_hid$1427 Def026B
+S A$usb_hid$1418 Def0260
+S A$usb_hid$1409 Def0258
+S A$usb_hid$1382 Def023B
+S A$usb_hid$1373 Def022A
+S A$usb_hid$1355 Def021E
+S A$usb_hid$1337 Def020B
+S A$usb_hid$1328 Def0203
+S A$usb_hid$1319 Def01F7
+S A$usb_hid$1283 Def01C6
+S A$usb_hid$1265 Def01B2
+S A$usb_hid$1229 Def01AB
+S A$usb_hid$1193 Def0187
+S A$usb_hid$1184 Def017C
+S A$usb_hid$1166 Def0170
+S A$usb_hid$1157 Def0166
+S A$usb_hid$1139 Def0152
+S A$usb_hid$1094 Def0123
+S A$usb_hid$1085 Def0118
+S A$usb_hid$1076 Def010E
+S A$usb_hid$1058 Def00FE
+S A$usb_hid$1049 Def00F4
+S XG$usbCallbackClassDescriptorHandler$0$0 Def0272
+S A$usb_hid$1671 Def0369
+S A$usb_hid$1644 Def035B
+S A$usb_hid$1635 Def034D
+S A$usb_hid$1626 Def0340
+S A$usb_hid$1608 Def032C
+S A$usb_hid$1590 Def0311
+S A$usb_hid$1572 Def02FB
+S A$usb_hid$1554 Def02E2
+S A$usb_hid$1536 Def02C9
+S A$usb_hid$1527 Def02BE
+S A$usb_hid$1518 Def02B2
+S A$usb_hid$1509 Def02A8
+S A$usb_hid$1473 Def0274
+S A$usb_hid$1428 Def026C
+S A$usb_hid$1392 Def0245
+S A$usb_hid$1374 Def022B
+S A$usb_hid$1338 Def020C
+S A$usb_hid$1284 Def01C9
+S A$usb_hid$1266 Def01B5
+S A$usb_hid$1239 Def01AE
+S A$usb_hid$1194 Def018A
+S A$usb_hid$1185 Def017D
+S A$usb_hid$1149 Def015C
+S A$usb_hid$1095 Def0124
+S A$usb_hid$1086 Def0119
+S A$usb_hid$1077 Def010F
+S A$usb_hid$1059 Def00FF
+S A$usb_hid$1681 Def0372
+S A$usb_hid$1672 Def036C
+S A$usb_hid$1654 Def0362
+S A$usb_hid$1645 Def035C
+S A$usb_hid$1636 Def034E
+S A$usb_hid$1627 Def0341
+S A$usb_hid$1618 Def0333
+S A$usb_hid$1609 Def032D
+S A$usb_hid$1591 Def0312
+S A$usb_hid$1582 Def0304
+S A$usb_hid$1573 Def02FC
+S A$usb_hid$1555 Def02E3
+S A$usb_hid$1546 Def02D5
+S A$usb_hid$1537 Def02CA
+S A$usb_hid$1528 Def02C1
+S A$usb_hid$1519 Def02B3
+S A$usb_hid$1429 Def026F
+S A$usb_hid$1393 Def0247
+S A$usb_hid$1375 Def022C
+S A$usb_hid$1366 Def0224
+S A$usb_hid$1339 Def020E
+S A$usb_hid$1285 Def01CC
+S A$usb_hid$1267 Def01B6
+S A$usb_hid$1195 Def018D
+S A$usb_hid$1186 Def017E
+S A$usb_hid$1177 Def0176
+S A$usb_hid$1096 Def0127
+S A$usb_hid$1087 Def011A
+S A$usb_hid$1682 Def0374
+S A$usb_hid$1646 Def035D
+S A$usb_hid$1637 Def034F
+S A$usb_hid$1619 Def0336
+S A$usb_hid$1583 Def0307
+S A$usb_hid$1574 Def02FF
+S A$usb_hid$1565 Def02F0
+S A$usb_hid$1556 Def02E6
+S A$usb_hid$1547 Def02D7
+S A$usb_hid$1538 Def02CB
+S A$usb_hid$1529 Def02C2
+S A$usb_hid$1493 Def0288
+S A$usb_hid$1484 Def0281
+S A$usb_hid$1457 Def0273
+S A$usb_hid$1394 Def0249
+S A$usb_hid$1376 Def022D
+S A$usb_hid$1349 Def0215
+S A$usb_hid$1277 Def01BD
+S A$usb_hid$1268 Def01B7
+S A$usb_hid$1187 Def017F
+S A$usb_hid$1097 Def0128
+S A$usb_hid$1088 Def011C
+S A$usb_hid$1647 Def035F
+S A$usb_hid$1638 Def0351
+S A$usb_hid$1584 Def0309
+S A$usb_hid$1575 Def0300
+S A$usb_hid$1548 Def02D9
+S A$usb_hid$1494 Def028B
+S A$usb_hid$1476 Def0277
+S A$usb_hid$1395 Def024A
+S A$usb_hid$1386 Def023D
+S A$usb_hid$1377 Def0230
+S A$usb_hid$1287 Def01CE
+S A$usb_hid$1278 Def01C0
+S A$usb_hid$1269 Def01BA
+S A$usb_hid$1188 Def0182
+S A$usb_hid$1098 Def0129
+S A$usb_hid$1089 Def011D
+S A$usb_hid$1639 Def0352
+S A$usb_hid$1594 Def0315
+S A$usb_hid$1576 Def0301
+S A$usb_hid$1549 Def02DA
+S A$usb_hid$1495 Def028E
+S A$usb_hid$1477 Def027A
+S A$usb_hid$1396 Def024B
+S A$usb_hid$1387 Def0240
+S A$usb_hid$1378 Def0233
+S A$usb_hid$1297 Def01D7
+S A$usb_hid$1288 Def01D1
+S A$usb_hid$1279 Def01C1
+S A$usb_hid$1189 Def0185
+S A$usb_hid$1099 Def012A
+S A$usb_hid$1676 Def036D
+S A$usb_hid$1595 Def0317
+S A$usb_hid$1577 Def0302
+S A$usb_hid$1568 Def02F2
+S A$usb_hid$1559 Def02E9
+S A$usb_hid$1496 Def028F
+S A$usb_hid$1478 Def027B
+S A$usb_hid$1397 Def024D
+S A$usb_hid$1388 Def0243
+S A$usb_hid$1298 Def01DA
+S A$usb_hid$1289 Def01D4
+S A$usb_hid$1199 Def018F
+S XG$usbHidService$0$0 Def0362
+S A$usb_hid$1677 Def036E
+S A$usb_hid$1668 Def0363
+S A$usb_hid$1596 Def0319
+S A$usb_hid$1587 Def030A
+S A$usb_hid$1578 Def0303
+S A$usb_hid$1569 Def02F5
+S A$usb_hid$1497 Def0290
+S A$usb_hid$1488 Def0282
+S A$usb_hid$1479 Def027C
+S A$usb_hid$1398 Def024E
+S A$usb_hid$1299 Def01DB
+S C$usb_hid.c$501$2$2 Def01BC
+S C$usb_hid.c$402$2$2 Def005A
+S A$usb_hid$1678 Def0371
+S A$usb_hid$1669 Def0365
+S A$usb_hid$1597 Def031A
+S A$usb_hid$1588 Def030D
+S A$usb_hid$1498 Def0291
+S A$usb_hid$1489 Def0285
+S C$usb_hid.c$504$1$1 Def01BD
+S G$usbCallbackClassDescriptorHandler$0$0 Def01B2
+S C$usb_hid.c$410$3$3 Def0098
+S C$usb_hid.c$403$2$2 Def005A
+S _usbHidKeyCodeFromAsciiChar Def0363
+S A$usb_hid$1598 Def031C
+S A$usb_hid$1589 Def0310
+S A$usb_hid$1499 Def0292
+S C$usb_hid.c$730$1$1 Def036D
+S C$usb_hid.c$541$1$1 Def0272
+S C$usb_hid.c$440$2$2 Def0102
+S C$usb_hid.c$431$2$2 Def00D1
+S C$usb_hid.c$420$3$3 Def00B9
+S C$usb_hid.c$404$2$2 Def006B
+S _usbCallbackInitEndpoints Def0000
+S A$usb_hid$1599 Def031E
+S C$usb_hid.c$731$1$1 Def0372
+S C$usb_hid.c$551$1$1 Def0274
+S C$usb_hid.c$542$1$1 Def0272
+S C$usb_hid.c$521$2$3 Def0221
+S C$usb_hid.c$510$3$4 Def01EF
+S C$usb_hid.c$412$3$3 Def009B
+S C$usb_hid.c$540$2$3 Def0272
+S C$usb_hid.c$522$2$3 Def0224
+S C$usb_hid.c$520$3$4 Def0221
+S C$usb_hid.c$511$3$4 Def01F7
+S C$usb_hid.c$422$3$3 Def00B9
+S C$usb_hid.c$413$3$3 Def009B
+S C$usb_hid.c$406$2$2 Def006C
+S _usbCallbackControlWriteHandler Def0273
+S A$usb_hid$910 Def005F
+S A$usb_hid$901 Def0057
+S C$usb_hid.c$560$2$2 Def0281
+S C$usb_hid.c$544$1$1 Def0273
+S C$usb_hid.c$512$3$4 Def0203
+S C$usb_hid.c$443$2$2 Def0106
+S C$usb_hid.c$434$2$2 Def00D5
+S C$usb_hid.c$414$3$3 Def00A7
+S C$usb_hid.c$384$0$0 Def0000
+S A$usb_hid$911 Def0060
+S C$usb_hid.c$581$1$1 Def0333
+S C$usb_hid.c$563$1$1 Def0282
+S C$usb_hid.c$530$3$5 Def0251
+S C$usb_hid.c$524$2$3 Def0224
+S C$usb_hid.c$506$2$3 Def01D7
+S C$usb_hid.c$453$2$2 Def0130
+S C$usb_hid.c$444$2$2 Def0106
+S C$usb_hid.c$435$2$2 Def00D5
+S C$usb_hid.c$426$2$2 Def00BA
+S C$usb_hid.c$392$1$1 Def0021
+S A$usb_hid$930 Def0077
+S A$usb_hid$912 Def0061
+S A$usb_hid$840 Def000D
+S C$usb_hid.c$573$1$1 Def0304
+S C$usb_hid.c$570$2$3 Def02F2
+S C$usb_hid.c$555$1$1 Def0274
+S C$usb_hid.c$514$3$4 Def0206
+S C$usb_hid.c$490$2$2 Def01B1
+S C$usb_hid.c$472$2$2 Def0176
+S C$usb_hid.c$454$2$2 Def0130
+S C$usb_hid.c$427$2$2 Def00BA
+S C$usb_hid.c$416$3$3 Def00AA
+S G$usbHidService$0$0 Def0274
+S A$usb_hid$940 Def0087
+S A$usb_hid$931 Def007A
+S A$usb_hid$913 Def0063
+S A$usb_hid$841 Def000F
+S A$usb_hid$832 Def0000
+S C$usb_hid.c$583$1$1 Def0339
+S C$usb_hid.c$565$1$1 Def0288
+S C$usb_hid.c$547$1$1 Def0273
+S C$usb_hid.c$532$3$5 Def0251
+S C$usb_hid.c$526$2$3 Def0225
+S C$usb_hid.c$515$3$4 Def0206
+S C$usb_hid.c$508$2$3 Def01D7
+S C$usb_hid.c$493$1$1 Def01B1
+S C$usb_hid.c$473$2$2 Def0177
+S C$usb_hid.c$417$3$3 Def00AA
+S C$usb_hid.c$408$3$3 Def0084
+S A$usb_hid$950 Def0094
+S A$usb_hid$941 Def008A
+S A$usb_hid$923 Def006C
+S A$usb_hid$914 Def0066
+S A$usb_hid$842 Def0010
+S A$usb_hid$833 Def0002
+S C$usb_hid.c$727$2$1 Def0363
+S C$usb_hid.c$575$1$1 Def030A
+S C$usb_hid.c$557$1$1 Def0277
+S C$usb_hid.c$533$3$5 Def0254
+S C$usb_hid.c$516$3$4 Def0212
+S C$usb_hid.c$494$1$1 Def01B1
+S C$usb_hid.c$492$2$2 Def01B1
+S C$usb_hid.c$418$3$3 Def00B6
+S C$usb_hid.c$409$3$3 Def008C
+S C$usb_hid.c$386$1$1 Def0000
+S _usbCallbackSetupHandler Def0021
+S A$usb_hid$960 Def009B
+S A$usb_hid$951 Def0095
+S A$usb_hid$933 Def007C
+S A$usb_hid$924 Def006F
+S A$usb_hid$915 Def0069
+S A$usb_hid$870 Def0026
+S A$usb_hid$852 Def001E
+S A$usb_hid$843 Def0013
+S A$usb_hid$834 Def0004
+S C$usb_hid.c$729$1$1 Def0363
+S C$usb_hid.c$534$3$5 Def0260
+S C$usb_hid.c$396$1$1 Def0021
+S C$usb_hid.c$387$1$1 Def000B
+S A$usb_hid$961 Def009D
+S A$usb_hid$934 Def007F
+S A$usb_hid$925 Def0070
+S A$usb_hid$907 Def005A
+S A$usb_hid$880 Def002F
+S A$usb_hid$871 Def0029
+S A$usb_hid$835 Def0005
+S C$usb_hid.c$518$3$4 Def0215
+S C$usb_hid.c$496$1$1 Def01B2
+S C$usb_hid.c$461$3$7 Def015C
+S C$usb_hid.c$449$2$2 Def012C
+S C$usb_hid.c$397$1$1 Def002E
+S C$usb_hid.c$388$1$1 Def0016
+S A$usb_hid$980 Def00B2
+S A$usb_hid$962 Def009F
+S A$usb_hid$935 Def0082
+S A$usb_hid$926 Def0071
+S A$usb_hid$908 Def005D
+S A$usb_hid$890 Def0042
+S A$usb_hid$881 Def0032
+S A$usb_hid$872 Def002C
+S A$usb_hid$836 Def0008
+S C$usb_hid.c$539$2$3 Def0272
+S C$usb_hid.c$536$3$5 Def0260
+S C$usb_hid.c$519$3$4 Def0215
+S C$usb_hid.c$486$2$2 Def01AD
+S C$usb_hid.c$462$3$7 Def015F
+S C$usb_hid.c$437$3$5 Def00E0
+S C$usb_hid.c$429$3$4 Def00C5
+S C$usb_hid.c$389$1$1 Def001E
+S A$usb_hid$990 Def00B9
+S A$usb_hid$981 Def00B3
+S A$usb_hid$963 Def00A0
+S A$usb_hid$954 Def0098
+S A$usb_hid$945 Def008C
+S A$usb_hid$927 Def0072
+S A$usb_hid$909 Def005E
+S A$usb_hid$882 Def0033
+S A$usb_hid$846 Def0016
+S XG$usbHidKeyCodeFromAsciiChar$0$0 Def0372
+S C$usb_hid.c$567$2$3 Def02D5
+S C$usb_hid.c$537$3$5 Def0263
+S C$usb_hid.c$528$3$5 Def023D
+S C$usb_hid.c$487$2$2 Def01AE
+S C$usb_hid.c$480$3$8 Def019E
+S C$usb_hid.c$463$3$7 Def0167
+S C$usb_hid.c$446$3$6 Def0111
+S C$usb_hid.c$438$3$5 Def00F6
+S C$usb_hid.c$399$1$1 Def002F
+S A$usb_hid$964 Def00A1
+S A$usb_hid$946 Def008E
+S A$usb_hid$928 Def0073
+S A$usb_hid$919 Def006B
+S A$usb_hid$892 Def0045
+S A$usb_hid$883 Def0034
+S A$usb_hid$847 Def0018
+S C$usb_hid.c$588$2$1 Def0362
+S C$usb_hid.c$584$2$5 Def0344
+S C$usb_hid.c$576$2$4 Def0315
+S C$usb_hid.c$568$2$3 Def02E9
+S C$usb_hid.c$538$3$5 Def0272
+S C$usb_hid.c$529$3$5 Def0245
+S C$usb_hid.c$499$1$1 Def01B2
+S C$usb_hid.c$488$2$2 Def01B1
+S C$usb_hid.c$481$3$8 Def01AB
+S C$usb_hid.c$464$3$7 Def0173
+S C$usb_hid.c$447$3$6 Def012C
+S XG$usbCallbackInitEndpoints$0$0 Def001E
+S A$usb_hid$965 Def00A3
+S A$usb_hid$947 Def0090
+S A$usb_hid$929 Def0074
+S A$usb_hid$893 Def0048
+S A$usb_hid$884 Def0037
+S A$usb_hid$848 Def001A
+S A$usb_hid$839 Def000B
+S C$usb_hid.c$585$2$5 Def0358
+S C$usb_hid.c$577$2$4 Def0329
+S C$usb_hid.c$569$2$3 Def02F0
+S C$usb_hid.c$456$3$7 Def0140
+S A$usb_hid$984 Def00B6
+S A$usb_hid$975 Def00AA
+S A$usb_hid$966 Def00A4
+S A$usb_hid$948 Def0091
+S A$usb_hid$939 Def0084
+S A$usb_hid$876 Def002E
+S A$usb_hid$867 Def0021
+S A$usb_hid$849 Def001B
+S C$usb_hid.c$586$2$5 Def0360
+S C$usb_hid.c$578$2$4 Def0331
+S XG$usbCallbackControlWriteHandler$0$0 Def0273
+S C$usb_hid.c$483$3$8 Def01AB
+S C$usb_hid.c$466$3$7 Def0173
+S C$usb_hid.c$457$3$7 Def0148
+S A$usb_hid$976 Def00AC
+S A$usb_hid$949 Def0092
+S A$usb_hid$895 Def004B
+S A$usb_hid$886 Def0039
+S A$usb_hid$868 Def0024
+S C$usb_hid.c$475$3$8 Def0187
+S C$usb_hid.c$458$3$7 Def0150
+S A$usb_hid$977 Def00AE
+S A$usb_hid$896 Def004E
+S A$usb_hid$887 Def003C
+S A$usb_hid$869 Def0025
+S C$usb_hid.c$485$3$8 Def01AD
+S C$usb_hid.c$476$3$8 Def018F
+S C$usb_hid.c$468$3$7 Def0176
+S C$usb_hid.c$459$3$7 Def015C
+S A$usb_hid$996 Def00BA
+S A$usb_hid$978 Def00AF
+S A$usb_hid$969 Def00A7
+S C$usb_hid.c$477$3$8 Def019C
+S A$usb_hid$997 Def00BD
+S A$usb_hid$979 Def00B0
+S A$usb_hid$898 Def0051
+S A$usb_hid$889 Def003F
+S A$usb_hid$998 Def00BE
+S A$usb_hid$899 Def0054
+S XG$usbCallbackSetupHandler$0$0 Def01B1
+S C$usb_hid.c$479$3$8 Def019C
+S G$usbHidKeyCodeFromAsciiChar$0$0 Def0363
+S A$usb_hid$999 Def00BF
+S G$usbCallbackInitEndpoints$0$0 Def0000
+S G$usbCallbackControlWriteHandler$0$0 Def0273
+S G$usbCallbackSetupHandler$0$0 Def0021
+A CONST size 219 flags 20 addr 0
+S Fusb_hid$keyboardName$0$0 Def0137
+S G$usbStringDescriptors$0$0 Def018B
+S Fusb_hid$languages$0$0 Def0101
+S _keyboardReportDescriptor Def0012
+S G$hidKeyCode$0$0 Def0199
+S Fusb_hid$product$0$0 Def012B
+S _usbDeviceDescriptor Def0000
+S Fusb_hid$mouseName$0$0 Def0155
+S Fusb_hid$manufacturer$0$0 Def0105
+S G$keyboardReportDescriptor$0$0 Def0012
+S _usbConfigurationDescriptor Def00AC
+S Fusb_hid$joystickName$0$0 Def016D
+S _mouseReportDescriptor Def004C
+S _usbStringDescriptorCount Def0100
+S _joystickReportDescriptor Def007A
+S G$usbDeviceDescriptor$0$0 Def0000
+S _usbStringDescriptors Def018B
+S G$usbConfigurationDescriptor$0$0 Def00AC
+S G$mouseReportDescriptor$0$0 Def004C
+S _hidKeyCode Def0199
+S G$usbStringDescriptorCount$0$0 Def0100
+S G$joystickReportDescriptor$0$0 Def007A
+A XINIT size 17 flags 20 addr 0
+S Fusb_hid$__xinit_usbHidKeyboardInput$0$0 Def0001
+S Fusb_hid$__xinit_usbHidKeyboardOutput$0$0 Def0000
+S Fusb_hid$__xinit_hidKeyboardIdleDuration$0$0 Def0015
+S Fusb_hid$__xinit_usbHidMouseInput$0$0 Def0009
+S Fusb_hid$__xinit_usbHidJoystickInput$0$0 Def000D
+A CABS size 0 flags 28 addr 0
+T 00 00
+R 00 00 00 02
+T 00 00
+R 00 00 00 03
+T 00 00
+R 00 00 00 04
+T 00 00
+R 00 00 00 05
+T 00 00
+R 00 00 00 05
+T 00 00
+R 00 00 00 09
+T 00 00
+R 00 00 00 09
+T 00 01
+R 00 00 00 09
+T 00 01
+R 00 00 00 09
+T 00 02
+R 00 00 00 09
+T 00 02
+R 00 00 00 09
+T 00 03
+R 00 00 00 09
+T 00 03
+R 00 00 00 09
+T 00 04
+R 00 00 00 09
+T 00 04
+R 00 00 00 09
+T 00 00
+R 00 00 00 0B
+T 00 00
+R 00 00 00 0B
+T 00 01
+R 00 00 00 0B
+T 00 01
+R 00 00 00 0B
+T 00 00
+R 00 00 00 0D
+T 00 00
+R 00 00 00 0D
+T 00 01
+R 00 00 00 0D
+T 00 01
+R 00 00 00 0D
+T 00 09
+R 00 00 00 0D
+T 00 09
+R 00 00 00 0D
+T 00 0D
+R 00 00 00 0D
+T 00 0D
+R 00 00 00 0D
+T 00 15
+R 00 00 00 0D
+T 00 15
+R 00 00 00 0D
+T 00 00 90 00 01 E4 F0 A3 F0 C2 00 00 00 C2
+R 00 00 00 15 00 03 00 0B F1 21 0A 00 09
+T 00 0A 00 00 01 C2 00 00 02 D2
+R 00 00 00 15 F1 21 02 00 09 F1 21 06 00 09
+T 00 0E 00 00 03 D2 00 00 04
+R 00 00 00 15 F1 21 02 00 09 F1 21 06 00 09
+T 00 00
+R 00 00 00 17
+T 00 00 78 00 00 00 74 08 F2 75 82 01 12 00 00 78
+R 00 00 00 17 F1 03 03 01 13 02 0D 00 98
+T 00 0C 00 00 00 74 08 F2 75 82 02 12 00 00 78
+R 00 00 00 17 F1 03 02 01 13 02 0C 00 98
+T 00 17 00 00 00 74 08 F2 75 82 03 02 00 00
+R 00 00 00 17 F1 03 02 01 13 02 0C 00 98
+T 00 21
+R 00 00 00 17
+T 00 21 90 00 00 E0 FA 53 02 7F BA 21 02 80 01
+R 00 00 00 17 02 03 00 8B
+T 00 2E
+R 00 00 00 17
+T 00 2E 22
+R 00 00 00 17
+T 00 2F
+R 00 00 00 17
+T 00 2F 90 00 01 E0 FA BA 01 02 80 21
+R 00 00 00 17 02 03 00 8B
+T 00 39
+R 00 00 00 17
+T 00 39 BA 02 03 02 00 D5
+R 00 00 00 17 00 06 00 17
+T 00 3F
+R 00 00 00 17
+T 00 3F BA 03 03 02 01 30
+R 00 00 00 17 00 06 00 17
+T 00 45
+R 00 00 00 17
+T 00 45 BA 09 03 02 00 BA
+R 00 00 00 17 00 06 00 17
+T 00 4B
+R 00 00 00 17
+T 00 4B BA 0A 03 02 01 06
+R 00 00 00 17 00 06 00 17
+T 00 51
+R 00 00 00 17
+T 00 51 BA 0B 03 02 01 77
+R 00 00 00 17 00 06 00 17
+T 00 57
+R 00 00 00 17
+T 00 57 02 01 B1
+R 00 00 00 17 00 03 00 17
+T 00 5A
+R 00 00 00 17
+T 00 5A 90 00 02 E0 A3 E0 FA 7B 00 BA 01 05 BB 00
+R 00 00 00 17 02 03 00 8B
+T 00 68 02 80 01
+R 00 00 00 17
+T 00 6B
+R 00 00 00 17
+T 00 6B 22
+R 00 00 00 17
+T 00 6C
+R 00 00 00 17
+T 00 6C 90 00 04 E0 FA A3 E0 FB BA 00 05 BB 00 02
+R 00 00 00 17 02 03 00 8B
+T 00 7A 80 10
+R 00 00 00 17
+T 00 7C
+R 00 00 00 17
+T 00 7C BA 01 05 BB 00 02 80 17
+R 00 00 00 17
+T 00 84
+R 00 00 00 17
+T 00 84 BA 02 32 BB 00 2F 80 1E
+R 00 00 00 17
+T 00 8C
+R 00 00 00 17
+T 00 8C 78 00 00 00 74 00 00 01 F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 0D
+T 00 93 00 00 01 F2 90 00 08 02 00 00
+R 00 00 00 17 F1 81 02 00 0D 02 0A 00 38
+T 00 9B
+R 00 00 00 17
+T 00 9B 78 00 00 00 74 00 00 09 F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 0D
+T 00 A2 00 00 09 F2 90 00 04 02 00 00
+R 00 00 00 17 F1 81 02 00 0D 02 0A 00 38
+T 00 AA
+R 00 00 00 17
+T 00 AA 78 00 00 00 74 00 00 0D F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 0D
+T 00 B1 00 00 0D F2 90 00 08 02 00 00
+R 00 00 00 17 F1 81 02 00 0D 02 0A 00 38
+T 00 B9
+R 00 00 00 17
+T 00 B9 22
+R 00 00 00 17
+T 00 BA
+R 00 00 00 17
+T 00 BA 90 00 04 E0 FA A3 E0 FB 4A 70 0F 78
+R 00 00 00 17 02 03 00 8B
+T 00 C6 00 00 00 74 00 00 00 F2 08 74
+R 00 00 00 17 F1 03 02 01 12 F1 01 06 00 0D
+T 00 CC 00 00 00 F2 90 00 01 02 00 00
+R 00 00 00 17 F1 81 02 00 0D 02 0A 00 97
+T 00 D4
+R 00 00 00 17
+T 00 D4 22
+R 00 00 00 17
+T 00 D5
+R 00 00 00 17
+T 00 D5 90 00 04 E0 FA A3 E0 FB 4A 70 25 90 00 15
+R 00 00 00 17 02 03 00 8B 00 0E 00 0D
+T 00 E3 E0 FA A3 E0 C3 13 CA 13 CA C3 13 CA 13 CA
+R 00 00 00 17
+T 00 F1 90 00 00 EA F0 78 00 00 00 74
+R 00 00 00 17 00 03 00 0B F1 03 08 00 C4
+T 00 F9 00 00 00 F2 08 74 00 00 00 F2 90 00 01 02
+R 00 00 00 17 F1 01 02 00 0B F1 81 08 00 0B
+T 01 03 00 00
+R 00 00 00 17 02 02 00 38
+T 01 05
+R 00 00 00 17
+T 01 05 22
+R 00 00 00 17
+T 01 06
+R 00 00 00 17
+T 01 06 90 00 04 E0 FA A3 E0 FB 4A 70 1E 90 00 02
+R 00 00 00 17 02 03 00 8B 02 0E 00 8B
+T 01 14 E0 A3 E0 FA E4 CA 25 E0 CA 33 CA 25 E0 CA
+R 00 00 00 17
+T 01 22 33 FB 90 00 15 EA F0 A3 EB F0 02 00 00
+R 00 00 00 17 00 05 00 0D 02 0D 00 DC
+T 01 2F
+R 00 00 00 17
+T 01 2F 22
+R 00 00 00 17
+T 01 30
+R 00 00 00 17
+T 01 30 90 00 04 E0 FA A3 E0 FB BA 00 05 BB 00 02
+R 00 00 00 17 02 03 00 8B
+T 01 3E 80 08
+R 00 00 00 17
+T 01 40
+R 00 00 00 17
+T 01 40 BA 01 33 BB 00 30 80 17
+R 00 00 00 17
+T 01 48
+R 00 00 00 17
+T 01 48 90 00 00 A2 00 00 03 E4 33 F0 78
+R 00 00 00 17 00 03 00 0B F1 21 06 00 09
+T 01 51 00 00 00 74 00 00 00 F2 08 74
+R 00 00 00 17 F1 03 02 00 C4 F1 01 06 00 0B
+T 01 57 00 00 00 F2 90 00 01 02 00 00
+R 00 00 00 17 F1 81 02 00 0B 02 0A 00 38
+T 01 5F
+R 00 00 00 17
+T 01 5F 90 00 00 A2 00 00 04 E4 33 F0 78
+R 00 00 00 17 00 03 00 0B F1 21 06 00 09
+T 01 68 00 00 00 74 00 00 00 F2 08 74
+R 00 00 00 17 F1 03 02 00 C4 F1 01 06 00 0B
+T 01 6E 00 00 00 F2 90 00 01 02 00 00
+R 00 00 00 17 F1 81 02 00 0B 02 0A 00 38
+T 01 76
+R 00 00 00 17
+T 01 76 22
+R 00 00 00 17
+T 01 77
+R 00 00 00 17
+T 01 77 90 00 04 E0 FA A3 E0 FB BA 00 05 BB 00 02
+R 00 00 00 17 02 03 00 8B
+T 01 85 80 08
+R 00 00 00 17
+T 01 87
+R 00 00 00 17
+T 01 87 BA 01 23 BB 00 20 80 0F
+R 00 00 00 17
+T 01 8F
+R 00 00 00 17
+T 01 8F 90 00 02 E0 FA A3 E0 FB 4A 24 FF 92
+R 00 00 00 17 02 03 00 8B
+T 01 9B 00 00 03 80 10
+R 00 00 00 17 F1 21 02 00 09
+T 01 9E
+R 00 00 00 17
+T 01 9E 90 00 02 E0 FA A3 E0 FB 4A 24 FF 92
+R 00 00 00 17 02 03 00 8B
+T 01 AA 00 00 04 80 01
+R 00 00 00 17 F1 21 02 00 09
+T 01 AD
+R 00 00 00 17
+T 01 AD 22
+R 00 00 00 17
+T 01 AE
+R 00 00 00 17
+T 01 AE 12 00 00
+R 00 00 00 17 02 03 00 DC
+T 01 B1
+R 00 00 00 17
+T 01 B1 22
+R 00 00 00 17
+T 01 B2
+R 00 00 00 17
+T 01 B2 90 00 00 E0 FA BA 81 02 80 01
+R 00 00 00 17 02 03 00 8B
+T 01 BC
+R 00 00 00 17
+T 01 BC 22
+R 00 00 00 17
+T 01 BD
+R 00 00 00 17
+T 01 BD 90 00 02 E0 A3 E0 FA 7B 00 BA 21 05 BB 00
+R 00 00 00 17 02 03 00 8B
+T 01 CB 02 80 09
+R 00 00 00 17
+T 01 CE
+R 00 00 00 17
+T 01 CE BA 22 05 BB 00 02 80 4F
+R 00 00 00 17
+T 01 D6
+R 00 00 00 17
+T 01 D6 22
+R 00 00 00 17
+T 01 D7
+R 00 00 00 17
+T 01 D7 90 00 04 E0 FA A3 E0 FB BA 00 05 BB 00 02
+R 00 00 00 17 02 03 00 8B
+T 01 E5 80 10
+R 00 00 00 17
+T 01 E7
+R 00 00 00 17
+T 01 E7 BA 01 05 BB 00 02 80 17
+R 00 00 00 17
+T 01 EF
+R 00 00 00 17
+T 01 EF BA 02 32 BB 00 2F 80 1E
+R 00 00 00 17
+T 01 F7
+R 00 00 00 17
+T 01 F7 78 00 00 00 74 00 00 BE F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 01 FE 00 00 BE F2 90 00 09 02 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 06
+R 00 00 00 17
+T 02 06 78 00 00 00 74 00 00 D7 F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 02 0D 00 00 D7 F2 90 00 09 02 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 15
+R 00 00 00 17
+T 02 15 78 00 00 00 74 00 00 F0 F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 02 1C 00 00 F0 F2 90 00 09 02 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 24
+R 00 00 00 17
+T 02 24 22
+R 00 00 00 17
+T 02 25
+R 00 00 00 17
+T 02 25 90 00 04 E0 FA A3 E0 FB BA 00 05 BB 00 02
+R 00 00 00 17 02 03 00 8B
+T 02 33 80 10
+R 00 00 00 17
+T 02 35
+R 00 00 00 17
+T 02 35 BA 01 05 BB 00 02 80 17
+R 00 00 00 17
+T 02 3D
+R 00 00 00 17
+T 02 3D BA 02 32 BB 00 2F 80 1E
+R 00 00 00 17
+T 02 45
+R 00 00 00 17
+T 02 45 78 00 00 00 74 00 00 12 F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 02 4C 00 00 12 F2 90 00 3A 02 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 54
+R 00 00 00 17
+T 02 54 78 00 00 00 74 00 00 4C F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 02 5B 00 00 4C F2 90 00 2E 02 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 63
+R 00 00 00 17
+T 02 63 78 00 00 00 74 00 00 7A F2 08 74
+R 00 00 00 17 F1 03 03 00 C4 F1 01 07 00 18
+T 02 6A 00 00 7A F2 90 00 32 12 00 00
+R 00 00 00 17 F1 81 02 00 18 02 0A 00 38
+T 02 72
+R 00 00 00 17
+T 02 72 22
+R 00 00 00 17
+T 02 73
+R 00 00 00 17
+T 02 73 22
+R 00 00 00 17
+T 02 74
+R 00 00 00 17
+T 02 74 12 00 00 90 00 00 E0 FA BA 10 02 80 01
+R 00 00 00 17 02 03 00 B7 02 06 01 29
+T 02 81
+R 00 00 00 17
+T 02 81 22
+R 00 00 00 17
+T 02 82
+R 00 00 00 17
+T 02 82 90 DE 0E 74 01 F0 20 00 00 00 42 90 00 15
+R 00 00 00 17 F1 21 09 00 09 00 0E 00 0D
+T 02 8E E0 FA A3 E0 FB 4A 60 6E 12 00 00 85 82
+R 00 00 00 17 02 0B 01 3F
+T 02 9B 00 00 00 85 83 00 00 01 85 F0
+R 00 00 00 17 F1 21 02 00 05 F1 21 07 00 05
+T 02 A1 00 00 02 F5 00 00 03 90
+R 00 00 00 17 F1 21 02 00 05 F1 21 06 00 05
+T 02 A5 00 01 E0 FE A3 E0 FF E4 FA FB E5 00 00 00
+R 00 00 00 17 00 02 00 0B F1 21 0D 00 05
+T 02 B1 C3 9E FE E5 00 00 01 9F FF E5 00 00 02 9A
+R 00 00 00 17 F1 21 06 00 05 F1 21 0C 00 05
+T 02 BB E5 00 00 03 9B 90 00 15 E0 FA A3 E0 FB C3
+R 00 00 00 17 F1 21 03 00 05 00 08 00 0D
+T 02 C7 EA 9E EB 9F 50 37
+R 00 00 00 17
+T 02 CD
+R 00 00 00 17
+T 02 CD 90 DE 11 E0 FA 20 E0 2F 78 00 00 00 74 08
+R 00 00 00 17 F1 03 0B 00 A5
+T 02 D9 F2 78 00 00 00 74 00 00 01 F2 08 74
+R 00 00 00 17 F1 03 04 00 AA F1 01 08 00 0D
+T 02 E1 00 00 01 F2 75 82 01 12 00 00 90 DE 11 E0
+R 00 00 00 17 F1 81 02 00 0D 02 0A 01 1E
+T 02 ED 44 01 F0 C2 00 00 00 12 00 00 AA 82 AB 83
+R 00 00 00 17 F1 21 06 00 09 02 0A 01 3F
+T 02 F9 AC F0 FD 90 00 01 EA F0 A3 EB F0
+R 00 00 00 17 00 06 00 0B
+T 03 04
+R 00 00 00 17
+T 03 04 90 DE 0E 74 02 F0 30 00 00 01 26 90 DE 11
+R 00 00 00 17 F1 21 09 00 09
+T 03 10 E0 FA 20 E0 1E 78 00 00 00 74 04 F2 78
+R 00 00 00 17 F1 03 08 00 A5
+T 03 1B 00 00 00 74 00 00 09 F2 08 74
+R 00 00 00 17 F1 03 02 00 AA F1 01 06 00 0D
+T 03 21 00 00 09 F2 75 82 02 12 00 00 90 DE 11 E0
+R 00 00 00 17 F1 81 02 00 0D 02 0A 01 1E
+T 03 2D FA 44 01 F0 C2 00 00 01
+R 00 00 00 17 F1 21 07 00 09
+T 03 33
+R 00 00 00 17
+T 03 33 90 DE 0E 74 03 F0 30 00 00 02 26 90 DE 11
+R 00 00 00 17 F1 21 09 00 09
+T 03 3F E0 FA 20 E0 1E 78 00 00 00 74 08 F2 78
+R 00 00 00 17 F1 03 08 00 A5
+T 03 4A 00 00 00 74 00 00 0D F2 08 74
+R 00 00 00 17 F1 03 02 00 AA F1 01 06 00 0D
+T 03 50 00 00 0D F2 75 82 03 12 00 00 90 DE 11 E0
+R 00 00 00 17 F1 81 02 00 0D 02 0A 01 1E
+T 03 5C FA 44 01 F0 C2 00 00 02
+R 00 00 00 17 F1 21 07 00 09
+T 03 62
+R 00 00 00 17
+T 03 62 22
+R 00 00 00 17
+T 03 63
+R 00 00 00 17
+T 03 63 E5 82 FA 30 E7 04 75 82 00 22
+R 00 00 00 17
+T 03 6D
+R 00 00 00 17
+T 03 6D EA 90 01 99 93 F5 82 22
+R 00 00 00 17 00 04 00 18
+T 00 00
+R 00 00 00 18
+T 00 00 12 01 00 02 00 00 00 20 FB 1F 01 22 00 00
+R 00 00 00 18
+T 00 0E 01 02 03 01
+R 00 00 00 18
+T 00 12
+R 00 00 00 18
+T 00 12 05 01 09 06 A1 01 95 08 75 01 05 07 19 E0
+R 00 00 00 18
+T 00 20 29 E7 15 00 25 01 81 02 95 01 75 08 81 01
+R 00 00 00 18
+T 00 2E 95 08 75 01 05 08 19 01 29 08 91 02 95 06
+R 00 00 00 18
+T 00 3C 75 08 05 07 19 00 29 E7 15 00 26 E7 00 81
+R 00 00 00 18
+T 00 4A 00 C0
+R 00 00 00 18
+T 00 4C
+R 00 00 00 18
+T 00 4C 05 01 09 02 A1 01 09 01 A1 00 95 08 75 01
+R 00 00 00 18
+T 00 5A 05 09 19 01 29 08 15 00 25 01 81 02 95 03
+R 00 00 00 18
+T 00 68 75 08 05 01 09 30 09 31 09 38 15 81 25 7F
+R 00 00 00 18
+T 00 76 81 06 C0 C0
+R 00 00 00 18
+T 00 7A
+R 00 00 00 18
+T 00 7A 05 01 09 04 A1 01 09 01 A1 00 95 06 75 08
+R 00 00 00 18
+T 00 88 09 30 09 31 09 32 09 33 09 34 09 35 15 81
+R 00 00 00 18
+T 00 96 25 7F 81 02 C0 95 10 75 01 05 09 19 01 29
+R 00 00 00 18
+T 00 A4 10 15 00 25 01 81 02 C0
+R 00 00 00 18
+T 00 AC
+R 00 00 00 18
+T 00 AC 09 02 54 00 03 01 00 C0 32 09 04 00 00 01
+R 00 00 00 18
+T 00 BA 03 01 01 04 09 21 11 01 00 01 22 3A 00 07
+R 00 00 00 18
+T 00 C8 05 81 03 08 00 0A 09 04 01 00 01 03 01 02
+R 00 00 00 18
+T 00 D6 05 09 21 11 01 00 01 22 2E 00 07 05 82 03
+R 00 00 00 18
+T 00 E4 08 00 0A 09 04 02 00 01 03 00 00 06 09 21
+R 00 00 00 18
+T 00 F2 11 01 00 01 22 32 00 07 05 83 03 08 00 0A
+R 00 00 00 18
+T 01 00
+R 00 00 00 18
+T 01 00 07
+R 00 00 00 18
+T 01 01
+R 00 00 00 18
+T 01 01 04 03 09 04
+R 00 00 00 18
+T 01 05
+R 00 00 00 18
+T 01 05 26 03 50 00 6F 00 6C 00 6F 00 6C 00 75 00
+R 00 00 00 18
+T 01 13 20 00 43 00 6F 00 72 00 70 00 6F 00 72 00
+R 00 00 00 18
+T 01 21 61 00 74 00 69 00 6F 00 6E 00
+R 00 00 00 18
+T 01 2B
+R 00 00 00 18
+T 01 2B 0C 03 57 00 69 00 78 00 65 00 6C 00
+R 00 00 00 18
+T 01 37
+R 00 00 00 18
+T 01 37 1E 03 57 00 69 00 78 00 65 00 6C 00 20 00
+R 00 00 00 18
+T 01 45 4B 00 65 00 79 00 62 00 6F 00 61 00 72 00
+R 00 00 00 18
+T 01 53 64 00
+R 00 00 00 18
+T 01 55
+R 00 00 00 18
+T 01 55 18 03 57 00 69 00 78 00 65 00 6C 00 20 00
+R 00 00 00 18
+T 01 63 4D 00 6F 00 75 00 73 00 65 00
+R 00 00 00 18
+T 01 6D
+R 00 00 00 18
+T 01 6D 1E 03 57 00 69 00 78 00 65 00 6C 00 20 00
+R 00 00 00 18
+T 01 7B 4A 00 6F 00 79 00 73 00 74 00 69 00 63 00
+R 00 00 00 18
+T 01 89 6B 00
+R 00 00 00 18
+T 01 8B
+R 00 00 00 18
+T 01 8B 00 01 01 00 01 01
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 8D 00 01 05 00 01 05
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 8F 00 01 2B 00 01 2B
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 91 00 00 00 00 00 00
+R 00 00 00 18 F1 03 02 01 37 F1 83 05 01 37
+T 01 93 00 01 37 00 01 37
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 95 00 01 55 00 01 55
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 97 00 01 6D 00 01 6D
+R 00 00 00 18 F1 01 02 00 18 F1 81 05 00 18
+T 01 99
+R 00 00 00 18
+T 01 99 00 00 00 00 00 00 00 00 2A 2B 28 00 00 28
+R 00 00 00 18
+T 01 A7 00 00 00 00 00 00 00 00 00 00 00 00 00 29
+R 00 00 00 18
+T 01 B5 00 00 00 00 2C 1E 34 20 21 22 24 34 26 27
+R 00 00 00 18
+T 01 C3 25 2E 36 2D 37 38 27 1E 1F 20 21 22 23 24
+R 00 00 00 18
+T 01 D1 25 26 33 33 36 2E 37 38 20 04 05 06 07 08
+R 00 00 00 18
+T 01 DF 09 0A 0B 0C 0D 0E 0F 10 11 12 13 14 15 16
+R 00 00 00 18
+T 01 ED 17 18 19 1A 1B 1C 1D 2F 31 30 23 2D 35 04
+R 00 00 00 18
+T 01 FB 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10 11 12
+R 00 00 00 18
+T 02 09 13 14 15 16 17 18 19 1A 1B 1C 1D 2F 31 30
+R 00 00 00 18
+T 02 17 35 4C
+R 00 00 00 18
+T 00 00
+R 00 00 00 19
+T 00 00 00
+R 00 00 00 19
+T 00 01
+R 00 00 00 19
+T 00 01 00 00 00 00 00 00 00 00
+R 00 00 00 19
+T 00 09
+R 00 00 00 19
+T 00 09 00 00 00 00
+R 00 00 00 19
+T 00 0D
+R 00 00 00 19
+T 00 0D 00 00 00 00 00 00 00 00
+R 00 00 00 19
+T 00 15
+R 00 00 00 19
+T 00 15 F4 01
+R 00 00 00 19
+</REL>
+<ADB>
+M:usb_hid
+F:G$usbCallbackInitEndpoints$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbCallbackSetupHandler$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbCallbackClassDescriptorHandler$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbCallbackControlWriteHandler$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbHidService$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbHidService$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+T:Fusb_hid$USB_DESCRIPTOR_ENDPOINT[({0}S:S$bLength$0$0({1}SC:U),Z,0,0)({1}S:S$bDescriptorType$0$0({1}SC:U),Z,0,0)({2}S:S$bEndpointAddress$0$0({1}SC:U),Z,0,0)({3}S:S$bmAttributes$0$0({1}SC:U),Z,0,0)({4}S:S$wMaxPacketSize$0$0({2}SI:U),Z,0,0)({6}S:S$bInter
+val$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$HID_KEYBOARD_OUT_REPORT[({0}S:S$leds$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$USB_DESCRIPTOR_INTERFACE[({0}S:S$bLength$0$0({1}SC:U),Z,0,0)({1}S:S$bDescriptorType$0$0({1}SC:U),Z,0,0)({2}S:S$bInterfaceNumber$0$0({1}SC:U),Z,0,0)({3}S:S$bAlternateSetting$0$0({1}SC:U),Z,0,0)({4}S:S$bNumEndpoints$0$0({1}SC:U),Z,0,0)({5}S:S$b
+InterfaceClass$0$0({1}SC:U),Z,0,0)({6}S:S$bInterfaceSubClass$0$0({1}SC:U),Z,0,0)({7}S:S$bInterfaceProtocol$0$0({1}SC:U),Z,0,0)({8}S:S$iInterface$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$__00010000[({0}S:S$bmRequestType$1$0({1}SC:U),Z,0,0)({1}S:S$bRequest$1$0({1}SC:U),Z,0,0)({2}S:S$wValue$1$0({2}SI:U),Z,0,0)({4}S:S$wIndex$1$0({2}SI:U),Z,0,0)({6}S:S$wLength$1$0({2}SI:U),Z,0,0)({0}S:S$recipient$1$0({1}SB0$5:U),Z,0,0)({0}S:S$req
+uestType$1$0({1}SB5$2:U),Z,0,0)({0}S:S$direction$1$0({1}SB7$1:U),Z,0,0)]
+T:Fusb_hid$__00020001[({0}S:S$bmRequestType$1$0({1}SC:U),Z,0,0)({1}S:S$bRequest$1$0({1}SC:U),Z,0,0)({2}S:S$wValue$1$0({2}SI:U),Z,0,0)({4}S:S$wIndex$1$0({2}SI:U),Z,0,0)({6}S:S$wLength$1$0({2}SI:U),Z,0,0)]
+T:Fusb_hid$__00010003[({0}S:S$SRCADDRH$0$0({1}SC:U),Z,0,0)({1}S:S$SRCADDRL$0$0({1}SC:U),Z,0,0)({2}S:S$DESTADDRH$0$0({1}SC:U),Z,0,0)({3}S:S$DESTADDRL$0$0({1}SC:U),Z,0,0)({4}S:S$VLEN_LENH$0$0({1}SC:U),Z,0,0)({5}S:S$LENL$0$0({1}SC:U),Z,0,0)({6}S:S$DC6$0$0(
+{1}SC:U),Z,0,0)({7}S:S$DC7$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$__00020002[({0}S:S$recipient$1$0({1}SB0$5:U),Z,0,0)({0}S:S$requestType$1$0({1}SB5$2:U),Z,0,0)({0}S:S$direction$1$0({1}SB7$1:U),Z,0,0)]
+T:Fusb_hid$USB_DESCRIPTOR_DEVICE[({0}S:S$bLength$0$0({1}SC:U),Z,0,0)({1}S:S$bDescriptorType$0$0({1}SC:U),Z,0,0)({2}S:S$bcdUSB$0$0({2}SI:U),Z,0,0)({4}S:S$bDeviceClass$0$0({1}SC:U),Z,0,0)({5}S:S$bDeviceSubClass$0$0({1}SC:U),Z,0,0)({6}S:S$bDeviceProtocol$0
+$0({1}SC:U),Z,0,0)({7}S:S$bMaxPacketSize0$0$0({1}SC:U),Z,0,0)({8}S:S$idVendor$0$0({2}SI:U),Z,0,0)({10}S:S$idProduct$0$0({2}SI:U),Z,0,0)({12}S:S$bcdDevice$0$0({2}SI:U),Z,0,0)({14}S:S$iManufacturer$0$0({1}SC:U),Z,0,0)({15}S:S$iProduct$0$0({1}SC:U),Z,0,0)(
+{16}S:S$iSerialNumber$0$0({1}SC:U),Z,0,0)({17}S:S$bNumConfigurations$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$USB_DESCRIPTOR_CONFIGURATION[({0}S:S$bLength$0$0({1}SC:U),Z,0,0)({1}S:S$bDescriptorType$0$0({1}SC:U),Z,0,0)({2}S:S$wTotalLength$0$0({2}SI:U),Z,0,0)({4}S:S$bNumInterfaces$0$0({1}SC:U),Z,0,0)({5}S:S$bConfigurationValue$0$0({1}SC:U),Z,0,0)({6}S:
+S$iConfiguration$0$0({1}SC:U),Z,0,0)({7}S:S$bmAttributes$0$0({1}SC:U),Z,0,0)({8}S:S$bMaxPower$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$HID_KEYBOARD_IN_REPORT[({0}S:S$modifiers$0$0({1}SC:U),Z,0,0)({1}S:S$_reserved$0$0({1}SC:U),Z,0,0)({2}S:S$keyCodes$0$0({6}DA6,SC:U),Z,0,0)]
+T:Fusb_hid$USB_DESCRIPTOR_INTERFACE_ASSOCIATION[({0}S:S$bLength$0$0({1}SC:U),Z,0,0)({1}S:S$bDescriptorType$0$0({1}SC:U),Z,0,0)({2}S:S$bFirstInterface$0$0({1}SC:U),Z,0,0)({3}S:S$bInterfaceCount$0$0({1}SC:U),Z,0,0)({4}S:S$bFunctionClass$0$0({1}SC:U),Z,0,0
+)({5}S:S$bFunctionSubClass$0$0({1}SC:U),Z,0,0)({6}S:S$bFunctionProtocol$0$0({1}SC:U),Z,0,0)({7}S:S$iFunction$0$0({1}SC:U),Z,0,0)]
+T:Fusb_hid$HID_JOYSTICK_IN_REPORT[({0}S:S$x$0$0({1}SC:S),Z,0,0)({1}S:S$y$0$0({1}SC:S),Z,0,0)({2}S:S$z$0$0({1}SC:S),Z,0,0)({3}S:S$rx$0$0({1}SC:S),Z,0,0)({4}S:S$ry$0$0({1}SC:S),Z,0,0)({5}S:S$rz$0$0({1}SC:S),Z,0,0)({6}S:S$buttons$0$0({2}SI:U),Z,0,0)]
+T:Fusb_hid$CONFIG1[({0}S:S$configuration$0$0({9}STUSB_DESCRIPTOR_CONFIGURATION:S),Z,0,0)({9}S:S$keyboard_interface$0$0({9}STUSB_DESCRIPTOR_INTERFACE:S),Z,0,0)({18}S:S$keyboard_hid$0$0({9}DA9,SC:U),Z,0,0)({27}S:S$keyboard_in$0$0({7}STUSB_DESCRIPTOR_ENDPO
+INT:S),Z,0,0)({34}S:S$mouse_interface$0$0({9}STUSB_DESCRIPTOR_INTERFACE:S),Z,0,0)({43}S:S$mouse_hid$0$0({9}DA9,SC:U),Z,0,0)({52}S:S$mouse_in$0$0({7}STUSB_DESCRIPTOR_ENDPOINT:S),Z,0,0)({59}S:S$joystick_interface$0$0({9}STUSB_DESCRIPTOR_INTERFACE:S),Z,0,0
+)({68}S:S$joystick_hid$0$0({9}DA9,SC:U),Z,0,0)({77}S:S$joystick_in$0$0({7}STUSB_DESCRIPTOR_ENDPOINT:S),Z,0,0)]
+T:Fusb_hid$HID_MOUSE_IN_REPORT[({0}S:S$buttons$0$0({1}SC:U),Z,0,0)({1}S:S$x$0$0({1}SC:S),Z,0,0)({2}S:S$y$0$0({1}SC:S),Z,0,0)({3}S:S$wheel$0$0({1}SC:S),Z,0,0)]
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+F:G$usbHidKeyCodeFromAsciiChar$0$0({2}DF,SC:U),Z,0,0,0,0,0
+S:LusbHidService$sloc0$1$0({4}SL:U),E,0,0
+S:G$usbSuspendMode$0$0({1}SB0$1:U),H,0,0
+S:G$usbActivityFlag$0$0({1}SB0$1:U),H,0,0
+S:G$usbHidKeyboardInputUpdated$0$0({1}SB0$1:U),H,0,0
+S:G$usbHidMouseInputUpdated$0$0({1}SB0$1:U),H,0,0
+S:G$usbHidJoystickInputUpdated$0$0({1}SB0$1:U),H,0,0
+S:G$hidKeyboardProtocol$0$0({1}SB0$1:U),H,0,0
+S:G$hidMouseProtocol$0$0({1}SB0$1:U),H,0,0
+S:LusbHidKeyCodeFromAsciiChar$asciiChar$1$1({1}SC:S),R,0,0,[r2]
+S:G$usbDeviceState$0$0({1}SC:U),F,0,0
+S:G$usbSetupPacket$0$0({8}ST__00010000:S),F,0,0
+S:Fusb_hid$SYNC1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$SYNC0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PKTLEN$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PKTCTRL1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PKTCTRL0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$ADDR$0$0({1}SC:U),F,0,0
+S:Fusb_hid$CHANNR$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCTRL1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCTRL0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREQ2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREQ1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREQ0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MDMCFG4$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MDMCFG3$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MDMCFG2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MDMCFG1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MDMCFG0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$DEVIATN$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MCSM2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MCSM1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MCSM0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FOCCFG$0$0({1}SC:U),F,0,0
+S:Fusb_hid$BSCFG$0$0({1}SC:U),F,0,0
+S:Fusb_hid$AGCCTRL2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$AGCCTRL1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$AGCCTRL0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREND1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREND0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCAL3$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCAL2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCAL1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FSCAL0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$TEST2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$TEST1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$TEST0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PA_TABLE0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$IOCFG2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$IOCFG1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$IOCFG0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PARTNUM$0$0({1}SC:U),F,0,0
+S:Fusb_hid$VERSION$0$0({1}SC:U),F,0,0
+S:Fusb_hid$FREQEST$0$0({1}SC:U),F,0,0
+S:Fusb_hid$LQI$0$0({1}SC:U),F,0,0
+S:Fusb_hid$RSSI$0$0({1}SC:U),F,0,0
+S:Fusb_hid$MARCSTATE$0$0({1}SC:U),F,0,0
+S:Fusb_hid$PKTSTATUS$0$0({1}SC:U),F,0,0
+S:Fusb_hid$VCO_VC_DAC$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SCFG0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SCFG1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SDATL$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SDATH$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SWCNT$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SSTAT$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SCLKF0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SCLKF1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$I2SCLKF2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBADDR$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBPOW$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBIIF$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBOIF$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCIF$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBIIE$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBOIE$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCIE$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBFRML$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBFRMH$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBINDEX$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBMAXI$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCSIL$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCSIH$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBMAXO$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCSOL$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCSOH$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCNTL$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBCNTH$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF0$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF1$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF2$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF3$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF4$0$0({1}SC:U),F,0,0
+S:Fusb_hid$USBF5$0$0({1}SC:U),F,0,0
+S:LusbCallbackSetupHandler$response$1$1({1}SC:U),F,0,0
+S:LusbHidService$hidKeyboardLastReportTime$1$1({2}SI:U),F,0,0
+S:G$usbHidKeyboardOutput$0$0({1}STHID_KEYBOARD_OUT_REPORT:S),F,0,0
+S:G$usbHidKeyboardInput$0$0({8}STHID_KEYBOARD_IN_REPORT:S),F,0,0
+S:G$usbHidMouseInput$0$0({4}STHID_MOUSE_IN_REPORT:S),F,0,0
+S:G$usbHidJoystickInput$0$0({8}STHID_JOYSTICK_IN_REPORT:S),F,0,0
+S:G$hidKeyboardIdleDuration$0$0({2}SI:U),F,0,0
+S:Fusb_hid$P0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$SP$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DPL0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DPH0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DPL1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DPH1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U0CSR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$PCON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$TCON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P0IFG$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1IFG$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P2IFG$0$0({1}SC:U),I,0,0
+S:Fusb_hid$PICTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1IEN$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P0INP$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RFIM$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DPS$0$0({1}SC:U),I,0,0
+S:Fusb_hid$MPAGE$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ENDIAN$0$0({1}SC:U),I,0,0
+S:Fusb_hid$S0CON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IEN2$0$0({1}SC:U),I,0,0
+S:Fusb_hid$S1CON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T2CT$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T2PR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T2CTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P2$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WORIRQ$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WORCTRL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WOREVT0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WOREVT1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WORTIME0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WORTIME1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IEN0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IP0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$FWT$0$0({1}SC:U),I,0,0
+S:Fusb_hid$FADDRL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$FADDRH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$FCTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$FWDATA$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ENCDI$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ENCDO$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ENCCS$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCCON1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCCON2$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCCON3$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IEN1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IP1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RNDL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RNDH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$SLEEP$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IRCON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U0DBUF$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U0BAUD$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U0UCR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U0GCR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$CLKCON$0$0({1}SC:U),I,0,0
+S:Fusb_hid$MEMCTR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$WDCTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CNT$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CCTL0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CC0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CCTL1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T3CC1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$PSW$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMAIRQ$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMA1CFGL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMA1CFGH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMA0CFGL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMA0CFGH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMAARM$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMAREQ$0$0({1}SC:U),I,0,0
+S:Fusb_hid$TIMIF$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RFD$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC0L$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC0H$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC1L$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC1H$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC2L$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CC2H$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ACC$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RFST$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CNTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CNTH$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CCTL0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CCTL1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T1CCTL2$0$0({1}SC:U),I,0,0
+S:Fusb_hid$IRCON2$0$0({1}SC:U),I,0,0
+S:Fusb_hid$RFIF$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CNT$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CTL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CCTL0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CC0$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CCTL1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$T4CC1$0$0({1}SC:U),I,0,0
+S:Fusb_hid$B$0$0({1}SC:U),I,0,0
+S:Fusb_hid$PERCFG$0$0({1}SC:U),I,0,0
+S:Fusb_hid$ADCCFG$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P0SEL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1SEL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P2SEL$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1INP$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P2INP$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U1CSR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U1DBUF$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U1BAUD$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U1UCR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$U1GCR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P0DIR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P1DIR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$P2DIR$0$0({1}SC:U),I,0,0
+S:Fusb_hid$DMA0CFG$0$0({2}SI:U),I,0,0
+S:Fusb_hid$DMA1CFG$0$0({2}SI:U),I,0,0
+S:Fusb_hid$FADDR$0$0({2}SI:U),I,0,0
+S:Fusb_hid$ADC$0$0({2}SI:U),I,0,0
+S:Fusb_hid$P0_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0_7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_TCON_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$RFTXRXIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_TCON_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$URX0IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_TCON_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ADCIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_TCON_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$URX1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1_7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ENCIF_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ENCIF_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_SOCON7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2_7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$RFTXRXIE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ADCIE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$URX0IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$URX1IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ENCIE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$STIE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IEN06$0$0({1}SX:U),J,0,0
+S:Fusb_hid$EA$0$0({1}SX:U),J,0,0
+S:Fusb_hid$DMAIE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T1IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T2IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T3IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T4IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0IE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IEN16$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IEN17$0$0({1}SX:U),J,0,0
+S:Fusb_hid$DMAIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T2IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T3IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T4IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P0IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IRCON6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$STIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P$0$0({1}SX:U),J,0,0
+S:Fusb_hid$F1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$OV$0$0({1}SX:U),J,0,0
+S:Fusb_hid$RS0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$RS1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$F0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$AC$0$0({1}SX:U),J,0,0
+S:Fusb_hid$CY$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T3OVFIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T3CH0IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T3CH1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T4OVFIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T4CH0IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$T4CH1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$OVFIM$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_TIMIF7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$ACC_7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P2IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$UTX0IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$UTX1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$P1IF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$WDTIF$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IRCON25$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IRCON26$0$0({1}SX:U),J,0,0
+S:Fusb_hid$_IRCON27$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_0$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_1$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_2$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_3$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_4$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_5$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_6$0$0({1}SX:U),J,0,0
+S:Fusb_hid$B_7$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1ACTIVE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1TX_BYTE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1RX_BYTE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1ERR$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1FE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1SLAVE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1RE$0$0({1}SX:U),J,0,0
+S:Fusb_hid$U1MODE$0$0({1}SX:U),J,0,0
+S:G$usbInit$0$0({2}DF,SV:S),C,0,0
+S:G$usbPoll$0$0({2}DF,SV:S),C,0,0
+S:G$usbControlRead$0$0({2}DF,SV:S),C,0,0
+S:G$usbControlWrite$0$0({2}DF,SV:S),C,0,0
+S:G$usbControlAcknowledge$0$0({2}DF,SV:S),C,0,0
+S:G$usbControlStall$0$0({2}DF,SV:S),C,0,0
+S:G$usbInitEndpointIn$0$0({2}DF,SV:S),C,0,0
+S:G$usbInitEndpointOut$0$0({2}DF,SV:S),C,0,0
+S:G$usbWriteFifo$0$0({2}DF,SV:S),C,0,0
+S:G$usbReadFifo$0$0({2}DF,SV:S),C,0,0
+S:G$usbSuspended$0$0({2}DF,SB0$1:U),C,0,0
+S:G$usbSleep$0$0({2}DF,SV:S),C,0,0
+S:G$usbShowStatusWithGreenLed$0$0({2}DF,SV:S),C,0,0
+S:G$systemInit$0$0({2}DF,SV:S),C,0,0
+S:G$boardIoInit$0$0({2}DF,SV:S),C,0,0
+S:G$boardClockInit$0$0({2}DF,SV:S),C,0,0
+S:G$boardService$0$0({2}DF,SV:S),C,0,0
+S:G$boardStartBootloaderIfNeeded$0$0({2}DF,SV:S),C,0,0
+S:G$boardStartBootloader$0$0({2}DF,SV:S),C,0,0
+S:G$usbPowerPresent$0$0({2}DF,SB0$1:U),C,0,0
+S:G$vinPowerPresent$0$0({2}DF,SB0$1:U),C,0,0
+S:G$enableUsbPullup$0$0({2}DF,SV:S),C,0,0
+S:G$disableUsbPullup$0$0({2}DF,SV:S),C,0,0
+S:G$timeInit$0$0({2}DF,SV:S),C,0,0
+S:G$getMs$0$0({2}DF,SL:U),C,0,0
+S:G$ISR_T4$0$0({2}DF,SV:S),C,0,0
+S:G$delayMicroseconds$0$0({2}DF,SV:S),C,0,0
+S:G$delayMs$0$0({2}DF,SV:S),C,0,0
+S:G$serialNumber$0$0({4}DA4,SC:U),D,0,0
+S:G$serialNumberStringDescriptor$0$0({0}DA0,SI:U),D,0,0
+S:G$usbDeviceDescriptor$0$0({18}STUSB_DESCRIPTOR_DEVICE:S),D,0,0
+S:G$keyboardReportDescriptor$0$0({58}DA58,SC:U),D,0,0
+S:G$mouseReportDescriptor$0$0({46}DA46,SC:U),D,0,0
+S:G$joystickReportDescriptor$0$0({50}DA50,SC:U),D,0,0
+S:G$usbConfigurationDescriptor$0$0({84}STCONFIG1:S),D,0,0
+S:G$usbStringDescriptorCount$0$0({1}SC:U),D,0,0
+S:Fusb_hid$languages$0$0({4}DA2,SI:U),D,0,0
+S:Fusb_hid$manufacturer$0$0({38}DA19,SI:U),D,0,0
+S:Fusb_hid$product$0$0({12}DA6,SI:U),D,0,0
+S:Fusb_hid$keyboardName$0$0({30}DA15,SI:U),D,0,0
+S:Fusb_hid$mouseName$0$0({24}DA12,SI:U),D,0,0
+S:Fusb_hid$joystickName$0$0({30}DA15,SI:U),D,0,0
+S:G$usbStringDescriptors$0$0({14}DA7,DC,SI:U),D,0,0
+S:G$hidKeyCode$0$0({128}DA128,SC:U),D,0,0
+S:Fusb_hid$__xinit_usbHidKeyboardOutput$0$0({1}STHID_KEYBOARD_OUT_REPORT:S),C,0,0
+S:Fusb_hid$__xinit_usbHidKeyboardInput$0$0({8}STHID_KEYBOARD_IN_REPORT:S),C,0,0
+S:Fusb_hid$__xinit_usbHidMouseInput$0$0({4}STHID_MOUSE_IN_REPORT:S),C,0,0
+S:Fusb_hid$__xinit_usbHidJoystickInput$0$0({8}STHID_JOYSTICK_IN_REPORT:S),C,0,0
+S:Fusb_hid$__xinit_hidKeyboardIdleDuration$0$0({2}SI:U),C,0,0
+</ADB>
+</FILE>
+
+</FILES>
+
+</SDCCLIB>

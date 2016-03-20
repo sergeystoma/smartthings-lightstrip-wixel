@@ -1,0 +1,1961 @@
+<SDCCLIB>
+
+<INDEX>
+     14070
+<MODULE>
+radio_mac 11
+Fradio_mac$I2SDATH$0$0
+Fradio_mac$I2SCFG1$0$0
+Fradio_mac$U1ERR$0$0
+Fradio_mac$_TIMIF7$0$0
+Fradio_mac$P0IF$0$0
+Fradio_mac$P0_0$0$0
+Fradio_mac$U0UCR$0$0
+Fradio_mac$ENDIAN$0$0
+Fradio_mac$TEST0$0$0
+Fradio_mac$P1IF$0$0
+Fradio_mac$P$0$0
+Fradio_mac$_IRCON6$0$0
+Fradio_mac$P1_0$0$0
+Fradio_mac$P0_1$0$0
+Fradio_mac$U1UCR$0$0
+Fradio_mac$RNDL$0$0
+Fradio_mac$PCON$0$0
+Fradio_mac$DPL0$0$0
+Fradio_mac$USBCSIH$0$0
+Fradio_mac$TEST1$0$0
+Fradio_mac$U1FE$0$0
+Fradio_mac$B_0$0$0
+Fradio_mac$P2IF$0$0
+Fradio_mac$T3CH0IF$0$0
+Fradio_mac$P2_0$0$0
+Fradio_mac$P1_1$0$0
+Fradio_mac$P0_2$0$0
+Fradio_mac$DPL1$0$0
+Fradio_mac$TEST2$0$0
+Fradio_mac$B_1$0$0
+Fradio_mac$T4CH0IF$0$0
+Fradio_mac$T3CH1IF$0$0
+Fradio_mac$P2_1$0$0
+Fradio_mac$P1_2$0$0
+Fradio_mac$P0_3$0$0
+Fradio_mac$DMAARM$0$0
+Fradio_mac$I2SDATL$0$0
+Fradio_mac$PKTSTATUS$0$0
+Fradio_mac$B_2$0$0
+Fradio_mac$T4CH1IF$0$0
+Fradio_mac$T1IE$0$0
+Fradio_mac$P2_2$0$0
+Fradio_mac$_SOCON2$0$0
+Fradio_mac$P1_3$0$0
+Fradio_mac$P0_4$0$0
+Fradio_mac$PKTCTRL0$0$0
+Fradio_mac$B_3$0$0
+Fradio_mac$T1IF$0$0
+Fradio_mac$T2IE$0$0
+Fradio_mac$P2_3$0$0
+Fradio_mac$_SOCON3$0$0
+Fradio_mac$P1_4$0$0
+Fradio_mac$P0_5$0$0
+Fradio_mac$TCON$0$0
+Fradio_mac$USBCSIL$0$0
+Fradio_mac$PKTCTRL1$0$0
+Fradio_mac$B_4$0$0
+Fradio_mac$T2IF$0$0
+Fradio_mac$T3IE$0$0
+Fradio_mac$STIE$0$0
+Fradio_mac$P2_4$0$0
+Fradio_mac$_SOCON4$0$0
+Fradio_mac$P1_5$0$0
+Fradio_mac$P0_6$0$0
+Fradio_mac$B_5$0$0
+Fradio_mac$ACC_0$0$0
+Fradio_mac$STIF$0$0
+Fradio_mac$T3IF$0$0
+Fradio_mac$T4IE$0$0
+Fradio_mac$ADCIE$0$0
+Fradio_mac$P2_5$0$0
+Fradio_mac$_SOCON5$0$0
+Fradio_mac$P1_6$0$0
+Fradio_mac$P0_7$0$0
+Fradio_mac$USBCNTH$0$0
+Fradio_mac$USBCSOH$0$0
+Fradio_mac$USBFRMH$0$0
+Fradio_mac$B_6$0$0
+Fradio_mac$ACC_1$0$0
+Fradio_mac$T4IF$0$0
+Fradio_mac$P2_6$0$0
+Fradio_mac$_SOCON6$0$0
+Fradio_mac$P1_7$0$0
+Fradio_mac$ADCIF$0$0
+Fradio_mac$PERCFG$0$0
+Fradio_mac$FWDATA$0$0
+Fradio_mac$WORTIME0$0$0
+Fradio_mac$IOCFG0$0$0
+Fradio_mac$B_7$0$0
+Fradio_mac$ACC_2$0$0
+Fradio_mac$P2_7$0$0
+Fradio_mac$_SOCON7$0$0
+Fradio_mac$WORTIME1$0$0
+Fradio_mac$USBMAXI$0$0
+Fradio_mac$IOCFG1$0$0
+Fradio_mac$FSCAL0$0$0
+Fradio_mac$ACC_3$0$0
+Fradio_mac$FREQEST$0$0
+Fradio_mac$IOCFG2$0$0
+Fradio_mac$FSCAL1$0$0
+Fradio_mac$CHANNR$0$0
+Fradio_mac$ACC_4$0$0
+Fradio_mac$DMAREQ$0$0
+Fradio_mac$DMA0CFGH$0$0
+Fradio_mac$CLKCON$0$0
+Fradio_mac$USBCNTL$0$0
+Fradio_mac$USBCSOL$0$0
+Fradio_mac$USBFRML$0$0
+Fradio_mac$USBCIE$0$0
+Fradio_mac$FSCAL2$0$0
+Fradio_mac$ACC_5$0$0
+Fradio_mac$T1CCTL0$0$0
+Fradio_mac$DMA1CFGH$0$0
+Fradio_mac$USBCIF$0$0
+Fradio_mac$FSCAL3$0$0
+Fradio_mac$ACC_6$0$0
+Fradio_mac$RFTXRXIE$0$0
+Fradio_mac$T1CCTL1$0$0
+Fradio_mac$RFD$0$0
+Fradio_mac$U1RE$0$0
+Fradio_mac$ACC_7$0$0
+Fradio_mac$RFTXRXIF$0$0
+Fradio_mac$T1CCTL2$0$0
+Fradio_mac$T3CCTL0$0$0
+Fradio_mac$T2CT$0$0
+Fradio_mac$FSCTRL0$0$0
+Fradio_mac$T4CCTL0$0$0
+Fradio_mac$DMA0CFGL$0$0
+Fradio_mac$DMAIRQ$0$0
+Fradio_mac$T3CCTL1$0$0
+Fradio_mac$USBMAXO$0$0
+Fradio_mac$FREND0$0$0
+Fradio_mac$FSCTRL1$0$0
+Fradio_mac$T4CCTL1$0$0
+Fradio_mac$RFST$0$0
+Fradio_mac$DMA1CFGL$0$0
+Fradio_mac$FREND1$0$0
+Fradio_mac$DMAIE$0$0
+Fradio_mac$USBIIE$0$0
+Fradio_mac$RSSI$0$0
+Fradio_mac$U1SLAVE$0$0
+Fradio_mac$T3OVFIF$0$0
+Fradio_mac$DMAIF$0$0
+Fradio_mac$_IEN06$0$0
+Fradio_mac$FADDR$0$0
+Fradio_mac$U0BAUD$0$0
+Fradio_mac$USBIIF$0$0
+Fradio_mac$T4OVFIF$0$0
+Fradio_mac$_IEN16$0$0
+Fradio_mac$U1BAUD$0$0
+Fradio_mac$_IEN17$0$0
+Fradio_mac$T1CC0H$0$0
+Fradio_mac$ENCDI$0$0
+Fradio_mac$MARCSTATE$0$0
+Fradio_mac$AC$0$0
+Fradio_mac$ENCIE$0$0
+Fradio_mac$T1CC1H$0$0
+Fradio_mac$BSCFG$0$0
+Fradio_mac$T1CC2H$0$0
+Fradio_mac$LQI$0$0
+Fradio_mac$VERSION$0$0
+Fradio_mac$EA$0$0
+Fradio_mac$U0DBUF$0$0
+Fradio_mac$USBOIE$0$0
+Fradio_mac$VCO_VC_DAC$0$0
+Fradio_mac$PARTNUM$0$0
+Fradio_mac$U1DBUF$0$0
+Fradio_mac$T1CC0L$0$0
+Fradio_mac$DPS$0$0
+Fradio_mac$USBOIF$0$0
+Fradio_mac$T1CC1L$0$0
+Fradio_mac$MEMCTR$0$0
+Fradio_mac$T2PR$0$0
+Fradio_mac$T1CC2L$0$0
+Fradio_mac$ENCDO$0$0
+Fradio_mac$IP0$0$0
+Fradio_mac$I2SSTAT$0$0
+Fradio_mac$I2SWCNT$0$0
+Fradio_mac$IP1$0$0
+Fradio_mac$MPAGE$0$0
+Fradio_mac$U1MODE$0$0
+Fradio_mac$ENCCS$0$0
+Fradio_mac$IRCON2$0$0
+Fradio_mac$WORCTRL$0$0
+Fradio_mac$PKTLEN$0$0
+Fradio_mac$AGCCTRL0$0$0
+Fradio_mac$ADCH$0$0
+Fradio_mac$AGCCTRL1$0$0
+Fradio_mac$FWT$0$0
+Fradio_mac$AGCCTRL2$0$0
+Fradio_mac$DMA0CFG$0$0
+Fradio_mac$T1CNTH$0$0
+Fradio_mac$DMA1CFG$0$0
+Fradio_mac$ENCIF_0$0$0
+Fradio_mac$ADCL$0$0
+Fradio_mac$RS0$0$0
+Fradio_mac$ENCIF_1$0$0
+Fradio_mac$F0$0$0
+Fradio_mac$RS1$0$0
+Fradio_mac$T1CNTL$0$0
+Fradio_mac$P0IFG$0$0
+Fradio_mac$F1$0$0
+Fradio_mac$WOREVT0$0$0
+Fradio_mac$P1IFG$0$0
+Fradio_mac$ADCCFG$0$0
+Fradio_mac$WOREVT1$0$0
+Fradio_mac$P2IFG$0$0
+Fradio_mac$TIMIF$0$0
+Fradio_mac$SLEEP$0$0
+Fradio_mac$ADCCON1$0$0
+Fradio_mac$PSW$0$0
+Fradio_mac$ADCCON2$0$0
+Fradio_mac$ADDR$0$0
+Fradio_mac$IRCON$0$0
+Fradio_mac$ADCCON3$0$0
+Fradio_mac$CY$0$0
+Fradio_mac$PICTL$0$0
+Fradio_mac$URX0IE$0$0
+Fradio_mac$T3CC0$0$0
+Fradio_mac$P1IEN$0$0
+Fradio_mac$I2SCLKF0$0$0
+Fradio_mac$MDMCFG0$0$0
+Fradio_mac$FREQ0$0$0
+Fradio_mac$WDTIF$0$0
+Fradio_mac$URX1IE$0$0
+Fradio_mac$URX0IF$0$0
+Fradio_mac$T4CC0$0$0
+Fradio_mac$T3CC1$0$0
+Fradio_mac$WDCTL$0$0
+Fradio_mac$I2SCLKF1$0$0
+Fradio_mac$MDMCFG1$0$0
+Fradio_mac$FREQ1$0$0
+Fradio_mac$URX1IF$0$0
+Fradio_mac$P0DIR$0$0
+Fradio_mac$T4CC1$0$0
+Fradio_mac$USBF0$0$0
+Fradio_mac$USBPOW$0$0
+Fradio_mac$I2SCLKF2$0$0
+Fradio_mac$MCSM0$0$0
+Fradio_mac$MDMCFG2$0$0
+Fradio_mac$FREQ2$0$0
+Fradio_mac$UTX0IF$0$0
+Fradio_mac$P1DIR$0$0
+Fradio_mac$P0$0$0
+Fradio_mac$USBF1$0$0
+Fradio_mac$MCSM1$0$0
+Fradio_mac$MDMCFG3$0$0
+Fradio_mac$_IRCON25$0$0
+Fradio_mac$UTX1IF$0$0
+Fradio_mac$OVFIM$0$0
+Fradio_mac$P2DIR$0$0
+Fradio_mac$U0GCR$0$0
+Fradio_mac$P1$0$0
+Fradio_mac$USBF2$0$0
+Fradio_mac$USBINDEX$0$0
+Fradio_mac$MCSM2$0$0
+Fradio_mac$MDMCFG4$0$0
+Fradio_mac$U1ACTIVE$0$0
+Fradio_mac$_IRCON26$0$0
+Fradio_mac$_TCON_0$0$0
+Fradio_mac$U1GCR$0$0
+Fradio_mac$B$0$0
+Fradio_mac$P2$0$0
+Fradio_mac$USBF3$0$0
+Fradio_mac$U1RX_BYTE$0$0
+Fradio_mac$_IRCON27$0$0
+Fradio_mac$S0CON$0$0
+Fradio_mac$SP$0$0
+Fradio_mac$USBF4$0$0
+Fradio_mac$_TCON_2$0$0
+Fradio_mac$P0SEL$0$0
+Fradio_mac$WORIRQ$0$0
+Fradio_mac$S1CON$0$0
+Fradio_mac$USBF5$0$0
+Fradio_mac$USBADDR$0$0
+Fradio_mac$U1TX_BYTE$0$0
+Fradio_mac$OV$0$0
+Fradio_mac$P1SEL$0$0
+Fradio_mac$_TCON_4$0$0
+Fradio_mac$P2SEL$0$0
+Fradio_mac$RFIF$0$0
+Fradio_mac$ACC$0$0
+Fradio_mac$P0INP$0$0
+Fradio_mac$PA_TABLE0$0$0
+Fradio_mac$FOCCFG$0$0
+Fradio_mac$_TCON_6$0$0
+Fradio_mac$ADC$0$0
+Fradio_mac$P1INP$0$0
+Fradio_mac$T1CTL$0$0
+Fradio_mac$P2INP$0$0
+Fradio_mac$FCTL$0$0
+Fradio_mac$FADDRH$0$0
+Fradio_mac$T2CTL$0$0
+Fradio_mac$T3CTL$0$0
+Fradio_mac$DEVIATN$0$0
+Fradio_mac$T4CTL$0$0
+Fradio_mac$T3CNT$0$0
+Fradio_mac$RNDH$0$0
+Fradio_mac$IEN0$0$0
+Fradio_mac$DPH0$0$0
+Fradio_mac$SYNC0$0$0
+Fradio_mac$T4CNT$0$0
+Fradio_mac$IEN1$0$0
+Fradio_mac$FADDRL$0$0
+Fradio_mac$U0CSR$0$0
+Fradio_mac$DPH1$0$0
+.__.ABS.
+Fradio_mac$I2SCFG0$0$0
+Fradio_mac$SYNC1$0$0
+Fradio_mac$P0IE$0$0
+Fradio_mac$U1CSR$0$0
+Fradio_mac$IEN2$0$0
+Fradio_mac$RFIM$0$0
+_radioMacState
+G$radioMacState$0$0
+_radioTxUnderflowOccurred
+G$radioTxUnderflowOccurred$0$0
+Fradio_mac$strobe$0$0
+_radioRxOverflowOccurred
+G$radioRxOverflowOccurred$0$0
+_radioMacRx_PARM_2
+LradioMacRx$timeout$1$1
+A$radio_mac$760
+A$radio_mac$752
+A$radio_mac$756
+A$radio_mac$748
+C$radio_mac.c$44$1$1
+C$radio_mac.c$55$1$1
+C$radio_mac.c$47$1$1
+C$radio_mac.c$48$1$1
+G$radioMacStrobe$0$0
+_radioMacRx
+A$radio_mac$1001
+A$radio_mac$1200
+A$radio_mac$1101
+A$radio_mac$1020
+_radioMacTx
+A$radio_mac$1210
+A$radio_mac$1120
+A$radio_mac$1102
+A$radio_mac$1030
+A$radio_mac$1021
+A$radio_mac$1012
+A$radio_mac$1112
+A$radio_mac$1103
+A$radio_mac$1013
+A$radio_mac$1004
+XG$radioMacEvent$0$0
+C$radio_mac.c$122$3$11
+A$radio_mac$1203
+A$radio_mac$1240
+A$radio_mac$1213
+A$radio_mac$1204
+A$radio_mac$1150
+A$radio_mac$1141
+A$radio_mac$1132
+A$radio_mac$1051
+A$radio_mac$1042
+A$radio_mac$1033
+A$radio_mac$1250
+A$radio_mac$1232
+A$radio_mac$1205
+A$radio_mac$1160
+A$radio_mac$1151
+A$radio_mac$1142
+A$radio_mac$1133
+A$radio_mac$1115
+A$radio_mac$1106
+A$radio_mac$1025
+A$radio_mac$1016
+A$radio_mac$1007
+A$radio_mac$1260
+A$radio_mac$1233
+A$radio_mac$1170
+A$radio_mac$1161
+A$radio_mac$1143
+A$radio_mac$1116
+A$radio_mac$1071
+A$radio_mac$1026
+A$radio_mac$1008
+C$radio_mac.c$135$2$12
+A$radio_mac$1270
+A$radio_mac$1261
+A$radio_mac$1243
+A$radio_mac$1234
+A$radio_mac$1216
+A$radio_mac$1171
+A$radio_mac$1117
+A$radio_mac$1054
+A$radio_mac$1045
+A$radio_mac$1009
+C$radio_mac.c$144$2$13
+C$radio_mac.c$136$2$12
+C$radio_mac.c$109$4$10
+A$radio_mac$1262
+A$radio_mac$1253
+A$radio_mac$1244
+A$radio_mac$1235
+A$radio_mac$1208
+A$radio_mac$1181
+A$radio_mac$1172
+A$radio_mac$1154
+A$radio_mac$1136
+A$radio_mac$1109
+A$radio_mac$1091
+A$radio_mac$1019
+C$radio_mac.c$145$2$13
+_radioMacInit
+A$radio_mac$1281
+A$radio_mac$1263
+A$radio_mac$1254
+A$radio_mac$1245
+A$radio_mac$1209
+A$radio_mac$1182
+A$radio_mac$1155
+A$radio_mac$1146
+A$radio_mac$1137
+A$radio_mac$1092
+A$radio_mac$1074
+A$radio_mac$1038
+A$radio_mac$1273
+A$radio_mac$1264
+A$radio_mac$1255
+A$radio_mac$1246
+A$radio_mac$1228
+A$radio_mac$1192
+A$radio_mac$1183
+A$radio_mac$1165
+A$radio_mac$1138
+A$radio_mac$1093
+XG$radioMacRx$0$0
+G$radioMacEvent$0$0
+A$radio_mac$1274
+A$radio_mac$1265
+A$radio_mac$1256
+A$radio_mac$1247
+A$radio_mac$1238
+A$radio_mac$1229
+A$radio_mac$1193
+A$radio_mac$1184
+A$radio_mac$1175
+A$radio_mac$1166
+A$radio_mac$1275
+A$radio_mac$1248
+A$radio_mac$1239
+A$radio_mac$1194
+A$radio_mac$1176
+A$radio_mac$1167
+A$radio_mac$1149
+A$radio_mac$1068
+XG$radioMacTx$0$0
+A$radio_mac$1249
+A$radio_mac$1195
+A$radio_mac$1177
+A$radio_mac$1168
+A$radio_mac$1159
+A$radio_mac$1096
+C$radio_mac.c$201$1$1
+A$radio_mac$1268
+A$radio_mac$1259
+A$radio_mac$1196
+A$radio_mac$1187
+A$radio_mac$1178
+A$radio_mac$1169
+A$radio_mac$1097
+A$radio_mac$1088
+C$radio_mac.c$211$1$1
+C$radio_mac.c$130$1$1
+A$radio_mac$1278
+A$radio_mac$1269
+A$radio_mac$1197
+A$radio_mac$1188
+A$radio_mac$1098
+C$radio_mac.c$221$1$1
+C$radio_mac.c$203$1$1
+A$radio_mac$1198
+A$radio_mac$1189
+C$radio_mac.c$240$1$1
+C$radio_mac.c$204$1$1
+A$radio_mac$1199
+C$radio_mac.c$250$1$1
+C$radio_mac.c$241$1$1
+C$radio_mac.c$230$2$2
+C$radio_mac.c$223$1$1
+C$radio_mac.c$214$1$1
+C$radio_mac.c$205$1$1
+C$radio_mac.c$260$1$1
+C$radio_mac.c$242$1$1
+C$radio_mac.c$231$2$2
+G$radioMacRx$0$0
+C$radio_mac.c$224$1$1
+C$radio_mac.c$215$1$1
+C$radio_mac.c$170$1$1
+C$radio_mac.c$261$1$1
+C$radio_mac.c$243$1$1
+C$radio_mac.c$232$2$2
+C$radio_mac.c$216$1$1
+C$radio_mac.c$171$1$1
+C$radio_mac.c$120$2$6
+C$radio_mac.c$244$1$1
+C$radio_mac.c$233$2$2
+C$radio_mac.c$226$1$1
+XG$radioMacInit$0$0
+C$radio_mac.c$163$1$1
+C$radio_mac.c$153$2$1
+G$radioMacTx$0$0
+A$radio_mac$800
+C$radio_mac.c$263$1$1
+C$radio_mac.c$254$1$1
+C$radio_mac.c$245$1$1
+C$radio_mac.c$218$1$1
+C$radio_mac.c$209$1$1
+C$radio_mac.c$182$1$1
+A$radio_mac$900
+A$radio_mac$810
+A$radio_mac$801
+C$radio_mac.c$228$1$1
+C$radio_mac.c$219$1$1
+C$radio_mac.c$174$1$1
+C$radio_mac.c$155$2$1
+A$radio_mac$820
+A$radio_mac$802
+C$radio_mac.c$265$1$1
+C$radio_mac.c$256$1$1
+C$radio_mac.c$247$1$1
+C$radio_mac.c$190$2$3
+C$radio_mac.c$175$1$1
+C$radio_mac.c$139$1$1
+A$radio_mac$911
+A$radio_mac$830
+A$radio_mac$821
+A$radio_mac$803
+C$radio_mac.c$266$1$1
+C$radio_mac.c$257$1$1
+C$radio_mac.c$191$2$3
+C$radio_mac.c$185$1$1
+C$radio_mac.c$176$1$1
+C$radio_mac.c$104$3$8
+C$radio_mac.c$102$4$9
+A$radio_mac$912
+A$radio_mac$840
+A$radio_mac$831
+A$radio_mac$813
+C$radio_mac.c$258$1$1
+C$radio_mac.c$249$1$1
+C$radio_mac.c$237$2$3
+C$radio_mac.c$195$1$1
+C$radio_mac.c$192$2$3
+C$radio_mac.c$166$2$2
+_ISR_RF
+A$radio_mac$940
+A$radio_mac$931
+A$radio_mac$922
+A$radio_mac$904
+A$radio_mac$850
+A$radio_mac$841
+A$radio_mac$832
+A$radio_mac$814
+C$radio_mac.c$259$1$1
+C$radio_mac.c$193$2$3
+C$radio_mac.c$127$2$6
+A$radio_mac$941
+A$radio_mac$932
+A$radio_mac$923
+A$radio_mac$905
+A$radio_mac$860
+A$radio_mac$851
+A$radio_mac$842
+A$radio_mac$806
+A$radio_mac$942
+A$radio_mac$933
+A$radio_mac$915
+A$radio_mac$906
+A$radio_mac$861
+A$radio_mac$843
+A$radio_mac$825
+G$radioMacInit$0$0
+C$radio_mac.c$198$1$1
+A$radio_mac$970
+A$radio_mac$943
+A$radio_mac$934
+A$radio_mac$907
+A$radio_mac$880
+A$radio_mac$862
+A$radio_mac$826
+A$radio_mac$817
+A$radio_mac$790
+C$radio_mac.c$199$1$1
+C$radio_mac.c$187$2$3
+A$radio_mac$980
+A$radio_mac$971
+A$radio_mac$944
+A$radio_mac$935
+A$radio_mac$926
+A$radio_mac$881
+A$radio_mac$872
+A$radio_mac$863
+A$radio_mac$854
+A$radio_mac$836
+A$radio_mac$818
+A$radio_mac$809
+A$radio_mac$791
+C$radio_mac.c$188$2$3
+A$radio_mac$990
+A$radio_mac$972
+A$radio_mac$936
+A$radio_mac$918
+A$radio_mac$837
+A$radio_mac$819
+A$radio_mac$792
+C$radio_mac.c$189$2$3
+A$radio_mac$982
+A$radio_mac$973
+A$radio_mac$937
+A$radio_mac$892
+A$radio_mac$883
+A$radio_mac$847
+A$radio_mac$829
+A$radio_mac$793
+A$radio_mac$983
+A$radio_mac$974
+A$radio_mac$947
+A$radio_mac$938
+A$radio_mac$929
+A$radio_mac$893
+A$radio_mac$884
+A$radio_mac$866
+A$radio_mac$794
+C$radio_mac.c$61$1$1
+A$radio_mac$984
+A$radio_mac$939
+A$radio_mac$894
+A$radio_mac$885
+A$radio_mac$876
+A$radio_mac$867
+A$radio_mac$858
+A$radio_mac$795
+A$radio_mac$994
+A$radio_mac$985
+A$radio_mac$976
+A$radio_mac$967
+A$radio_mac$895
+A$radio_mac$877
+A$radio_mac$868
+A$radio_mac$859
+A$radio_mac$796
+_radioMacStrobe
+A$radio_mac$986
+A$radio_mac$977
+A$radio_mac$896
+A$radio_mac$878
+A$radio_mac$869
+A$radio_mac$797
+C$radio_mac.c$57$0$0
+A$radio_mac$987
+A$radio_mac$978
+A$radio_mac$888
+A$radio_mac$879
+A$radio_mac$798
+A$radio_mac$789
+XG$ISR_RF$0$0
+C$radio_mac.c$83$1$1
+C$radio_mac.c$63$2$2
+A$radio_mac$988
+A$radio_mac$979
+A$radio_mac$799
+A$radio_mac$998
+A$radio_mac$989
+C$radio_mac.c$80$2$5
+C$radio_mac.c$76$1$1
+C$radio_mac.c$72$3$4
+C$radio_mac.c$59$1$1
+C$radio_mac.c$68$2$2
+C$radio_mac.c$66$3$3
+C$radio_mac.c$91$3$7
+C$radio_mac.c$94$2$6
+G$ISR_RF$0$0
+XG$radioMacStrobe$0$0
+C$radio_mac.c$87$2$6
+C$radio_mac.c$96$3$8
+</MODULE>
+
+</INDEX>
+
+<FILES>
+
+<FILE>
+radio_mac
+<REL>
+;!FILE libraries/src/radio_mac/radio_mac.asm
+XH
+H 1D areas 2AB global symbols
+M radio_mac
+O -mmcs51 --model-medium
+S Fradio_mac$I2SDATH$0$0 DefDF43
+S Fradio_mac$I2SCFG1$0$0 DefDF41
+S Fradio_mac$U1ERR$0$0 Def00FB
+S Fradio_mac$_TIMIF7$0$0 Def00DF
+S Fradio_mac$P0IF$0$0 Def00C5
+S Fradio_mac$P0_0$0$0 Def0080
+S Fradio_mac$U0UCR$0$0 Def00C4
+S Fradio_mac$ENDIAN$0$0 Def0095
+S Fradio_mac$TEST0$0$0 DefDF25
+S Fradio_mac$P1IF$0$0 Def00EB
+S Fradio_mac$P$0$0 Def00D0
+S Fradio_mac$_IRCON6$0$0 Def00C6
+S Fradio_mac$P1_0$0$0 Def0090
+S Fradio_mac$P0_1$0$0 Def0081
+S Fradio_mac$U1UCR$0$0 Def00FB
+S Fradio_mac$RNDL$0$0 Def00BC
+S Fradio_mac$PCON$0$0 Def0087
+S Fradio_mac$DPL0$0$0 Def0082
+S Fradio_mac$USBCSIH$0$0 DefDE12
+S Fradio_mac$TEST1$0$0 DefDF24
+S Fradio_mac$U1FE$0$0 Def00FC
+S Fradio_mac$B_0$0$0 Def00F0
+S Fradio_mac$P2IF$0$0 Def00E8
+S Fradio_mac$T3CH0IF$0$0 Def00D9
+S Fradio_mac$P2_0$0$0 Def00A0
+S Fradio_mac$P1_1$0$0 Def0091
+S Fradio_mac$P0_2$0$0 Def0082
+S Fradio_mac$DPL1$0$0 Def0084
+S Fradio_mac$TEST2$0$0 DefDF23
+S Fradio_mac$B_1$0$0 Def00F1
+S Fradio_mac$T4CH0IF$0$0 Def00DC
+S Fradio_mac$T3CH1IF$0$0 Def00DA
+S Fradio_mac$P2_1$0$0 Def00A1
+S Fradio_mac$P1_2$0$0 Def0092
+S Fradio_mac$P0_3$0$0 Def0083
+S Fradio_mac$DMAARM$0$0 Def00D6
+S Fradio_mac$I2SDATL$0$0 DefDF42
+S Fradio_mac$PKTSTATUS$0$0 DefDF3C
+S Fradio_mac$B_2$0$0 Def00F2
+S Fradio_mac$T4CH1IF$0$0 Def00DD
+S Fradio_mac$T1IE$0$0 Def00B9
+S Fradio_mac$P2_2$0$0 Def00A2
+S Fradio_mac$_SOCON2$0$0 Def009A
+S Fradio_mac$P1_3$0$0 Def0093
+S Fradio_mac$P0_4$0$0 Def0084
+S Fradio_mac$PKTCTRL0$0$0 DefDF04
+S Fradio_mac$B_3$0$0 Def00F3
+S Fradio_mac$T1IF$0$0 Def00C1
+S Fradio_mac$T2IE$0$0 Def00BA
+S Fradio_mac$P2_3$0$0 Def00A3
+S Fradio_mac$_SOCON3$0$0 Def009B
+S Fradio_mac$P1_4$0$0 Def0094
+S Fradio_mac$P0_5$0$0 Def0085
+S Fradio_mac$TCON$0$0 Def0088
+S Fradio_mac$USBCSIL$0$0 DefDE11
+S Fradio_mac$PKTCTRL1$0$0 DefDF03
+S Fradio_mac$B_4$0$0 Def00F4
+S Fradio_mac$T2IF$0$0 Def00C2
+S Fradio_mac$T3IE$0$0 Def00BB
+S Fradio_mac$STIE$0$0 Def00AD
+S Fradio_mac$P2_4$0$0 Def00A4
+S Fradio_mac$_SOCON4$0$0 Def009C
+S Fradio_mac$P1_5$0$0 Def0095
+S Fradio_mac$P0_6$0$0 Def0086
+S _dmaConfig Ref0000
+S Fradio_mac$B_5$0$0 Def00F5
+S Fradio_mac$ACC_0$0$0 Def00E0
+S Fradio_mac$STIF$0$0 Def00C7
+S Fradio_mac$T3IF$0$0 Def00C3
+S Fradio_mac$T4IE$0$0 Def00BC
+S Fradio_mac$ADCIE$0$0 Def00A9
+S Fradio_mac$P2_5$0$0 Def00A5
+S Fradio_mac$_SOCON5$0$0 Def009D
+S Fradio_mac$P1_6$0$0 Def0096
+S Fradio_mac$P0_7$0$0 Def0087
+S Fradio_mac$USBCNTH$0$0 DefDE17
+S Fradio_mac$USBCSOH$0$0 DefDE15
+S Fradio_mac$USBFRMH$0$0 DefDE0D
+S Fradio_mac$B_6$0$0 Def00F6
+S Fradio_mac$ACC_1$0$0 Def00E1
+S Fradio_mac$T4IF$0$0 Def00C4
+S Fradio_mac$P2_6$0$0 Def00A6
+S Fradio_mac$_SOCON6$0$0 Def009E
+S Fradio_mac$P1_7$0$0 Def0097
+S Fradio_mac$ADCIF$0$0 Def008D
+S Fradio_mac$PERCFG$0$0 Def00F1
+S Fradio_mac$FWDATA$0$0 Def00AF
+S Fradio_mac$WORTIME0$0$0 Def00A5
+S Fradio_mac$IOCFG0$0$0 DefDF31
+S Fradio_mac$B_7$0$0 Def00F7
+S Fradio_mac$ACC_2$0$0 Def00E2
+S Fradio_mac$P2_7$0$0 Def00A7
+S Fradio_mac$_SOCON7$0$0 Def009F
+S Fradio_mac$WORTIME1$0$0 Def00A6
+S Fradio_mac$USBMAXI$0$0 DefDE10
+S Fradio_mac$IOCFG1$0$0 DefDF30
+S Fradio_mac$FSCAL0$0$0 DefDF1F
+S Fradio_mac$ACC_3$0$0 Def00E3
+S Fradio_mac$FREQEST$0$0 DefDF38
+S Fradio_mac$IOCFG2$0$0 DefDF2F
+S Fradio_mac$FSCAL1$0$0 DefDF1E
+S Fradio_mac$CHANNR$0$0 DefDF06
+S Fradio_mac$ACC_4$0$0 Def00E4
+S Fradio_mac$DMAREQ$0$0 Def00D7
+S Fradio_mac$DMA0CFGH$0$0 Def00D5
+S Fradio_mac$CLKCON$0$0 Def00C6
+S Fradio_mac$USBCNTL$0$0 DefDE16
+S Fradio_mac$USBCSOL$0$0 DefDE14
+S Fradio_mac$USBFRML$0$0 DefDE0C
+S Fradio_mac$USBCIE$0$0 DefDE0B
+S Fradio_mac$FSCAL2$0$0 DefDF1D
+S Fradio_mac$ACC_5$0$0 Def00E5
+S Fradio_mac$T1CCTL0$0$0 Def00E5
+S Fradio_mac$DMA1CFGH$0$0 Def00D3
+S Fradio_mac$USBCIF$0$0 DefDE06
+S Fradio_mac$FSCAL3$0$0 DefDF1C
+S Fradio_mac$ACC_6$0$0 Def00E6
+S Fradio_mac$RFTXRXIE$0$0 Def00A8
+S Fradio_mac$T1CCTL1$0$0 Def00E6
+S Fradio_mac$RFD$0$0 Def00D9
+S Fradio_mac$U1RE$0$0 Def00FE
+S Fradio_mac$ACC_7$0$0 Def00E7
+S Fradio_mac$RFTXRXIF$0$0 Def0089
+S Fradio_mac$T1CCTL2$0$0 Def00E7
+S Fradio_mac$T3CCTL0$0$0 Def00CC
+S Fradio_mac$T2CT$0$0 Def009C
+S Fradio_mac$FSCTRL0$0$0 DefDF08
+S Fradio_mac$T4CCTL0$0$0 Def00EC
+S Fradio_mac$DMA0CFGL$0$0 Def00D4
+S Fradio_mac$DMAIRQ$0$0 Def00D1
+S Fradio_mac$T3CCTL1$0$0 Def00CE
+S Fradio_mac$USBMAXO$0$0 DefDE13
+S Fradio_mac$FREND0$0$0 DefDF1B
+S Fradio_mac$FSCTRL1$0$0 DefDF07
+S Fradio_mac$T4CCTL1$0$0 Def00EE
+S Fradio_mac$RFST$0$0 Def00E1
+S Fradio_mac$DMA1CFGL$0$0 Def00D2
+S Fradio_mac$FREND1$0$0 DefDF1A
+S Fradio_mac$DMAIE$0$0 Def00B8
+S Fradio_mac$USBIIE$0$0 DefDE07
+S Fradio_mac$RSSI$0$0 DefDF3A
+S Fradio_mac$U1SLAVE$0$0 Def00FD
+S Fradio_mac$T3OVFIF$0$0 Def00D8
+S Fradio_mac$DMAIF$0$0 Def00C0
+S Fradio_mac$_IEN06$0$0 Def00AE
+S Fradio_mac$FADDR$0$0 DefFFFFADAC
+S Fradio_mac$U0BAUD$0$0 Def00C2
+S Fradio_mac$USBIIF$0$0 DefDE02
+S Fradio_mac$T4OVFIF$0$0 Def00DB
+S Fradio_mac$_IEN16$0$0 Def00BE
+S Fradio_mac$U1BAUD$0$0 Def00FA
+S Fradio_mac$_IEN17$0$0 Def00BF
+S Fradio_mac$T1CC0H$0$0 Def00DB
+S Fradio_mac$ENCDI$0$0 Def00B1
+S Fradio_mac$MARCSTATE$0$0 DefDF3B
+S Fradio_mac$AC$0$0 Def00D6
+S Fradio_mac$ENCIE$0$0 Def00AC
+S Fradio_mac$T1CC1H$0$0 Def00DD
+S Fradio_mac$BSCFG$0$0 DefDF16
+S Fradio_mac$T1CC2H$0$0 Def00DF
+S Fradio_mac$LQI$0$0 DefDF39
+S Fradio_mac$VERSION$0$0 DefDF37
+S Fradio_mac$EA$0$0 Def00AF
+S Fradio_mac$U0DBUF$0$0 Def00C1
+S Fradio_mac$USBOIE$0$0 DefDE09
+S Fradio_mac$VCO_VC_DAC$0$0 DefDF3D
+S Fradio_mac$PARTNUM$0$0 DefDF36
+S Fradio_mac$U1DBUF$0$0 Def00F9
+S Fradio_mac$T1CC0L$0$0 Def00DA
+S Fradio_mac$DPS$0$0 Def0092
+S Fradio_mac$USBOIF$0$0 DefDE04
+S Fradio_mac$T1CC1L$0$0 Def00DC
+S Fradio_mac$MEMCTR$0$0 Def00C7
+S Fradio_mac$T2PR$0$0 Def009D
+S Fradio_mac$T1CC2L$0$0 Def00DE
+S Fradio_mac$ENCDO$0$0 Def00B2
+S Fradio_mac$IP0$0$0 Def00A9
+S Fradio_mac$I2SSTAT$0$0 DefDF45
+S Fradio_mac$I2SWCNT$0$0 DefDF44
+S Fradio_mac$IP1$0$0 Def00B9
+S Fradio_mac$MPAGE$0$0 Def0093
+S Fradio_mac$U1MODE$0$0 Def00FF
+S Fradio_mac$ENCCS$0$0 Def00B3
+S Fradio_mac$IRCON2$0$0 Def00E8
+S Fradio_mac$WORCTRL$0$0 Def00A2
+S _radioMacEventHandler Ref0000
+S Fradio_mac$PKTLEN$0$0 DefDF02
+S Fradio_mac$AGCCTRL0$0$0 DefDF19
+S Fradio_mac$ADCH$0$0 Def00BB
+S Fradio_mac$AGCCTRL1$0$0 DefDF18
+S Fradio_mac$FWT$0$0 Def00AB
+S Fradio_mac$AGCCTRL2$0$0 DefDF17
+S Fradio_mac$DMA0CFG$0$0 DefFFFFD5D4
+S Fradio_mac$T1CNTH$0$0 Def00E3
+S Fradio_mac$DMA1CFG$0$0 DefFFFFD3D2
+S Fradio_mac$ENCIF_0$0$0 Def0098
+S Fradio_mac$ADCL$0$0 Def00BA
+S Fradio_mac$RS0$0$0 Def00D3
+S Fradio_mac$ENCIF_1$0$0 Def0099
+S Fradio_mac$F0$0$0 Def00D5
+S Fradio_mac$RS1$0$0 Def00D4
+S Fradio_mac$T1CNTL$0$0 Def00E2
+S Fradio_mac$P0IFG$0$0 Def0089
+S Fradio_mac$F1$0$0 Def00D1
+S Fradio_mac$WOREVT0$0$0 Def00A3
+S Fradio_mac$P1IFG$0$0 Def008A
+S Fradio_mac$ADCCFG$0$0 Def00F2
+S Fradio_mac$WOREVT1$0$0 Def00A4
+S Fradio_mac$P2IFG$0$0 Def008B
+S Fradio_mac$TIMIF$0$0 Def00D8
+S Fradio_mac$SLEEP$0$0 Def00BE
+S Fradio_mac$ADCCON1$0$0 Def00B4
+S Fradio_mac$PSW$0$0 Def00D0
+S Fradio_mac$ADCCON2$0$0 Def00B5
+S Fradio_mac$ADDR$0$0 DefDF05
+S Fradio_mac$IRCON$0$0 Def00C0
+S Fradio_mac$ADCCON3$0$0 Def00B6
+S Fradio_mac$CY$0$0 Def00D7
+S Fradio_mac$PICTL$0$0 Def008C
+S Fradio_mac$URX0IE$0$0 Def00AA
+S Fradio_mac$T3CC0$0$0 Def00CD
+S Fradio_mac$P1IEN$0$0 Def008D
+S Fradio_mac$I2SCLKF0$0$0 DefDF46
+S Fradio_mac$MDMCFG0$0$0 DefDF10
+S Fradio_mac$FREQ0$0$0 DefDF0B
+S Fradio_mac$WDTIF$0$0 Def00EC
+S Fradio_mac$URX1IE$0$0 Def00AB
+S Fradio_mac$URX0IF$0$0 Def008B
+S Fradio_mac$T4CC0$0$0 Def00ED
+S Fradio_mac$T3CC1$0$0 Def00CF
+S Fradio_mac$WDCTL$0$0 Def00C9
+S Fradio_mac$I2SCLKF1$0$0 DefDF47
+S Fradio_mac$MDMCFG1$0$0 DefDF0F
+S Fradio_mac$FREQ1$0$0 DefDF0A
+S Fradio_mac$URX1IF$0$0 Def008F
+S Fradio_mac$P0DIR$0$0 Def00FD
+S Fradio_mac$T4CC1$0$0 Def00EF
+S Fradio_mac$USBF0$0$0 DefDE20
+S Fradio_mac$USBPOW$0$0 DefDE01
+S Fradio_mac$I2SCLKF2$0$0 DefDF48
+S Fradio_mac$MCSM0$0$0 DefDF14
+S Fradio_mac$MDMCFG2$0$0 DefDF0E
+S Fradio_mac$FREQ2$0$0 DefDF09
+S Fradio_mac$UTX0IF$0$0 Def00E9
+S Fradio_mac$P1DIR$0$0 Def00FE
+S Fradio_mac$P0$0$0 Def0080
+S Fradio_mac$USBF1$0$0 DefDE22
+S Fradio_mac$MCSM1$0$0 DefDF13
+S Fradio_mac$MDMCFG3$0$0 DefDF0D
+S Fradio_mac$_IRCON25$0$0 Def00ED
+S Fradio_mac$UTX1IF$0$0 Def00EA
+S Fradio_mac$OVFIM$0$0 Def00DE
+S Fradio_mac$P2DIR$0$0 Def00FF
+S Fradio_mac$U0GCR$0$0 Def00C5
+S Fradio_mac$P1$0$0 Def0090
+S Fradio_mac$USBF2$0$0 DefDE24
+S Fradio_mac$USBINDEX$0$0 DefDE0E
+S Fradio_mac$MCSM2$0$0 DefDF12
+S Fradio_mac$MDMCFG4$0$0 DefDF0C
+S Fradio_mac$U1ACTIVE$0$0 Def00F8
+S Fradio_mac$_IRCON26$0$0 Def00EE
+S Fradio_mac$_TCON_0$0$0 Def0088
+S Fradio_mac$U1GCR$0$0 Def00FC
+S Fradio_mac$B$0$0 Def00F0
+S Fradio_mac$P2$0$0 Def00A0
+S Fradio_mac$USBF3$0$0 DefDE26
+S Fradio_mac$U1RX_BYTE$0$0 Def00FA
+S Fradio_mac$_IRCON27$0$0 Def00EF
+S Fradio_mac$S0CON$0$0 Def0098
+S Fradio_mac$SP$0$0 Def0081
+S Fradio_mac$USBF4$0$0 DefDE28
+S Fradio_mac$_TCON_2$0$0 Def008A
+S Fradio_mac$P0SEL$0$0 Def00F3
+S Fradio_mac$WORIRQ$0$0 Def00A1
+S Fradio_mac$S1CON$0$0 Def009B
+S Fradio_mac$USBF5$0$0 DefDE2A
+S Fradio_mac$USBADDR$0$0 DefDE00
+S Fradio_mac$U1TX_BYTE$0$0 Def00F9
+S Fradio_mac$OV$0$0 Def00D2
+S Fradio_mac$P1SEL$0$0 Def00F4
+S Fradio_mac$_TCON_4$0$0 Def008C
+S Fradio_mac$P2SEL$0$0 Def00F5
+S Fradio_mac$RFIF$0$0 Def00E9
+S Fradio_mac$ACC$0$0 Def00E0
+S Fradio_mac$P0INP$0$0 Def008F
+S Fradio_mac$PA_TABLE0$0$0 DefDF2E
+S Fradio_mac$FOCCFG$0$0 DefDF15
+S Fradio_mac$_TCON_6$0$0 Def008E
+S Fradio_mac$ADC$0$0 DefFFFFBBBA
+S Fradio_mac$P1INP$0$0 Def00F6
+S Fradio_mac$T1CTL$0$0 Def00E4
+S _radioRegistersInit Ref0000
+S Fradio_mac$P2INP$0$0 Def00F7
+S Fradio_mac$FCTL$0$0 Def00AE
+S Fradio_mac$FADDRH$0$0 Def00AD
+S Fradio_mac$T2CTL$0$0 Def009E
+S Fradio_mac$T3CTL$0$0 Def00CB
+S Fradio_mac$DEVIATN$0$0 DefDF11
+S Fradio_mac$T4CTL$0$0 Def00EB
+S Fradio_mac$T3CNT$0$0 Def00CA
+S Fradio_mac$RNDH$0$0 Def00BD
+S Fradio_mac$IEN0$0$0 Def00A8
+S Fradio_mac$DPH0$0$0 Def0083
+S Fradio_mac$SYNC0$0$0 DefDF01
+S Fradio_mac$T4CNT$0$0 Def00EA
+S Fradio_mac$IEN1$0$0 Def00B8
+S Fradio_mac$FADDRL$0$0 Def00AC
+S Fradio_mac$U0CSR$0$0 Def0086
+S Fradio_mac$DPH1$0$0 Def0085
+S .__.ABS. Def0000
+S Fradio_mac$I2SCFG0$0$0 DefDF40
+S Fradio_mac$SYNC1$0$0 DefDF00
+S Fradio_mac$P0IE$0$0 Def00BD
+S Fradio_mac$U1CSR$0$0 Def00F8
+S Fradio_mac$IEN2$0$0 Def009A
+S Fradio_mac$RFIM$0$0 Def0091
+A _CODE size 0 flags 0 addr 0
+A RSEG size 0 flags 8 addr 0
+A RSEG0 size 0 flags 8 addr 0
+A RSEG1 size 0 flags 8 addr 0
+A REG_BANK_0 size 8 flags 4 addr 0
+A REG_BANK_1 size 8 flags 4 addr 0
+A BIT_BANK size 1 flags 4 addr 0
+A DSEG size 1 flags 0 addr 0
+S _radioMacState Def0000
+S G$radioMacState$0$0 Def0000
+A OSEG size 0 flags 4 addr 0
+A ISEG size 0 flags 0 addr 0
+A IABS size 0 flags 8 addr 0
+A BSEG size 3 flags 80 addr 0
+S _radioTxUnderflowOccurred Def0002
+S G$radioTxUnderflowOccurred$0$0 Def0002
+S Fradio_mac$strobe$0$0 Def0000
+S _radioRxOverflowOccurred Def0001
+S G$radioRxOverflowOccurred$0$0 Def0001
+A PSEG size 1 flags 50 addr 0
+S _radioMacRx_PARM_2 Def0000
+S LradioMacRx$timeout$1$1 Def0000
+A XSEG size 0 flags 40 addr 0
+A XABS size 0 flags 48 addr 0
+A XISEG size 0 flags 40 addr 0
+A HOME size 0 flags 20 addr 0
+A GSINIT0 size 0 flags 20 addr 0
+A GSINIT1 size 0 flags 20 addr 0
+A GSINIT2 size 0 flags 20 addr 0
+A GSINIT3 size 0 flags 20 addr 0
+A GSINIT4 size 0 flags 20 addr 0
+A GSINIT5 size 0 flags 20 addr 0
+A GSINIT size 9 flags 20 addr 0
+S A$radio_mac$760 Def0007
+S A$radio_mac$752 Def0003
+S A$radio_mac$756 Def0005
+S A$radio_mac$748 Def0000
+S C$radio_mac.c$44$1$1 Def0003
+S C$radio_mac.c$55$1$1 Def0000
+S C$radio_mac.c$47$1$1 Def0005
+S C$radio_mac.c$48$1$1 Def0007
+A GSFINAL size 0 flags 20 addr 0
+A CSEG size 201 flags 20 addr 0
+S G$radioMacStrobe$0$0 Def013A
+S _radioMacRx Def0164
+S A$radio_mac$1001 Def0109
+S A$radio_mac$1200 Def01B1
+S A$radio_mac$1101 Def014F
+S A$radio_mac$1020 Def011F
+S _radioMacTx Def01C2
+S A$radio_mac$1210 Def01BD
+S A$radio_mac$1120 Def0163
+S A$radio_mac$1102 Def0152
+S A$radio_mac$1030 Def0129
+S A$radio_mac$1021 Def0122
+S A$radio_mac$1012 Def0115
+S A$radio_mac$1112 Def015B
+S A$radio_mac$1103 Def0154
+S A$radio_mac$1013 Def0117
+S A$radio_mac$1004 Def010C
+S XG$radioMacEvent$0$0 Def0139
+S C$radio_mac.c$122$3$11 Def009C
+S A$radio_mac$1203 Def01B2
+S A$radio_mac$1240 Def01D1
+S A$radio_mac$1213 Def01BE
+S A$radio_mac$1204 Def01B5
+S A$radio_mac$1150 Def0177
+S A$radio_mac$1141 Def016D
+S A$radio_mac$1132 Def0164
+S A$radio_mac$1051 Def0137
+S A$radio_mac$1042 Def0131
+S A$radio_mac$1033 Def012C
+S A$radio_mac$1250 Def01DE
+S A$radio_mac$1232 Def01C6
+S A$radio_mac$1205 Def01B7
+S A$radio_mac$1160 Def0182
+S A$radio_mac$1151 Def0178
+S A$radio_mac$1142 Def0170
+S A$radio_mac$1133 Def0166
+S A$radio_mac$1115 Def015D
+S A$radio_mac$1106 Def0155
+S A$radio_mac$1025 Def0124
+S A$radio_mac$1016 Def011A
+S A$radio_mac$1007 Def010F
+S A$radio_mac$1260 Def01E9
+S A$radio_mac$1233 Def01C8
+S A$radio_mac$1170 Def018D
+S A$radio_mac$1161 Def0184
+S A$radio_mac$1143 Def0171
+S A$radio_mac$1116 Def0160
+S A$radio_mac$1071 Def013C
+S A$radio_mac$1026 Def0127
+S A$radio_mac$1008 Def0112
+S C$radio_mac.c$135$2$12 Def00B0
+S A$radio_mac$1270 Def01F6
+S A$radio_mac$1261 Def01EA
+S A$radio_mac$1243 Def01D2
+S A$radio_mac$1234 Def01CB
+S A$radio_mac$1216 Def01C1
+S A$radio_mac$1171 Def0190
+S A$radio_mac$1117 Def0162
+S A$radio_mac$1054 Def0139
+S A$radio_mac$1045 Def0134
+S A$radio_mac$1009 Def0114
+S C$radio_mac.c$144$2$13 Def00BA
+S C$radio_mac.c$136$2$12 Def00B2
+S C$radio_mac.c$109$4$10 Def0090
+S A$radio_mac$1262 Def01EB
+S A$radio_mac$1253 Def01DF
+S A$radio_mac$1244 Def01D4
+S A$radio_mac$1235 Def01CC
+S A$radio_mac$1208 Def01B8
+S A$radio_mac$1181 Def0199
+S A$radio_mac$1172 Def0191
+S A$radio_mac$1154 Def017A
+S A$radio_mac$1136 Def0168
+S A$radio_mac$1109 Def0158
+S A$radio_mac$1091 Def0143
+S A$radio_mac$1019 Def011D
+S C$radio_mac.c$145$2$13 Def00BC
+S _radioMacInit Def0140
+S A$radio_mac$1281 Def0200
+S A$radio_mac$1263 Def01EC
+S A$radio_mac$1254 Def01E1
+S A$radio_mac$1245 Def01D6
+S A$radio_mac$1209 Def01BB
+S A$radio_mac$1182 Def019B
+S A$radio_mac$1155 Def017D
+S A$radio_mac$1146 Def0172
+S A$radio_mac$1137 Def016A
+S A$radio_mac$1092 Def0146
+S A$radio_mac$1074 Def013F
+S A$radio_mac$1038 Def012F
+S A$radio_mac$1273 Def01F7
+S A$radio_mac$1264 Def01EF
+S A$radio_mac$1255 Def01E4
+S A$radio_mac$1246 Def01D8
+S A$radio_mac$1228 Def01C2
+S A$radio_mac$1192 Def01A5
+S A$radio_mac$1183 Def019E
+S A$radio_mac$1165 Def0185
+S A$radio_mac$1138 Def016B
+S A$radio_mac$1093 Def0148
+S XG$radioMacRx$0$0 Def01C1
+S G$radioMacEvent$0$0 Def00DC
+S A$radio_mac$1274 Def01FA
+S A$radio_mac$1265 Def01F0
+S A$radio_mac$1256 Def01E5
+S A$radio_mac$1247 Def01D9
+S A$radio_mac$1238 Def01CD
+S A$radio_mac$1229 Def01C4
+S A$radio_mac$1193 Def01A8
+S A$radio_mac$1184 Def019F
+S A$radio_mac$1175 Def0192
+S A$radio_mac$1166 Def0187
+S A$radio_mac$1275 Def01FC
+S A$radio_mac$1248 Def01DA
+S A$radio_mac$1239 Def01D0
+S A$radio_mac$1194 Def01A9
+S A$radio_mac$1176 Def0194
+S A$radio_mac$1167 Def0189
+S A$radio_mac$1149 Def0175
+S A$radio_mac$1068 Def013A
+S XG$radioMacTx$0$0 Def0200
+S A$radio_mac$1249 Def01DD
+S A$radio_mac$1195 Def01AA
+S A$radio_mac$1177 Def0197
+S A$radio_mac$1168 Def018B
+S A$radio_mac$1159 Def017F
+S A$radio_mac$1096 Def0149
+S C$radio_mac.c$201$1$1 Def013A
+S A$radio_mac$1268 Def01F1
+S A$radio_mac$1259 Def01E6
+S A$radio_mac$1196 Def01AB
+S A$radio_mac$1187 Def01A0
+S A$radio_mac$1178 Def0198
+S A$radio_mac$1169 Def018C
+S A$radio_mac$1097 Def014C
+S A$radio_mac$1088 Def0140
+S C$radio_mac.c$211$1$1 Def0140
+S C$radio_mac.c$130$1$1 Def00AB
+S A$radio_mac$1278 Def01FD
+S A$radio_mac$1269 Def01F4
+S A$radio_mac$1197 Def01AC
+S A$radio_mac$1188 Def01A3
+S A$radio_mac$1098 Def014E
+S C$radio_mac.c$221$1$1 Def015B
+S C$radio_mac.c$203$1$1 Def013A
+S A$radio_mac$1198 Def01AD
+S A$radio_mac$1189 Def01A4
+S C$radio_mac.c$240$1$1 Def0185
+S C$radio_mac.c$204$1$1 Def013C
+S A$radio_mac$1199 Def01B0
+S C$radio_mac.c$250$1$1 Def01C1
+S C$radio_mac.c$241$1$1 Def0192
+S C$radio_mac.c$230$2$2 Def016D
+S C$radio_mac.c$223$1$1 Def015D
+S C$radio_mac.c$214$1$1 Def0143
+S C$radio_mac.c$205$1$1 Def013F
+S C$radio_mac.c$260$1$1 Def01E6
+S C$radio_mac.c$242$1$1 Def0199
+S C$radio_mac.c$231$2$2 Def0172
+S G$radioMacRx$0$0 Def0164
+S C$radio_mac.c$224$1$1 Def0163
+S C$radio_mac.c$215$1$1 Def0149
+S C$radio_mac.c$170$1$1 Def0106
+S C$radio_mac.c$261$1$1 Def01F1
+S C$radio_mac.c$243$1$1 Def01A0
+S C$radio_mac.c$232$2$2 Def0175
+S C$radio_mac.c$216$1$1 Def014F
+S C$radio_mac.c$171$1$1 Def0109
+S C$radio_mac.c$120$2$6 Def0092
+S C$radio_mac.c$244$1$1 Def01A5
+S C$radio_mac.c$233$2$2 Def017A
+S C$radio_mac.c$226$1$1 Def0164
+S XG$radioMacInit$0$0 Def0163
+S C$radio_mac.c$163$1$1 Def00DE
+S C$radio_mac.c$153$2$1 Def00DB
+S G$radioMacTx$0$0 Def01C2
+S A$radio_mac$800 Def0016
+S C$radio_mac.c$263$1$1 Def01F7
+S C$radio_mac.c$254$1$1 Def01C2
+S C$radio_mac.c$245$1$1 Def01B2
+S C$radio_mac.c$218$1$1 Def0155
+S C$radio_mac.c$209$1$1 Def0140
+S C$radio_mac.c$182$1$1 Def011A
+S A$radio_mac$900 Def009C
+S A$radio_mac$810 Def0024
+S A$radio_mac$801 Def0018
+S C$radio_mac.c$228$1$1 Def0168
+S C$radio_mac.c$219$1$1 Def0158
+S C$radio_mac.c$174$1$1 Def010C
+S C$radio_mac.c$155$2$1 Def00DC
+S A$radio_mac$820 Def0035
+S A$radio_mac$802 Def001A
+S C$radio_mac.c$265$1$1 Def01FD
+S C$radio_mac.c$256$1$1 Def01C6
+S C$radio_mac.c$247$1$1 Def01B8
+S C$radio_mac.c$190$2$3 Def012F
+S C$radio_mac.c$175$1$1 Def010F
+S C$radio_mac.c$139$1$1 Def00B5
+S A$radio_mac$911 Def00AB
+S A$radio_mac$830 Def0042
+S A$radio_mac$821 Def0038
+S A$radio_mac$803 Def001C
+S C$radio_mac.c$266$1$1 Def0200
+S C$radio_mac.c$257$1$1 Def01CD
+S C$radio_mac.c$191$2$3 Def012F
+S C$radio_mac.c$185$1$1 Def011D
+S C$radio_mac.c$176$1$1 Def0115
+S C$radio_mac.c$104$3$8 Def007D
+S C$radio_mac.c$102$4$9 Def007B
+S A$radio_mac$912 Def00AD
+S A$radio_mac$840 Def0050
+S A$radio_mac$831 Def0045
+S A$radio_mac$813 Def0027
+S C$radio_mac.c$258$1$1 Def01D2
+S C$radio_mac.c$249$1$1 Def01BE
+S C$radio_mac.c$237$2$3 Def017F
+S C$radio_mac.c$195$1$1 Def0137
+S C$radio_mac.c$192$2$3 Def0131
+S C$radio_mac.c$166$2$2 Def0103
+S _ISR_RF Def0000
+S A$radio_mac$940 Def00D1
+S A$radio_mac$931 Def00BF
+S A$radio_mac$922 Def00B5
+S A$radio_mac$904 Def009F
+S A$radio_mac$850 Def005F
+S A$radio_mac$841 Def0053
+S A$radio_mac$832 Def0048
+S A$radio_mac$814 Def0029
+S C$radio_mac.c$259$1$1 Def01DF
+S C$radio_mac.c$193$2$3 Def0134
+S C$radio_mac.c$127$2$6 Def009F
+S A$radio_mac$941 Def00D3
+S A$radio_mac$932 Def00C1
+S A$radio_mac$923 Def00B7
+S A$radio_mac$905 Def00A2
+S A$radio_mac$860 Def006B
+S A$radio_mac$851 Def0061
+S A$radio_mac$842 Def0056
+S A$radio_mac$806 Def001F
+S A$radio_mac$942 Def00D5
+S A$radio_mac$933 Def00C3
+S A$radio_mac$915 Def00B0
+S A$radio_mac$906 Def00A5
+S A$radio_mac$861 Def006E
+S A$radio_mac$843 Def0059
+S A$radio_mac$825 Def003A
+S G$radioMacInit$0$0 Def0140
+S C$radio_mac.c$198$1$1 Def0137
+S A$radio_mac$970 Def00DE
+S A$radio_mac$943 Def00D7
+S A$radio_mac$934 Def00C5
+S A$radio_mac$907 Def00A8
+S A$radio_mac$880 Def0085
+S A$radio_mac$862 Def006F
+S A$radio_mac$826 Def003C
+S A$radio_mac$817 Def002C
+S A$radio_mac$790 Def0002
+S C$radio_mac.c$199$1$1 Def0139
+S C$radio_mac.c$187$2$3 Def0124
+S A$radio_mac$980 Def00F0
+S A$radio_mac$971 Def00E1
+S A$radio_mac$944 Def00D9
+S A$radio_mac$935 Def00C7
+S A$radio_mac$926 Def00BA
+S A$radio_mac$881 Def0088
+S A$radio_mac$872 Def007B
+S A$radio_mac$863 Def0070
+S A$radio_mac$854 Def0064
+S A$radio_mac$836 Def004B
+S A$radio_mac$818 Def002F
+S A$radio_mac$809 Def0022
+S A$radio_mac$791 Def0004
+S C$radio_mac.c$188$2$3 Def0129
+S A$radio_mac$990 Def0101
+S A$radio_mac$972 Def00E2
+S A$radio_mac$936 Def00C9
+S A$radio_mac$918 Def00B2
+S A$radio_mac$837 Def004D
+S A$radio_mac$819 Def0032
+S A$radio_mac$792 Def0006
+S C$radio_mac.c$189$2$3 Def012C
+S A$radio_mac$982 Def00F2
+S A$radio_mac$973 Def00E3
+S A$radio_mac$937 Def00CB
+S A$radio_mac$892 Def0092
+S A$radio_mac$883 Def008A
+S A$radio_mac$847 Def005C
+S A$radio_mac$829 Def003F
+S A$radio_mac$793 Def0008
+S A$radio_mac$983 Def00F5
+S A$radio_mac$974 Def00E6
+S A$radio_mac$947 Def00DB
+S A$radio_mac$938 Def00CD
+S A$radio_mac$929 Def00BC
+S A$radio_mac$893 Def0095
+S A$radio_mac$884 Def008C
+S A$radio_mac$866 Def0073
+S A$radio_mac$794 Def000A
+S C$radio_mac.c$61$1$1 Def0022
+S A$radio_mac$984 Def00F6
+S A$radio_mac$939 Def00CF
+S A$radio_mac$894 Def0096
+S A$radio_mac$885 Def008E
+S A$radio_mac$876 Def007D
+S A$radio_mac$867 Def0076
+S A$radio_mac$858 Def0066
+S A$radio_mac$795 Def000C
+S A$radio_mac$994 Def0103
+S A$radio_mac$985 Def00F7
+S A$radio_mac$976 Def00E8
+S A$radio_mac$967 Def00DC
+S A$radio_mac$895 Def0097
+S A$radio_mac$877 Def0080
+S A$radio_mac$868 Def0077
+S A$radio_mac$859 Def0068
+S A$radio_mac$796 Def000E
+S _radioMacStrobe Def013A
+S A$radio_mac$986 Def00F9
+S A$radio_mac$977 Def00EB
+S A$radio_mac$896 Def009A
+S A$radio_mac$878 Def0081
+S A$radio_mac$869 Def0078
+S A$radio_mac$797 Def0010
+S C$radio_mac.c$57$0$0 Def0000
+S A$radio_mac$987 Def00FC
+S A$radio_mac$978 Def00EC
+S A$radio_mac$888 Def0090
+S A$radio_mac$879 Def0082
+S A$radio_mac$798 Def0012
+S A$radio_mac$789 Def0000
+S XG$ISR_RF$0$0 Def00DB
+S C$radio_mac.c$83$1$1 Def005C
+S C$radio_mac.c$63$2$2 Def0027
+S A$radio_mac$988 Def00FD
+S A$radio_mac$979 Def00ED
+S A$radio_mac$799 Def0014
+S A$radio_mac$998 Def0106
+S A$radio_mac$989 Def00FE
+S C$radio_mac.c$80$2$5 Def0050
+S C$radio_mac.c$76$1$1 Def004B
+S C$radio_mac.c$72$3$4 Def003F
+S C$radio_mac.c$59$1$1 Def001F
+S C$radio_mac.c$68$2$2 Def003A
+S C$radio_mac.c$66$3$3 Def002C
+S C$radio_mac.c$91$3$7 Def0064
+S C$radio_mac.c$94$2$6 Def0066
+S G$ISR_RF$0$0 Def0000
+S XG$radioMacStrobe$0$0 Def013F
+S C$radio_mac.c$87$2$6 Def005F
+S C$radio_mac.c$96$3$8 Def0073
+A CONST size 0 flags 20 addr 0
+A XINIT size 0 flags 20 addr 0
+A CABS size 0 flags 28 addr 0
+T 00 00
+R 00 00 00 02
+T 00 00
+R 00 00 00 03
+T 00 00
+R 00 00 00 04
+T 00 00
+R 00 00 00 05
+T 00 00
+R 00 00 00 06
+T 00 00
+R 00 00 00 06
+T 00 00
+R 00 00 00 07
+T 00 00
+R 00 00 00 07
+T 00 00
+R 00 00 00 0B
+T 00 00
+R 00 00 00 0B
+T 00 01
+R 00 00 00 0B
+T 00 01
+R 00 00 00 0B
+T 00 02
+R 00 00 00 0B
+T 00 02
+R 00 00 00 0B
+T 00 00
+R 00 00 00 0C
+T 00 00
+R 00 00 00 0C
+T 00 00 75 00 00 00 00 C2 00 00 00 C2
+R 00 00 00 17 F1 21 03 00 07 F1 21 08 00 0B
+T 00 06 00 00 01 C2 00 00 02
+R 00 00 00 17 F1 21 02 00 0B F1 21 06 00 0B
+T 00 00
+R 00 00 00 19
+T 00 00 C0 00 00 00 C0 E0 C0 F0 C0 82 C0 83 C0 02
+R 00 00 00 19 F1 21 03 00 06
+T 00 0C C0 03 C0 04 C0 05 C0 06 C0 07 C0 00 C0 01
+R 00 00 00 19
+T 00 1A C0 D0 75 D0 08 75 9B 00 E5 E9 30 E4 24 74
+R 00 00 00 19
+T 00 28 03 B5 00 00 00 0E 75 82 1E 75 D0 00 12
+R 00 00 00 19 F1 21 04 00 07
+T 00 33 00 DC 75 D0 08 80 11
+R 00 00 00 19 00 02 00 19
+T 00 3A
+R 00 00 00 19
+T 00 3A 74 02 B5 00 00 00 0C 75 82 1F 75 D0 00 12
+R 00 00 00 19 F1 21 05 00 07
+T 00 46 00 DC 75 D0 08
+R 00 00 00 19 00 02 00 19
+T 00 4B
+R 00 00 00 19
+T 00 4B E5 E9 30 E5 0C 75 82 20 75 D0 00 12 00 DC
+R 00 00 00 19 00 0E 00 19
+T 00 59 75 D0 08
+R 00 00 00 19
+T 00 5C
+R 00 00 00 19
+T 00 5C 30 00 00 00 4C 74 03 B5 00 00 00 02 80 59
+R 00 00 00 19 F1 21 03 00 0B F1 21 0A 00 07
+T 00 66
+R 00 00 00 19
+T 00 66 74 02 B5 00 00 00 27 90 DF 3B E0 FA BA 0D
+R 00 00 00 19 F1 21 05 00 07
+T 00 72 1F 90 DF 3C E0 FA 30 E3 02 80 42
+R 00 00 00 19
+T 00 7D
+R 00 00 00 19
+T 00 7D 90 DF 12 E0 FA 53 0A 07 BA 07 02 80 08
+R 00 00 00 19
+T 00 8A
+R 00 00 00 19
+T 00 8A 74 F6 25 A4 40 02 80 2D
+R 00 00 00 19
+T 00 92
+R 00 00 00 19
+T 00 92 90 DF 3B E0 FA BA 0D 02 80 03
+R 00 00 00 19
+T 00 9C
+R 00 00 00 19
+T 00 9C 75 E1 04
+R 00 00 00 19
+T 00 9F
+R 00 00 00 19
+T 00 9F 75 82 21 75 D0 00 12 00 DC 75 D0 08
+R 00 00 00 19 00 09 00 19
+T 00 AB
+R 00 00 00 19
+T 00 AB E5 E9 30 E7 05 D2 00 00 02 75 E9 7F
+R 00 00 00 19 F1 21 08 00 0B
+T 00 B5
+R 00 00 00 19
+T 00 B5 E5 E9 30 E6 05 D2 00 00 01 75 E9 BF
+R 00 00 00 19 F1 21 08 00 0B
+T 00 BF
+R 00 00 00 19
+T 00 BF D0 D0 D0 01 D0 00 D0 07 D0 06 D0 05 D0 04
+R 00 00 00 19
+T 00 CD D0 03 D0 02 D0 83 D0 82 D0 F0 D0 E0 D0
+R 00 00 00 19
+T 00 DA 00 00 00 32
+R 00 00 00 19 F1 21 02 00 06
+T 00 DC
+R 00 00 00 19
+T 00 DC AA 82 90 DF 3B E0 FB BB 12 02 80 1E
+R 00 00 00 19
+T 00 E8
+R 00 00 00 19
+T 00 E8 90 DF 3B E0 FB BB 01 02 80 14
+R 00 00 00 19
+T 00 F2
+R 00 00 00 19
+T 00 F2 90 DF 3B E0 FB 60 0D 90 DF 3B E0 FB BB 15
+R 00 00 00 19
+T 01 00 02 80 03
+R 00 00 00 19
+T 01 03
+R 00 00 00 19
+T 01 03 75 E1 00
+R 00 00 00 19
+T 01 06
+R 00 00 00 19
+T 01 06 75 D6 82 53 D1 FD 75 00 00 00 02 90 DF 12
+R 00 00 00 19 F1 21 09 00 07
+T 01 12 74 07 F0 8A 82 12 00 00 75 E9 CF AA
+R 00 00 00 19 02 08 00 B9
+T 01 1E 00 00 00 BA 02 02 80 05
+R 00 00 00 19 F1 21 02 00 07
+T 01 24
+R 00 00 00 19
+T 01 24 BA 03 10 80 08
+R 00 00 00 19
+T 01 29
+R 00 00 00 19
+T 01 29 43 D6 02 75 E1 02 80 06
+R 00 00 00 19
+T 01 31
+R 00 00 00 19
+T 01 31 43 D6 02 75 E1 03
+R 00 00 00 19
+T 01 37
+R 00 00 00 19
+T 01 37 C2 00 00 00 22
+R 00 00 00 19 F1 21 03 00 0B
+T 01 3A
+R 00 00 00 19
+T 01 3A D2 00 00 00 43 9B 03 22
+R 00 00 00 19 F1 21 03 00 0B
+T 01 40
+R 00 00 00 19
+T 01 40 12 00 00 90 DF 14 74 14 F0 90 DF 13 74 05
+R 00 00 00 19 02 03 01 23
+T 01 4E F0 90 DF 12 74 07 F0 43 9A 01 75 91 F0 D2
+R 00 00 00 19
+T 01 5C AF 90 00 06 74 13 F0 22
+R 00 00 00 19 02 04 00 40
+T 01 64
+R 00 00 00 19
+T 01 64 AA 82 AB 83 78 00 00 00 E2 60 12 90 DF 12
+R 00 00 00 19 F1 01 07 00 0C
+T 01 70 E4 F0 75 A2 00 78 00 00 00 E2 F5 A4 75 A3
+R 00 00 00 19 F1 01 08 00 0C
+T 01 7C 00 80 06
+R 00 00 00 19
+T 01 7F
+R 00 00 00 19
+T 01 7F 90 DF 12 74 07 F0
+R 00 00 00 19
+T 01 85
+R 00 00 00 19
+T 01 85 7C D9 7D 00 74 DF 2D FC 90 00 00 EC F0 7C
+R 00 00 00 19 02 0B 00 40
+T 01 93 D9 90 00 01 EC F0 8B 04 90 00 02 EC F0 90
+R 00 00 00 19 02 04 00 40 02 0B 00 40
+T 01 A1 00 03 EA F0 90 DF 02 E0 FA 0A 0A 0A 90
+R 00 00 00 19 02 02 00 40
+T 01 AE 00 05 EA F0 90 00 04 74 80 F0 90
+R 00 00 00 19 02 02 00 40 02 07 00 40
+T 01 B9 00 07 74 10 F0 75 00 00 00 02 22
+R 00 00 00 19 02 02 00 40 F1 21 08 00 07
+T 01 C2
+R 00 00 00 19
+T 01 C2 AA 82 AB 83 8B 04 90 00 00 EC F0 90 00 01
+R 00 00 00 19 02 09 00 40 02 0E 00 40
+T 01 D0 EA F0 7A D9 7B 00 74 DF 2B FA 90 00 02 EA
+R 00 00 00 19 02 0D 00 40
+T 01 DE F0 7A D9 90 00 03 EA F0 90 DF 02 E0 FA 0A
+R 00 00 00 19 02 06 00 40
+T 01 EC 90 00 05 EA F0 90 00 04 74 20 F0 90
+R 00 00 00 19 02 03 00 40 02 08 00 40
+T 01 F8 00 07 74 40 F0 75 00 00 00 03 22
+R 00 00 00 19 02 02 00 40 F1 21 08 00 07
+</REL>
+<ADB>
+M:radio_mac
+F:G$ISR_RF$0$0({2}DF,SV:S),Z,0,0,1,16,1
+F:G$radioMacEvent$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacStrobe$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacInit$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacRx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacTx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+T:Fradio_mac$__00010000[({0}S:S$SRCADDRH$0$0({1}SC:U),Z,0,0)({1}S:S$SRCADDRL$0$0({1}SC:U),Z,0,0)({2}S:S$DESTADDRH$0$0({1}SC:U),Z,0,0)({3}S:S$DESTADDRL$0$0({1}SC:U),Z,0,0)({4}S:S$VLEN_LENH$0$0({1}SC:U),Z,0,0)({5}S:S$LENL$0$0({1}SC:U),Z,0,0)({6}S:S$DC6$0$
+0({1}SC:U),Z,0,0)({7}S:S$DC7$0$0({1}SC:U),Z,0,0)]
+T:Fradio_mac$DMA14_CONFIG[({0}S:S$radio$0$0({8}ST__00010000:S),Z,0,0)({8}S:S$_2$0$0({8}ST__00010000:S),Z,0,0)({16}S:S$_3$0$0({8}ST__00010000:S),Z,0,0)({24}S:S$_4$0$0({8}ST__00010000:S),Z,0,0)]
+F:G$radioMacTx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacTx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacTx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+F:G$radioMacTx$0$0({2}DF,SV:S),Z,0,0,0,0,0
+S:G$radioMacState$0$0({1}SC:U),E,0,0
+S:Fradio_mac$strobe$0$0({1}SB0$1:U),H,0,0
+S:G$radioRxOverflowOccurred$0$0({1}SB0$1:U),H,0,0
+S:G$radioTxUnderflowOccurred$0$0({1}SB0$1:U),H,0,0
+S:LradioMacEvent$event$1$1({1}SC:U),R,0,0,[r2]
+S:LradioMacRx$timeout$1$1({1}SC:U),P,0,0
+S:LradioMacRx$packet$1$1({2}DX,SC:U),R,0,0,[r2,r3]
+S:LradioMacTx$packet$1$1({2}DX,SC:U),R,0,0,[r2,r3]
+S:Fradio_mac$SYNC1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$SYNC0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PKTLEN$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PKTCTRL1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PKTCTRL0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$ADDR$0$0({1}SC:U),F,0,0
+S:Fradio_mac$CHANNR$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCTRL1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCTRL0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREQ2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREQ1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREQ0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MDMCFG4$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MDMCFG3$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MDMCFG2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MDMCFG1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MDMCFG0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$DEVIATN$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MCSM2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MCSM1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MCSM0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FOCCFG$0$0({1}SC:U),F,0,0
+S:Fradio_mac$BSCFG$0$0({1}SC:U),F,0,0
+S:Fradio_mac$AGCCTRL2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$AGCCTRL1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$AGCCTRL0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREND1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREND0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCAL3$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCAL2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCAL1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FSCAL0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$TEST2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$TEST1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$TEST0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PA_TABLE0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$IOCFG2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$IOCFG1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$IOCFG0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PARTNUM$0$0({1}SC:U),F,0,0
+S:Fradio_mac$VERSION$0$0({1}SC:U),F,0,0
+S:Fradio_mac$FREQEST$0$0({1}SC:U),F,0,0
+S:Fradio_mac$LQI$0$0({1}SC:U),F,0,0
+S:Fradio_mac$RSSI$0$0({1}SC:U),F,0,0
+S:Fradio_mac$MARCSTATE$0$0({1}SC:U),F,0,0
+S:Fradio_mac$PKTSTATUS$0$0({1}SC:U),F,0,0
+S:Fradio_mac$VCO_VC_DAC$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SCFG0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SCFG1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SDATL$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SDATH$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SWCNT$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SSTAT$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SCLKF0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SCLKF1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$I2SCLKF2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBADDR$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBPOW$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBIIF$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBOIF$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCIF$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBIIE$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBOIE$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCIE$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBFRML$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBFRMH$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBINDEX$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBMAXI$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCSIL$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCSIH$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBMAXO$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCSOL$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCSOH$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCNTL$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBCNTH$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF0$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF1$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF2$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF3$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF4$0$0({1}SC:U),F,0,0
+S:Fradio_mac$USBF5$0$0({1}SC:U),F,0,0
+S:G$dmaConfig$0$0({32}STDMA14_CONFIG:S),F,0,0
+S:Fradio_mac$P0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$SP$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DPL0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DPH0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DPL1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DPH1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U0CSR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$PCON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$TCON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P0IFG$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1IFG$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P2IFG$0$0({1}SC:U),I,0,0
+S:Fradio_mac$PICTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1IEN$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P0INP$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RFIM$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DPS$0$0({1}SC:U),I,0,0
+S:Fradio_mac$MPAGE$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ENDIAN$0$0({1}SC:U),I,0,0
+S:Fradio_mac$S0CON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IEN2$0$0({1}SC:U),I,0,0
+S:Fradio_mac$S1CON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T2CT$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T2PR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T2CTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P2$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WORIRQ$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WORCTRL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WOREVT0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WOREVT1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WORTIME0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WORTIME1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IEN0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IP0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$FWT$0$0({1}SC:U),I,0,0
+S:Fradio_mac$FADDRL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$FADDRH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$FCTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$FWDATA$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ENCDI$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ENCDO$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ENCCS$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCCON1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCCON2$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCCON3$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IEN1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IP1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RNDL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RNDH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$SLEEP$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IRCON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U0DBUF$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U0BAUD$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U0UCR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U0GCR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$CLKCON$0$0({1}SC:U),I,0,0
+S:Fradio_mac$MEMCTR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$WDCTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CNT$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CCTL0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CC0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CCTL1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T3CC1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$PSW$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMAIRQ$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMA1CFGL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMA1CFGH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMA0CFGL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMA0CFGH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMAARM$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMAREQ$0$0({1}SC:U),I,0,0
+S:Fradio_mac$TIMIF$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RFD$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC0L$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC0H$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC1L$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC1H$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC2L$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CC2H$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ACC$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RFST$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CNTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CNTH$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CCTL0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CCTL1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T1CCTL2$0$0({1}SC:U),I,0,0
+S:Fradio_mac$IRCON2$0$0({1}SC:U),I,0,0
+S:Fradio_mac$RFIF$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CNT$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CTL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CCTL0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CC0$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CCTL1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$T4CC1$0$0({1}SC:U),I,0,0
+S:Fradio_mac$B$0$0({1}SC:U),I,0,0
+S:Fradio_mac$PERCFG$0$0({1}SC:U),I,0,0
+S:Fradio_mac$ADCCFG$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P0SEL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1SEL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P2SEL$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1INP$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P2INP$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U1CSR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U1DBUF$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U1BAUD$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U1UCR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$U1GCR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P0DIR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P1DIR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$P2DIR$0$0({1}SC:U),I,0,0
+S:Fradio_mac$DMA0CFG$0$0({2}SI:U),I,0,0
+S:Fradio_mac$DMA1CFG$0$0({2}SI:U),I,0,0
+S:Fradio_mac$FADDR$0$0({2}SI:U),I,0,0
+S:Fradio_mac$ADC$0$0({2}SI:U),I,0,0
+S:Fradio_mac$P0_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0_7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_TCON_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$RFTXRXIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_TCON_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$URX0IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_TCON_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ADCIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_TCON_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$URX1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1_7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ENCIF_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ENCIF_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_SOCON7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2_7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$RFTXRXIE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ADCIE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$URX0IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$URX1IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ENCIE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$STIE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IEN06$0$0({1}SX:U),J,0,0
+S:Fradio_mac$EA$0$0({1}SX:U),J,0,0
+S:Fradio_mac$DMAIE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T1IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T2IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T3IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T4IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0IE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IEN16$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IEN17$0$0({1}SX:U),J,0,0
+S:Fradio_mac$DMAIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T2IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T3IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T4IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P0IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IRCON6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$STIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P$0$0({1}SX:U),J,0,0
+S:Fradio_mac$F1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$OV$0$0({1}SX:U),J,0,0
+S:Fradio_mac$RS0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$RS1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$F0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$AC$0$0({1}SX:U),J,0,0
+S:Fradio_mac$CY$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T3OVFIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T3CH0IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T3CH1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T4OVFIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T4CH0IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$T4CH1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$OVFIM$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_TIMIF7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$ACC_7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P2IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$UTX0IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$UTX1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$P1IF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$WDTIF$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IRCON25$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IRCON26$0$0({1}SX:U),J,0,0
+S:Fradio_mac$_IRCON27$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_0$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_1$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_2$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_3$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_4$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_5$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_6$0$0({1}SX:U),J,0,0
+S:Fradio_mac$B_7$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1ACTIVE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1TX_BYTE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1RX_BYTE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1ERR$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1FE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1SLAVE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1RE$0$0({1}SX:U),J,0,0
+S:Fradio_mac$U1MODE$0$0({1}SX:U),J,0,0
+S:G$radioMacEventHandler$0$0({2}DF,SV:S),C,0,0
+S:G$dmaInit$0$0({2}DF,SV:S),C,0,0
+S:G$radioRegistersInit$0$0({2}DF,SV:S),C,0,0
+S:G$radioLqi$0$0({2}DF,SC:U),C,0,0
+S:G$radioRssi$0$0({2}DF,SC:S),C,0,0
+S:G$radioCrcPassed$0$0({2}DF,SB0$1:U),C,0,0
+S:G$randomSeedFromAdc$0$0({2}DF,SV:S),C,0,0
+S:G$randomSeedFromSerialNumber$0$0({2}DF,SV:S),C,0,0
+S:G$randomNumber$0$0({2}DF,SC:U),C,0,0
+S:G$randomSeed$0$0({2}DF,SV:S),C,0,0
+</ADB>
+</FILE>
+
+</FILES>
+
+</SDCCLIB>

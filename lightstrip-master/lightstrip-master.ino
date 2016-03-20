@@ -248,6 +248,59 @@ LightingService lighting;
 SmartThingsCallout_t messageCallout;
 SmartThings smartthing(PIN_THING_RX, PIN_THING_TX, messageCallout);
 
+// Generate RGB uint32  color.
+#define RGB(r, g, b) ((b << 16) | (g << 8) | (r))
+
+// Generate RGB color from HSV.
+// H: Hue in the range of [0, 239] 
+// S: Saturation in the range of [0, 255]
+//      0 produces least saturated color, so modulating V changes result from black to white.
+//      255 is the most saturated color, V allows to change result from black to fully saturated value.
+// V: Value in the range [0, 255]
+unsigned long hsvToRgb(int h, int s, int v) 
+{
+  unsigned long i, f;
+
+  unsigned long m, n, v32 = v;
+  
+  if ((s < 0) || (s > 255) || (v < 0) || (v > 255))
+  {
+    return RGB(0, 0, 0);
+  }
+  if (h < 0 || h > 239) 
+  {
+    return RGB(255, 255, 255);
+  }
+  i = h / 40;
+  f = h - i * 40;
+  if (!(i & 1))
+  {
+    f = 40 - f;
+  }
+
+  m = (v * (255 - s)) / 256;
+  n = (v * (255 - s * f / 40)) / 256;
+
+  Serial.println(i);
+  Serial.println(v32);
+  Serial.println(m);
+  Serial.println(n);
+  
+  switch (i) 
+  {
+    case 6:
+    case 0: return RGB(v32, n, m);
+    case 1: return RGB(n, v32, m);
+    case 2: return RGB(m, v32, n);
+    case 3: return RGB(m, n, v32);
+    case 4: return RGB(n, m, v32);
+    case 5: return RGB(v32, m, n);
+  }
+
+  // Should never happen.
+  return RGB(0, 0, 0);
+}
+
 void configureColor(String& message) {
   int h;
   int s;
@@ -264,6 +317,19 @@ void configureColor(String& message) {
   Serial.print(v);
   Serial.println();
 #endif        
+
+  unsigned long rgb = hsvToRgb(h, s, v);
+
+Serial.println(rgb);
+  Serial.print("RGB ");
+  Serial.print((rgb & 0xff) >> 5);
+  Serial.print(" ");
+  Serial.print(((rgb >> 8) & 0xff) >> 5);
+  Serial.print(" ");
+  Serial.print(((rgb >> 16) & 0xff) >> 5);
+  Serial.println();
+  
+  smartthing.shieldSetLED((rgb & 0xff) >> 5, ((rgb >> 8) & 0xff) >> 5, ((rgb >> 16) & 0xff) >> 5);
 
   lighting.configureColor(h, s, v);
 }
